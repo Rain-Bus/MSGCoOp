@@ -1,0 +1,2384 @@
+{
+    "abbey": [
+        "An abbey scene has religious architecture and historical elements, unlike other scenes which lack these specific features.",
+        "An abbey scene is recognized by its religious architecture, often with large stone structures and historical elements.",
+        "An abbey scene can be identified by its religious architecture, stone structures, and often a tranquil, historical setting.",
+        "An abbey scene uniquely features a religious or monastic building with historical or architectural significance."
+    ],
+    "airplane cabin": [
+        "An airplane cabin has narrow aisles and seats, unlike open spaces found in other scenes.",
+        "Look for enclosed spaces with seats, windows, and overhead compartments typical of an airplane interior.",
+        "An airplane cabin scene is a confined interior with seats, overhead bins, and passengers in a flying aircraft.",
+        "The presence of overhead storage bins is unique to airplane cabin scenes."
+    ],
+    "airport terminal": [
+        "Airport terminals have large, open indoor spaces with check-in counters, luggage carts, and many people.",
+        "Look for large indoor spaces with check-in counters, gates, luggage carts, and many people moving around.",
+        "Airport terminals have more people, luggage, and travel signs than most other indoor or outdoor scenes.",
+        "Large indoor spaces with multiple gates, departure boards, and people waiting are unique to airport terminals."
+    ],
+    "alley": [
+        "Alley scenes have narrow, winding paths bordered by walls or buildings on both sides.",
+        "An alley scene is a narrow, often urban path between buildings, usually with walls on both sides.",
+        "An alley scene has narrow, enclosed paths with walls, unlike open spaces like streets or parks.",
+        "Alley scenes have narrow, winding paths with high walls and often dim lighting compared to open areas."
+    ],
+    "amphitheater": [
+        "Look for a large open-air venue with tiered seating arranged in a circular or horseshoe shape.",
+        "An amphitheater scene is a large outdoor venue with tiered seating, often used for performances or events.",
+        "An amphitheater scene has a curved, open structure for performances, unlike flat or enclosed spaces.",
+        "Amphitheaters have distinct curved seating and open-air stages, unlike other enclosed or flat-surfaced venues."
+    ],
+    "amusement arcade": [
+        "Look for bright lights, colorful games, and lots of people in a small, indoor space.",
+        "Amusement arcades have bright lights and game machines, unlike other scenes which lack these specific features.",
+        "Amusement arcades have bright lights, colorful games, and crowds of people, unlike other indoor or outdoor scenes.",
+        "Amusement arcades have visible gaming machines and flashing lights not found in other scene types."
+    ],
+    "amusement park": [
+        "Amusement parks have distinct features like rides, roller coasters, and crowds, which set them apart from other scenes.",
+        "Look for bright colors, rides, crowds, and fun structures like roller coasters or carousels.",
+        "Amusement parks have bright colors and large structures, unlike other scenes which vary in natural or urban elements.",
+        "An amusement park scene features rides, attractions, and crowds in a fun, recreational outdoor setting."
+    ],
+    "anechoic chamber": [
+        "An anechoic chamber has sound-absorbing walls and no reflections, unlike other scenes with hard surfaces and echoes.",
+        "An anechoic chamber has sound-absorbing walls with no reflections, making it visually distinct from other rooms.",
+        "An anechoic chamber is a soundproof room with sound-absorbing walls, used to test acoustics.",
+        "An anechoic chamber has sound-absorbing walls, minimal reflections, and a stark, uniform environment with no echoes."
+    ],
+    "outdoor apartment building": [
+        "Outdoor apartment buildings have multiple floors and windows, unlike single-story homes or natural landscapes.",
+        "Look for tall structures with windows, balconies, and surrounding outdoor elements like streets or lawns.",
+        "Outdoor apartment buildings have distinct multi-story structures with windows, balconies, and urban surroundings.",
+        "Outdoor apartment buildings have visible multiple-story residential structures with balconies or windows facing the street."
+    ],
+    "indoor apse": [
+        "An indoor apse scene is a rounded, vaulted architectural space often found in religious buildings.",
+        "Look for a rounded or vaulted ceiling with religious or ceremonial elements inside a building.",
+        "An indoor apse has a rounded, domed ceiling and often religious decorations, distinguishing it from other indoor spaces.",
+        "An indoor apse scene has a rounded, vaulted ceiling and religious decor, unlike most other scenes."
+    ],
+    "aquarium": [
+        "Look for clear water, fish, and glass walls to distinguish an aquarium from other scenes.",
+        "An aquarium scene has water and fish, while other scenes lack these aquatic elements.",
+        "An aquarium scene has clear water, colorful fish, and glass walls for viewing underwater life.",
+        "An aquarium scene features fish tanks with colorful marine life in a controlled indoor environment."
+    ],
+    "aqueduct": [
+        "Look for long, arched stone or concrete structures carrying water across valleys or other obstacles.",
+        "Aqueduct scenes have tall, arched stone structures carrying water, distinguishing them from other architectural or natural scenes.",
+        "Aqueducts have large, man-made stone or concrete structures designed to carry water across valleys or obstacles.",
+        "Aqueduct scenes have large stone structures with arches, unlike other scenes which lack such distinctive architectural features."
+    ],
+    "arch": [
+        "Arch scenes have distinct curved structures and openings, unlike flat or open spaces in other scenes.",
+        "Arch scenes have distinct curved structures, unlike other scenes that lack these specific architectural features.",
+        "Look for structures with curved openings or supports, often found in historical or monumental settings.",
+        "Arches have a distinct curved, open structure that frames a view, unlike other scene types."
+    ],
+    "archive": [
+        "An archive scene is distinct by its organized, stored items and structured, often indoor, setting.",
+        "An archive scene is a place where documents and items are stored for preservation and future reference.",
+        "Archives are uniquely characterized by the presence of neatly organized, stacked, or shelved documents and records.",
+        "An archive scene has old, organized items stored neatly, often in a dimly lit, structured space."
+    ],
+    "outdoor arrival gate": [
+        "An outdoor arrival gate scene is a place where people enter or exit, often with transportation nearby.",
+        "An outdoor arrival gate has distinct features like ticket counters, waiting areas, and transportation symbols.",
+        "Look for structures like ticket counters, waiting areas, and transportation signs typical of arrival gates.",
+        "Outdoor arrival gates have visible transportation signs like flight numbers or destination boards."
+    ],
+    "art gallery": [
+        "Art galleries have framed artworks on walls, while other scenes show natural or everyday environments without such displays.",
+        "Art galleries have distinct features like framed artworks on walls and often minimal furniture in a spacious setting.",
+        "Look for large, open spaces with framed artworks on walls and minimal clutter.",
+        "An art gallery scene features walls displaying various artworks, often with people viewing them in a spacious room."
+    ],
+    "art school": [
+        "Art school scenes have more paint supplies and creative tools than other typical indoor or outdoor scenes.",
+        "Look for classrooms with art supplies, easels, and creative displays to spot an art school scene.",
+        "Art school scenes have distinct features like easels, canvases, and art supplies arranged in a studio setting.",
+        "An art school scene features classrooms with easels, art supplies, and students creating or studying art."
+    ],
+    "art studio": [
+        "An art studio scene has more paint supplies and creative tools than other types of scenes.",
+        "Look for tools, canvases, and creative materials arranged in a space meant for making art.",
+        "An art studio scene features creative tools and materials, often with paintings or sculptures, in a bright space.",
+        "An art studio scene has distinct features like easels, canvases, paints, and creative tools arranged for making art."
+    ],
+    "assembly line": [
+        "Assembly lines have distinct, repetitive machinery, conveyors, and uniform worker movements, unlike other scene types.",
+        "Assembly lines have organized, repetitive structures with machinery and workers, unlike natural or cluttered scenes.",
+        "Look for repetitive machinery, conveyor belts, and workers performing tasks in an organized, linear production setup.",
+        "Repetitive arrangement of machinery and workers performing sequential tasks in a linear flow."
+    ],
+    "outdoor athletic field": [
+        "Outdoor athletic fields have grass, lines, and sports equipment, unlike other scenes with different natural or built elements.",
+        "An outdoor athletic field scene is a grassy area with lines and often sports equipment or players.",
+        "Outdoor athletic fields have distinct lines, markings, and open spaces for sports, unlike other natural or built scenes.",
+        "Look for open grassy areas with lines, goals, or courts, often with players or equipment."
+    ],
+    "public atrium": [
+        "A public atrium has high ceilings and open spaces, unlike enclosed rooms or outdoor scenes.",
+        "A public atrium has a large open indoor space with high ceilings and natural light.",
+        "A public atrium has a large, open indoor space with a glass ceiling for natural light.",
+        "A public atrium scene is a large indoor open space with high ceilings and often glass walls."
+    ],
+    "attic": [
+        "Look for sloped ceilings, exposed beams, and cluttered storage spaces typical of upper-floor rooms.",
+        "An attic scene is a cluttered, often dimly lit space with stored items and old furniture.",
+        "An attic scene has cluttered, dim lighting, and old items, unlike bright, organized, or modern spaces.",
+        "An attic scene has distinct features like cluttered items, sloped ceilings, and small windows."
+    ],
+    "auditorium": [
+        "An auditorium scene is a large room with seating for an audience and a stage or platform.",
+        "Look for large open spaces with seating, often with a stage or performance area.",
+        "An auditorium has a large open space with seating rows and a stage, often with high ceilings.",
+        "Auditoriums have a large, open space with tiered seating facing a central stage or performance area."
+    ],
+    "auto factory": [
+        "Look for large buildings with assembly lines, vehicles, and industrial equipment inside or nearby.",
+        "An auto factory scene has machinery and vehicles, unlike natural or urban scenes with plants or buildings.",
+        "An auto factory scene has distinct features like assembly lines, large machinery, and metal structures.",
+        "Large, interconnected buildings with visible assembly lines and machinery are unique to auto factory scenes."
+    ],
+    "badlands": [
+        "Badlands scenes have unique, rugged terrain with eroded rock formations and sparse vegetation.",
+        "Badlands have rugged, eroded terrain with few plants, unlike other scenes that often have more vegetation or smoother surfaces.",
+        "A badlands scene is a dry, rugged area with eroded rock formations and sparse vegetation.",
+        "Badlands scenes have unique eroded rock formations and arid landscapes with minimal vegetation."
+    ],
+    "indoor badminton court": [
+        "Indoor badminton courts have high ceilings, bright lighting, wooden floors, and badminton nets, distinguishing them from other scenes.",
+        "Look for a large indoor space with a high ceiling, badminton court lines, and often net and rackets.",
+        "An indoor badminton court has a high ceiling, wooden floor, net, and walls with windows.",
+        "An indoor badminton court has a high ceiling, wooden flooring, and net, unlike other scenes."
+    ],
+    "baggage claim": [
+        "Baggage claim scenes have luggage carousels and waiting people, unlike other scenes which lack these specific elements.",
+        "Look for luggage carousels, suitcases, and airport terminals to spot a baggage claim scene.",
+        "A baggage claim scene is a busy airport area where travelers collect their luggage after a flight.",
+        "Luggage carousels with bags are unique to baggage claim scenes."
+    ],
+    "shop bakery": [
+        "A shop bakery scene has distinct features like baking equipment, pastries, and display cases.",
+        "Look for displays of bread, pastries, and ovens, often with a warm, inviting atmosphere and a commercial setting.",
+        "A shop bakery scene has baking goods and tools, unlike other scenes that lack these specific items.",
+        "A shop bakery scene features baking goods, ovens, and display shelves in a commercial setting."
+    ],
+    "exterior balcony": [
+        "An exterior balcony scene has open spaces and railings, unlike indoor or fully outdoor scenes.",
+        "Look for outdoor spaces attached to buildings with railings and open access to the surrounding environment.",
+        "An exterior balcony scene has a distinct open railing or barrier separating it from the outside area.",
+        "An exterior balcony scene has distinct features like railings, open space, and connection to a building's exterior."
+    ],
+    "interior balcony": [
+        "Look for enclosed spaces with windows and railings, often with indoor furnishings visible.",
+        "An interior balcony has walls and a ceiling, unlike outdoor balconies, making it distinct in scene recognition.",
+        "An interior balcony scene has walls and indoor elements, unlike outdoor balconies or other open spaces.",
+        "An interior balcony has a visible indoor space with a railing or barrier overlooking an external area."
+    ],
+    "ball pit": [
+        "A ball pit scene is a colorful area filled with many small plastic balls for play.",
+        "Look for bright colors, small plastic balls, and a contained area with people or children playing.",
+        "A ball pit scene is recognized by its abundance of colorful, round balls filling a contained space.",
+        "A ball pit scene has many colorful balls, while other scenes have different objects and less uniform colors."
+    ],
+    "ballroom": [
+        "A ballroom scene has formal, large rooms with polished floors and often mirrors, unlike casual or outdoor settings.",
+        "Look for large open spaces with polished floors, mirrors, and often a central dance area or stage.",
+        "A ballroom scene has large open spaces, polished floors, and often features elegant decorations and chandeliers.",
+        "A ballroom scene is a large, elegant room with polished floors, mirrors, and often people dancing."
+    ],
+    "bamboo forest": [
+        "Bamboo forests have tall, slender green stalks densely packed together, unlike other forest types.",
+        "A bamboo forest has tall, thin green stalks, unlike other scenes with different plant types or structures.",
+        "A bamboo forest scene is a dense area with tall, slender green bamboo stalks growing closely together.",
+        "Look for tall, thin green stalks densely packed together, often with sunlight filtering through the leaves."
+    ],
+    "banquet hall": [
+        "A banquet hall is a large room with tables, chairs, and decorations for formal events.",
+        "Banquet halls have large open spaces with tables, chairs, and decorations, often used for events.",
+        "A banquet hall has a large, open space with tables set for a formal event.",
+        "A banquet hall has large tables and decorations for events, unlike other scenes with different furniture or purposes."
+    ],
+    "bar": [
+        "Look for dark lighting, crowded areas, and alcohol-related items to spot a bar scene.",
+        "A bar scene has distinct dim lighting, crowded areas, and alcohol-related items like glasses and bottles.",
+        "A bar scene is a dimly lit indoor setting with people, drinks, and often a counter.",
+        "A bar scene has dim lighting and people drinking, unlike other scenes which vary in lighting and activity."
+    ],
+    "barn": [
+        "Look for large, open structures with wooden or metal walls and a roof, often near fields or farms.",
+        "A barn scene has rustic structures and rural elements, unlike urban or natural scenes with different features.",
+        "A barn scene is a rural setting featuring a large, often wooden, agricultural building.",
+        "A barn scene has distinct features like wooden structures, hay, and farm animals, setting it apart from other scenes."
+    ],
+    "barndoor": [
+        "Look for large, wooden, sliding doors on a barn, often with a farmhouse or rural setting.",
+        "A barndoor scene is recognized by its large, rustic wooden doors and often rural or farm setting.",
+        "A barndoor scene is a rural setting with a large wooden door of a barn, often in a field.",
+        "A barndoor scene has rustic, rural elements like wood and metal, unlike urban or natural settings."
+    ],
+    "baseball field": [
+        "Look for a grassy field with a diamond, bases, and a backstop, often with spectators.",
+        "A baseball field has a diamond-shaped infield, outfield fence, and specific base paths.",
+        "A baseball field scene has a diamond, outfield, and bleachers, distinct from most other sports or outdoor settings.",
+        "A baseball field scene has a diamond-shaped field with bases and a pitcher's mound, unlike other scenes."
+    ],
+    "basement": [
+        "Look for dim lighting, concrete walls, and storage items like boxes or tools.",
+        "Basements are darker, more cluttered, and often have concrete floors, unlike brighter, cleaner spaces like living rooms.",
+        "Basements have distinct features like concrete floors, storage items, and dim lighting compared to other indoor scenes.",
+        "A basement scene is typically dark, with concrete walls, storage items, and sometimes water damage."
+    ],
+    "basilica": [
+        "Basilicas have large, ornate religious buildings, while other scenes lack these specific architectural and religious features.",
+        "A basilica scene is a large, often religious building with a distinctive architectural style and open interior space.",
+        "Look for large religious buildings with domes, columns, and often a cross on top.",
+        "Basilicas have large, ornate structures with high domes and religious symbols, distinguishing them from other buildings."
+    ],
+    "outdoor basketball court": [
+        "Look for a hard court surface, hoops with nets, and often players or basketballs nearby.",
+        "Outdoor basketball courts have hard surfaces and hoops, unlike other scenes which lack these specific sports elements.",
+        "Outdoor basketball courts have distinct hoop backboards and often show players, making them easy to recognize.",
+        "An outdoor basketball court scene is a sports area with hoops, backboards, and a hard surface."
+    ],
+    "bathroom": [
+        "Bathrooms have sinks, toilets, and showers, while other scenes lack these specific fixtures and water-related elements.",
+        "Bathrooms have distinct features like sinks, toilets, showers, and mirrors, which are not common in other scenes.",
+        "Look for tiles, mirrors, sinks, and showers to spot a bathroom scene.",
+        "A bathroom scene features a room with a toilet, sink, and shower or bathtub for personal hygiene."
+    ],
+    "batters box": [
+        "A batters box scene is a baseball field area where a player stands to hit the ball.",
+        "A batters box scene has a baseball diamond with specific lines, unlike other scenes with varied settings.",
+        "Look for a rectangular area near a home plate in a baseball field with distinct lines.",
+        "A batters box scene has a distinct rectangular area on a baseball field with a batter standing inside."
+    ],
+    "bayou": [
+        "A bayou scene is a slow-moving swampy area with trees, water, and often overgrown vegetation.",
+        "A bayou scene has murky water, dense vegetation, and often a swampy, humid atmosphere.",
+        "Bayou scenes have distinct murky water, dense vegetation, and swampy terrain with unique natural lighting.",
+        "A bayou scene has swampy, slow-moving water with overhanging vegetation, unlike other scenes with clear water or open landscapes."
+    ],
+    "indoor bazaar": [
+        "Indoor bazaars have crowded stalls, varied merchandise, and dim lighting, unlike other indoor or outdoor scenes.",
+        "Indoor bazaar scenes have crowded stalls and diverse goods, unlike other scenes that are less cluttered and focused.",
+        "Indoor bazaars have crowded stalls with diverse goods, often with hanging textiles and intricate displays.",
+        "Look for crowded, dimly lit spaces with stalls, goods, and people, typical of marketplaces inside buildings."
+    ],
+    "outdoor bazaar": [
+        "Outdoor bazaar scenes have distinct features like crowded stalls, varied goods, and vibrant, busy market environments.",
+        "An outdoor bazaar scene is a busy market with stalls, people, and various goods for sale.",
+        "Look for crowded areas with stalls, diverse goods, and people in an open, market-like setting.",
+        "Outdoor bazaars have crowded stalls and people, unlike other scenes which may be empty or feature different structures."
+    ],
+    "beach": [
+        "Beach scenes have distinct sandy shores, water bodies, and often sunny skies with recreational elements.",
+        "Look for sandy shores, water bodies, and often sunny skies with recreational elements like umbrellas or people.",
+        "A beach scene is a sandy shore with water, often sunny, featuring sand, waves, and sometimes people.",
+        "Beach scenes have sand, water, and sky, while other scenes lack these specific natural elements."
+    ],
+    "beauty salon": [
+        "A beauty salon scene is a place with chairs, mirrors, and styling tools for hair and makeup.",
+        "Look for mirrors, styling tools, chairs, and products arranged in a space meant for hair and makeup services.",
+        "Beauty salons have distinct features like mirrors, hairdryers, styling chairs, and product displays, setting them apart from other scenes.",
+        "A beauty salon scene has more mirrors, hair tools, and styling products than other scenes."
+    ],
+    "bedroom": [
+        "Bedrooms have beds and personal items, unlike other scenes which lack these specific furnishings.",
+        "A bedroom scene is a private room with a bed, often containing furniture for sleeping and relaxing.",
+        "Look for a bed, dresser, or nightstand with soft lighting and personal items like books or photos.",
+        "Bedrooms have distinct features like beds, pillows, and personal items, setting them apart from other indoor scenes."
+    ],
+    "berth": [
+        "A berth scene is a docking area for boats or ships, often with water and moored vessels.",
+        "Look for a docked boat or ship near a quay with mooring equipment and water nearby.",
+        "A berth scene has distinct features like boats, docks, and water, setting it apart from other scenes.",
+        "A berth scene has boats tied to docks, unlike other scenes which lack this specific maritime arrangement."
+    ],
+    "biology laboratory": [
+        "A biology lab has scientific equipment and specimens, unlike other scenes which lack these specific features.",
+        "A biology lab has distinct lab equipment, microscopes, and biological samples, setting it apart from other scenes.",
+        "Look for lab equipment, microscopes, test tubes, and scientific tools on workbenches in a clean, bright setting.",
+        "Microscopes are unique visual cues found in biology laboratories and not in other types of scenes."
+    ],
+    "indoor bistro": [
+        "An indoor bistro has cozy seating, small tables, and often a counter with food and drinks.",
+        "Look for cozy seating, small tables, indoor lighting, and often a cafe or restaurant setting.",
+        "An indoor bistro has small tables, chairs, and a cozy atmosphere with visible food or drinks.",
+        "An indoor bistro scene has tables, chairs, and often a counter, unlike outdoor or other interior spaces."
+    ],
+    "boardwalk": [
+        "A boardwalk scene has distinct wooden walkways, coastal views, and recreational elements like vendors and rides.",
+        "A boardwalk scene has wooden planks, coastal views, and recreational elements like benches or beach access.",
+        "A boardwalk scene has wooden walkways near water, unlike other scenes which lack this specific feature.",
+        "A boardwalk scene uniquely features a wooden walkway along a shoreline or body of water."
+    ],
+    "boat deck": [
+        "Look for large open spaces with wooden or metal flooring, often with railings and nearby water.",
+        "A boat deck scene has distinct features like water, boats, and open space, different from land or indoor scenes.",
+        "A boat deck scene has water and boats, unlike other scenes which show land or buildings.",
+        "A boat deck scene shows a wooden or metal platform on water with people or boats nearby."
+    ],
+    "boathouse": [
+        "A boathouse scene has boats stored on land near water with a distinct structure for storage.",
+        "A boathouse scene has water and boats, while other scenes may lack these elements.",
+        "A boathouse scene has distinct features like boats, docks, and water, setting it apart from other scenes.",
+        "A boathouse scene uniquely features boats stored on land, typically near water with a dedicated structure."
+    ],
+    "bookstore": [
+        "Bookstores have shelves filled with books, which are not present in other types of scenes.",
+        "Bookstores have distinct features like bookshelves, reading areas, and checkout counters that set them apart from other scenes.",
+        "A bookstore scene has shelves filled with books, often with people browsing or reading.",
+        "A bookstore scene has shelves of books, while other scenes have different objects and layouts."
+    ],
+    "indoor booth": [
+        "An indoor booth scene is a small, enclosed space often found in fairs or exhibitions.",
+        "Indoor booths have enclosed spaces with specific setups, unlike open or natural scenes with varied environments.",
+        "Look for enclosed spaces with artificial lighting, limited exits, and often specific functional purposes.",
+        "Indoor booths have distinct enclosed spaces with specific lighting, displays, and often a commercial or trade show setting."
+    ],
+    "botanical garden": [
+        "Botanical gardens have distinct features like diverse plant life, structured pathways, and open green spaces.",
+        "Botanical gardens have organized, labeled plant displays that are not found in other natural or urban scenes.",
+        "Look for lush green plants, diverse flowers, and structured pathways in an open, natural setting.",
+        "Botanical gardens have more plants and greenery than other scenes, with organized layouts and fewer people."
+    ],
+    "indoor bow window": [
+        "Look for large, curved windows inside a building that let in lots of light and offer a view outside.",
+        "A bow window has a curved, multi-panel design that protrudes outward, creating a distinctive indoor architectural feature.",
+        "A curved glass structure that protrudes outward from the interior wall of a building.",
+        "An indoor bow window has curved glass panels, while other scenes lack this distinctive rounded architectural feature."
+    ],
+    "outdoor bow window": [
+        "Outdoor bow windows have curved, multi-paned fronts, unlike flat or rectangular windows in other scenes.",
+        "Outdoor bow windows have a curved, multi-panel glass design that bulges outward from the building.",
+        "Outdoor bow windows have curved, multi-pane glass sections extending outward from the building.",
+        "An outdoor bow window scene is a curved window that extends outward from a building, offering a panoramic view."
+    ],
+    "bowling alley": [
+        "A bowling alley has distinct lanes, pins, and balls, set in an indoor, brightly lit, recreational environment.",
+        "A bowling alley has long, narrow lanes with pins at one end and a ball return at the other.",
+        "A bowling alley has lanes and pins, while other scenes lack these specific sports equipment features.",
+        "Look for lanes, pins, balls, and seating areas with a distinct indoor setting and specific lighting."
+    ],
+    "boxing ring": [
+        "A boxing ring scene is a squared-off area with ropes and fighters, often in a gym or arena.",
+        "A boxing ring scene has ropes, a square floor, and fighters, distinguishing it from other sports or indoor scenes.",
+        "A boxing ring scene has ropes and turnbuckles surrounding the central fighting area.",
+        "Look for a squared-off area with ropes, corner pads, and often a raised platform."
+    ],
+    "indoor brewery": [
+        "Look for large tanks, brewing equipment, and industrial elements inside a building with a functional layout.",
+        "Indoor brewery scenes have brewing equipment and barrels, unlike other scenes which lack these specific industrial elements.",
+        "An indoor brewery scene features brewing equipment, tanks, and brewing processes inside a factory or workshop.",
+        "Large brewing equipment like fermenters and vats is unique to indoor brewery scenes."
+    ],
+    "bridge": [
+        "Bridges have unique structures crossing gaps, often with supports, spans, and connections to land or water.",
+        "Bridge scenes have structures crossing over water or gaps, unlike other scenes that lack such distinct architectural elements.",
+        "Look for structures with spans over water or gaps, often with supports and connecting paths.",
+        "A bridge scene shows a structure spanning water or a gap, often with surrounding natural or urban elements."
+    ],
+    "building facade": [
+        "Building facades have flat, structured surfaces with windows and doors, unlike natural or interior scenes with varied textures.",
+        "Look for flat, structured surfaces with repeating patterns and symmetrical designs typical of architectural facades.",
+        "Building facades have distinct geometric patterns, uniform textures, and architectural elements like windows and doors.",
+        "The presence of structured, repeating architectural elements like windows and doors is unique to building facades."
+    ],
+    "bullring": [
+        "Look for a circular arena with tiered seating and often a central area for bullfighting events.",
+        "A bullring scene is a circular arena with seating around it for watching bullfights.",
+        "A bullring scene has a distinctive circular arena with seating and often a central fighting area.",
+        "A bullring scene has a circular arena and seating, unlike other scenes which vary in structure and setting."
+    ],
+    "burial chamber": [
+        "Look for enclosed spaces with stone walls, artifacts, and a dark, solemn atmosphere.",
+        "A burial chamber scene has ancient, enclosed structures with symbolic art, unlike open or modern scenes.",
+        "A burial chamber scene is a dark, enclosed space with stone walls, often containing ancient artifacts.",
+        "Burial chambers have unique stone structures, dark interiors, and ancient artifacts, distinguishing them from other scenes."
+    ],
+    "bus interior": [
+        "A bus interior scene has seats and windows, unlike outdoor or other indoor scenes.",
+        "Look for seats, windows, and a ceiling with lights inside a vehicle.",
+        "A bus interior has distinct rows of seats, windows, and a steering wheel, unlike other scenes.",
+        "A bus interior scene uniquely features multiple rows of seats with a central aisle running down the middle."
+    ],
+    "butchers shop": [
+        "A butchers shop has distinct features like meat displays, cutting boards, and tools for cutting and preparing meat.",
+        "A butchers shop has meat, knives, and red surfaces, unlike other scenes with different objects and colors.",
+        "A butchers shop has visible meat products like hanging cuts or displayed sausages on counters.",
+        "A butchers shop scene features meat, tools, and display counters in a commercial setting."
+    ],
+    "butte": [
+        "A butte scene has a tall, isolated rock formation, unlike other scenes with flat or varied terrain.",
+        "A butte scene is recognized by its isolated, tall rock formation rising from a flat landscape.",
+        "A butte scene is uniquely characterized by a single, isolated, flat-topped rock formation rising prominently from the ground.",
+        "A butte scene has a tall, isolated rock formation with a flat top and steep sides in a natural setting."
+    ],
+    "outdoor cabin": [
+        "Outdoor cabins have distinct features like wooden structures, rustic elements, and natural surroundings like trees and mountains.",
+        "Outdoor cabins have rustic wood structures and natural surroundings, unlike urban or indoor scenes with man-made elements.",
+        "An outdoor cabin scene is a rustic wooden house in a natural setting like a forest or mountains.",
+        "Look for small wooden houses with roofs, surrounded by nature, often near water or in forests."
+    ],
+    "cafeteria": [
+        "A cafeteria scene is a place where people eat and socialize, often with food counters and tables.",
+        "A cafeteria scene has distinct features like food counters, tables, chairs, and a kitchen area.",
+        "Look for open spaces with food counters, tables, and chairs, often in institutional or commercial settings.",
+        "A cafeteria scene has food, tables, and people eating, unlike other scenes that show different settings and activities."
+    ],
+    "campsite": [
+        "A campsite has tents and outdoor gear, unlike other scenes which lack these specific elements.",
+        "Look for tents, fire pits, sleeping bags, and outdoor furniture in natural settings like forests or mountains.",
+        "A campsite scene has tents, fire pits, and outdoor furniture in a natural setting.",
+        "A campsite scene has tents, fire pits, and outdoor furniture in a natural setting."
+    ],
+    "campus": [
+        "Campus scenes have distinct features like academic buildings, green spaces, and pathways, setting them apart from other scenes.",
+        "A campus scene is an outdoor area with buildings, walkways, and green spaces, often showing educational facilities.",
+        "A campus scene has buildings, green areas, and paths, unlike urban or natural scenes which lack these features.",
+        "Look for buildings, pathways, green areas, and educational structures grouped together in an organized layout."
+    ],
+    "natural canal": [
+        "Look for water channels with natural surroundings like plants or rocks, not man-made structures.",
+        "Natural canals have flowing water and green banks, unlike urban canals with concrete and city structures.",
+        "Natural canals have winding waterways bordered by green vegetation, unlike man-made canals or other water bodies.",
+        "A natural canal scene is a waterway with banks, often surrounded by greenery and boats."
+    ],
+    "urban canal": [
+        "Look for narrow water channels with buildings or roads nearby in a city setting.",
+        "Urban canals have distinct flowing water, man-made structures, boats, and city elements unlike natural water scenes.",
+        "An urban canal scene is a city waterway with buildings, boats, and bridges along its banks.",
+        "Urban canals have water channels with buildings nearby, unlike other scenes which lack these specific water and urban features."
+    ],
+    "candy store": [
+        "Candy stores have bright colors, sweet displays, and unique packaging, setting them apart from other retail scenes.",
+        "Look for bright colors, displays of sweets, and signs indicating a place selling candies.",
+        "A candy store scene has bright colors and sweet displays, unlike other scenes with natural or neutral elements.",
+        "Candy stores uniquely display colorful, sweet treats and confectionery items prominently in their displays."
+    ],
+    "canyon": [
+        "Look for deep valleys with steep rock walls and a narrow opening between them.",
+        "Canyon scenes have deep valleys and rock formations, unlike flat landscapes or urban areas with buildings.",
+        "A canyon scene is a deep, narrow valley with steep sides, often with a river at the bottom.",
+        "Canyons have deep, narrow valleys with steep walls and rugged terrain, often with distinct rock formations and natural erosion."
+    ],
+    "backseat car interior": [
+        "A backseat car interior has seats, windows, and dashboard, often seen in vehicles or parking areas.",
+        "A backseat car interior has seats and windows, unlike outdoor or living room scenes with furniture and natural elements.",
+        "Look for a car interior with a visible backseat, often showing seats, windows, and sometimes passengers.",
+        "A backseat car interior has visible headrests and seatbelts not found in other scenes."
+    ],
+    "frontseat car interior": [
+        "A frontseat car interior has dashboard and steering wheel, unlike outdoor or other indoor scenes.",
+        "Look for a driver's seat, steering wheel, dashboard, and windows inside a vehicle.",
+        "The front seat car interior has distinct dashboard, steering wheel, and gear shift features not found in other scenes.",
+        "The steering wheel is the unique visual cue in a frontseat car interior scene."
+    ],
+    "carrousel": [
+        "Look for a rotating platform with seats and a central pole, often with decorative elements.",
+        "A carrousel scene has a rotating ride with seats, unlike other scenes that lack this specific structure.",
+        "A carrousel scene features a rotating merry-go-round with seats, often in a park or fair setting.",
+        "A carrousel scene uniquely features a rotating, circular ride with seats or figures around a central axis."
+    ],
+    "indoor casino": [
+        "Indoor casinos have bright lights, gambling tables, slot machines, and crowds, distinguishing them from other scenes.",
+        "Indoor casinos have bright lights, gambling tables, and crowds, unlike most other indoor scenes.",
+        "Look for bright lights, gambling tables, slot machines, and a crowded atmosphere with a specific decor.",
+        "The presence of gambling tables and slot machines is unique to indoor casino scenes."
+    ],
+    "castle": [
+        "Castles have tall, fortified structures with towers and battlements, unlike other buildings or natural scenes.",
+        "Castles have tall, stone structures with towers and battlements, unlike other scenes which lack these distinctive features.",
+        "Look for tall structures with towers, battlements, and stone walls, often surrounded by water or moat.",
+        "Castles have tall towers, stone walls, and often a moat, distinguishing them from other buildings and structures."
+    ],
+    "catacomb": [
+        "Look for underground chambers with arched ceilings, stone walls, and rows of tombs or niches.",
+        "Catacomb scenes are recognized by dark, underground environments with stone structures and ancient, often religious, carvings.",
+        "A catacomb scene is an underground, ancient, and often eerie space with stone walls and passageways.",
+        "Catacomb scenes have dark, underground, stone-lined environments, unlike other scenes which vary in light and surface materials."
+    ],
+    "indoor cathedral": [
+        "Indoor cathedrals have tall ceilings and religious decor, unlike other scenes which vary in size and design.",
+        "Indoor cathedrals have tall ceilings, stained glass, and religious decor, distinguishing them from other indoor scenes.",
+        "Look for large, tall structures with stained glass windows and religious decorations inside a spacious building.",
+        "The towering, vaulted ceilings with intricate stone or wooden arches are unique to indoor cathedral scenes."
+    ],
+    "outdoor cathedral": [
+        "Outdoor cathedrals have large religious buildings with tall structures, unlike other scenes which lack such prominent architecture.",
+        "Look for large stone buildings with tall spires and stained glass windows in open outdoor settings.",
+        "Outdoor cathedrals have tall, structured buildings with pointed arches and large windows, often surrounded by open spaces.",
+        "A tall, pointed structure with a cross on top is unique to outdoor cathedral scenes."
+    ],
+    "indoor cavern": [
+        "Indoor cavern scenes have rough rock textures and dim lighting, unlike other scenes with smoother surfaces and brighter light.",
+        "An indoor cavern scene is a dark, rocky underground space with unique formations and limited natural light.",
+        "Indoor cavern scenes have rough rock textures, dim lighting, and enclosed spaces with unique geological formations.",
+        "Large, irregular rock formations are unique to indoor cavern scenes compared to other types of scenes."
+    ],
+    "cemetery": [
+        "A cemetery scene is a quiet outdoor area with graves, monuments, and often trees or grass.",
+        "Look for tombstones, graves, and a somber atmosphere in an open area with grass or pathways.",
+        "Cemetery scenes have distinct features like tombstones, graves, and a somber atmosphere compared to other outdoor scenes.",
+        "Graves and tombstones are the unique visual cues found in cemetery scenes."
+    ],
+    "chalet": [
+        "A chalet scene has a wooden cabin with a sloped roof, often in snowy or mountainous areas.",
+        "A chalet scene has wooden structures, sloped roofs, and is often set in snowy or mountainous areas.",
+        "A chalet scene has wooden cabins in snowy mountains, unlike other scenes with different buildings or environments.",
+        "A chalet scene uniquely features a wooden, sloped-roof house in a mountainous or snowy landscape."
+    ],
+    "cheese factory": [
+        "A cheese factory scene has distinct features like machinery, large vats, and dairy products for recognition.",
+        "Look for large vats, machinery, and workers processing milk or cheese in a structured industrial setting.",
+        "A cheese factory scene has industrial equipment and dairy products, unlike natural or residential scenes.",
+        "Large vats or tanks filled with cheese curds are unique to cheese factory scenes."
+    ],
+    "chemistry lab": [
+        "A chemistry lab has lab equipment and chemicals, unlike other scenes which lack these specific items.",
+        "Look for lab equipment, chemical bottles, and white coats to distinguish a chemistry lab from other scenes.",
+        "A chemistry lab has distinct lab equipment, chemicals, and safety gear not found in other scenes.",
+        "A chemistry lab scene features lab equipment, chemicals, and experiments, distinct from other indoor or outdoor settings."
+    ],
+    "indoor chicken coop": [
+        "An indoor chicken coop scene is a small, enclosed space with chickens, feeders, and nesting areas.",
+        "Look for enclosed spaces with nesting boxes, feeders, and chickens, often with wood or wire structures.",
+        "An indoor chicken coop has distinct features like wooden structures, nesting boxes, and chickens, unlike other scenes.",
+        "An indoor chicken coop has wooden structures and chickens, unlike other scenes which lack these specific elements."
+    ],
+    "outdoor chicken coop": [
+        "Outdoor chicken coops have distinct features like wooden structures, nesting boxes, and visible chickens, setting them apart from other scenes.",
+        "Look for wooden structures with nesting boxes and feeding areas in natural outdoor settings.",
+        "An outdoor chicken coop scene has visible chicken coops and often chickens, unlike other scenes.",
+        "An outdoor chicken coop scene shows a small structure with chickens, often in a rural or farm setting."
+    ],
+    "childs room": [
+        "A child's room has toys and colorful decorations not found in other types of rooms.",
+        "Look for toys, colorful decor, and small furniture to spot a child's room among other scenes.",
+        "A child's room is recognizable by toys, colorful decor, and smaller furniture compared to other rooms.",
+        "A child's room has more toys, bright colors, and playful decorations than other types of scenes."
+    ],
+    "indoor church": [
+        "Indoor church scenes have religious decor and architecture, unlike other scenes which vary widely in purpose and design.",
+        "Indoor church scenes have tall ceilings, religious decorations, and pews, distinguishing them from other indoor spaces.",
+        "Look for stained glass windows, pews, and religious symbols inside a large, often ornate building.",
+        "Stained glass windows are a unique visual cue found in indoor church scenes."
+    ],
+    "outdoor church": [
+        "Outdoor church scenes have distinct religious structures and architecture, unlike other scenes with different buildings or natural settings.",
+        "An outdoor church scene is a religious building with architecture, often surrounded by nature or a small yard.",
+        "Look for a building with a steeple, cross, or religious symbols in a natural outdoor setting.",
+        "Outdoor church scenes have distinct features like steeples, crosses, and religious architecture visible against natural backgrounds."
+    ],
+    "classroom": [
+        "Look for desks, chairs, whiteboards, and educational materials arranged in a structured, indoor setting.",
+        "Classrooms have distinct features like desks, chairs, whiteboards, and students, which set them apart from other scenes.",
+        "A classroom scene is a room with desks, chairs, and educational materials, often filled with students.",
+        "Classrooms have desks and chairs, while other scenes have different furniture or natural elements."
+    ],
+    "clean room": [
+        "Look for bright, organized spaces with minimal clutter and visible cleaning tools.",
+        "A clean room has distinct, highly organized surfaces with minimal clutter and uniform, sterile appearance.",
+        "A clean room has minimal clutter and bright, uniform surfaces, unlike other scenes that are often more varied and cluttered.",
+        "A clean room scene is tidy, organized, and free of clutter, with visible furniture and clear surfaces."
+    ],
+    "cliff": [
+        "Cliff scenes have steep rock formations and rugged terrain, unlike flat landscapes or urban environments.",
+        "Cliffs have steep, vertical rock faces that rise sharply from the ground.",
+        "Look for steep rock faces with a sharp drop-off, often near water or surrounded by rugged terrain.",
+        "Cliff scenes have steep rock formations near water or edges, distinguishing them from other natural or urban landscapes."
+    ],
+    "indoor cloister": [
+        "A indoor cloister scene has arches and columns, unlike other scenes which lack these architectural features.",
+        "Look for arched walkways, religious decor, and enclosed spaces typical of monastic or church courtyards.",
+        "An indoor cloister scene is a covered walkway with arches and columns, often found in religious buildings.",
+        "A indoor cloister scene has distinct arches, columns, and religious or monastic architectural elements."
+    ],
+    "closet": [
+        "A closet scene is recognized by its enclosed space, hanging clothes, and storage shelves or rods.",
+        "A closet scene is a small, enclosed space with shelves, hangers, and clothes, often inside a room.",
+        "Closets are uniquely identified by the presence of hanging clothes and storage shelves or racks.",
+        "Look for enclosed spaces with hanging clothes, shelves, or doors, often in residential or storage settings."
+    ],
+    "clothing store": [
+        "Look for displays of clothes, mannequins, and shopping carts in a well-lit indoor setting.",
+        "Clothing stores have racks and mannequins, while other scenes lack these specific retail elements.",
+        "Clothing stores have racks of clothes, mannequins, mirrors, and bright lighting, unlike other retail or indoor scenes.",
+        "Clothing stores have mannequins or clothing racks displaying apparel, which is not found in other scenes."
+    ],
+    "coast": [
+        "Coast scenes have water and sandy shores, while other scenes lack these distinct natural elements.",
+        "Look for sandy beaches, water bodies, and distant horizons with natural elements like rocks or cliffs.",
+        "Coast scenes have distinct features like water bodies, sandy shores, and distant horizons with natural elements.",
+        "A coast scene is a shoreline area with water, sand, and often rocks or cliffs nearby."
+    ],
+    "cockpit": [
+        "Look for a specific layout with controls, screens, and seating arranged for flying an aircraft.",
+        "A cockpit scene is an enclosed area with controls, screens, and seating for pilots in an aircraft.",
+        "A cockpit scene has distinct features like control panels, steering wheels, and instrument displays not found in other scenes.",
+        "A cockpit scene has controls and instruments, while other scenes show natural or urban environments without them."
+    ],
+    "coffee shop": [
+        "Look for indoor spaces with tables, chairs, and coffee-related items like cups or machines.",
+        "Coffee shops have distinct features like tables, chairs, coffee machines, and indoor settings with a cozy atmosphere.",
+        "A coffee shop scene has indoor seating and drink counters, unlike outdoor or home scenes.",
+        "A coffee shop scene is a cozy indoor setting with tables, chairs, and coffee-making equipment."
+    ],
+    "computer room": [
+        "A computer room has many machines and wires, unlike other scenes that show people or nature.",
+        "A computer room has multiple visible computers and networking equipment.",
+        "A computer room has many electronic devices, wires, and monitors, unlike most other indoor scenes.",
+        "Look for multiple computers, servers, and organized cables in a room with a technical or industrial feel."
+    ],
+    "conference center": [
+        "Look for large, modern buildings with meeting rooms, halls, and often outdoor spaces for events.",
+        "Conference centers have large, open spaces with meeting rooms, tables, chairs, and often glass walls or windows.",
+        "A conference center scene is a large indoor space with meeting rooms, tables, chairs, and often a stage.",
+        "A conference center has large rooms with seating and tables, unlike most other scenes."
+    ],
+    "conference room": [
+        "Look for a room with tables, chairs, and often a projector or screen for presentations.",
+        "A conference room is a formal space with tables, chairs, and often screens for presentations.",
+        "Conference rooms have distinct features like tables, chairs, whiteboards, and often a projector screen.",
+        "Conference rooms have tables and chairs for meetings, unlike other scenes which lack these specific furniture arrangements."
+    ],
+    "construction site": [
+        "Look for large equipment, building materials, and incomplete structures in a messy, outdoor environment.",
+        "Construction sites have visible building materials and equipment, unlike other scenes which lack these industrial elements.",
+        "Construction sites have large machinery, unfinished structures, and piles of materials, unlike typical outdoor or indoor scenes.",
+        "Heavy machinery and building materials are unique to construction sites among all scene types."
+    ],
+    "control room": [
+        "Control rooms have distinct features like multiple screens, monitoring equipment, and organized workstations.",
+        "A control room scene is a room with monitors, panels, and equipment for monitoring and managing operations.",
+        "A control room has monitors and equipment, unlike other scenes which lack these specific technological elements.",
+        "Control rooms have multiple screens and monitors displaying information, which is not common in other scene types."
+    ],
+    "outdoor control tower": [
+        "Outdoor control towers have tall structures and airport surroundings, unlike other scenes with different features and settings.",
+        "Look for tall structures with observation decks and antennas, often near airports or industrial sites.",
+        "An outdoor control tower scene is a tall structure with windows, often near runways or industrial areas.",
+        "A tall, freestanding structure with a control room at the top is unique to outdoor control towers."
+    ],
+    "corn field": [
+        "Look for tall, green rows of plants with visible ears and a vast, open agricultural setting.",
+        "The presence of tall, yellow-green rows of grain crops is unique to a corn field scene.",
+        "A corn field has tall, green stalks in rows, unlike other scenes with different plants or structures.",
+        "Corn fields have tall, uniform green stalks with yellow ears, often in rural, open landscapes."
+    ],
+    "corral": [
+        "A corral scene is recognized by its fenced-in area with wooden posts and often contains livestock like horses.",
+        "A corral scene has fenced-in animal enclosures, unlike other scenes which lack this specific structure.",
+        "A corral scene is an outdoor area with wooden or stone enclosures, often for livestock.",
+        "A corral scene has wooden fences and enclosed areas for animals, often with a rustic or rural setting."
+    ],
+    "corridor": [
+        "Look for long, narrow spaces with walls on both sides and often a straight path forward.",
+        "Corridors have long, straight paths with walls on both sides, often featuring doors or windows.",
+        "A corridor scene is a long, narrow passage with walls on both sides, often leading to other rooms.",
+        "A corridor scene has a long, narrow pathway with walls on both sides, unlike other open or varied spaces."
+    ],
+    "cottage garden": [
+        "Cottage gardens have colorful flowers, winding paths, and a cozy, informal layout with natural elements.",
+        "A cottage garden scene has colorful flowers, winding paths, and a cozy, informal layout.",
+        "A cottage garden scene has a cluttered, colorful, and wild floral arrangement unlike other neat or structured scenes.",
+        "A cottage garden has a unique mix of colorful flowers, winding paths, and rustic structures."
+    ],
+    "courthouse": [
+        "Courthouses have formal architecture and legal symbols, unlike other scenes which vary widely in structure and purpose.",
+        "Courthouses have distinct features like formal architecture, large steps, and official signage, setting them apart from other scenes.",
+        "Look for formal architecture, large columns, and a prominent central building with a courthouse sign.",
+        "A courthouse scene uniquely features a formal building with a prominent entrance and often a dome or columns."
+    ],
+    "courtroom": [
+        "A courtroom scene has formal furniture and legal elements, unlike casual or natural settings.",
+        "A courtroom scene is a formal indoor setting with judges, lawyers, and defendants in a structured legal environment.",
+        "A courtroom scene has distinct features like judge's bench, witness stand, and legal seating arrangement.",
+        "Look for formal seating, judge's bench, witness stand, and legal decor typical of judicial settings."
+    ],
+    "courtyard": [
+        "Courtyards have open, paved or grassy areas surrounded by walls or buildings on multiple sides.",
+        "Look for open spaces surrounded by walls or buildings with paths or patios.",
+        "Courtyard scenes have open spaces with patios or gardens, unlike enclosed or natural outdoor environments.",
+        "Courtyards have open spaces with walkways, often surrounded by walls or buildings, and may include plants or fountains."
+    ],
+    "exterior covered bridge": [
+        "Look for wooden structures with a roof covering the walkway, typically over water or a valley.",
+        "Exterior covered bridges have unique wooden structures with roofs, unlike other scenes which lack this specific feature.",
+        "A covered bridge has a unique roof structure that completely encloses its wooden or stone frame.",
+        "Covered bridges have unique wooden structures with roofs, often over water, distinguishing them from other outdoor scenes."
+    ],
+    "creek": [
+        "A creek scene has flowing water and banks, unlike other scenes which may lack these features.",
+        "A creek scene is a small stream of water surrounded by natural elements like rocks and plants.",
+        "Look for flowing water with banks, rocks, and vegetation, often in a natural outdoor setting.",
+        "A creek scene has flowing water bordered by rocks or sand, unlike other natural or urban landscapes."
+    ],
+    "crevasse": [
+        "A crevasse scene features a large crack or fissure in ice or rock, often in a mountainous area.",
+        "A crevasse scene has deep cracks in ice or rock, unlike other scenes which lack such distinct fissures.",
+        "A crevasse scene is recognized by deep cracks in ice or snow, often in mountainous or polar regions.",
+        "Look for deep, dark cracks in ice or rock, often with a contrasting background."
+    ],
+    "crosswalk": [
+        "A crosswalk scene is a street area with marked lines for pedestrians to safely cross.",
+        "Look for distinct white or yellow stripes on the ground, often with road markings or traffic signs.",
+        "Crosswalk scenes have distinct white stripes on pavement, unlike other scenes which lack this specific road marking.",
+        "Crosswalks have distinct white or yellow stripes painted on the road for pedestrians to walk across safely."
+    ],
+    "office cubicle": [
+        "Office cubicles have distinct partition walls separating individual workspaces, which are not found in other scenes.",
+        "An office cubicle scene has partitions and workstations, unlike open spaces or natural environments.",
+        "Office cubicles have distinct features like desks, computers, and partitions, setting them apart from other scenes.",
+        "Look for small, partitioned workspaces with desks, computers, and walls separating individual work areas."
+    ],
+    "dam": [
+        "Look for large water bodies with concrete structures holding back water.",
+        "Dams are recognized by large water bodies, man-made structures, and often surrounding natural or industrial landscapes.",
+        "A dam scene has large, man-made structures near water, unlike natural or urban scenes with different features.",
+        "A dam scene features a large water barrier structure, often with water flowing or a surrounding landscape."
+    ],
+    "delicatessen": [
+        "A delicatessen scene has counters with food, deli meats, cheeses, and often a butcher or cashier.",
+        "A delicatessen scene is recognized by its display of gourmet foods, deli meats, cheeses, and specialty items.",
+        "A delicatessen scene has food displays and counters, unlike other scenes with different objects or settings.",
+        "A delicatessen scene features food displays, counters, and shelves with various meats, cheeses, and packaged goods."
+    ],
+    "dentists office": [
+        "A dentist office has distinct dental equipment, medical tools, and a clean, clinical environment.",
+        "A dentist office has medical tools, dental chairs, and a clean, clinical setting with specific equipment.",
+        "A dentist office has medical equipment, chairs, tools, and a clean environment for patient care.",
+        "A dentist office has medical equipment and a clinical look, unlike other scenes with different settings and objects."
+    ],
+    "sand desert": [
+        "Sand deserts have vast, dry, sandy landscapes, unlike other scenes with more vegetation, water, or buildings.",
+        "Look for vast, flat areas with golden or tan sand and minimal vegetation or water.",
+        "Sand deserts have vast, flat areas of golden sand with minimal vegetation and sparse dunes.",
+        "A sand desert scene is a vast, dry area covered with sand dunes and little vegetation."
+    ],
+    "vegetation desert": [
+        "Look for sparse, dry plants with little green and a barren, rocky or sandy ground.",
+        "Vegetation deserts have sparse, hardy plants, sandy soil, and arid conditions unlike lush forests or wetlands.",
+        "Vegetation deserts have sparse plants and dry land, unlike lush forests or wetlands with abundant greenery and water.",
+        "A vegetation desert scene has sparse plants and dry land in a barren, arid environment."
+    ],
+    "indoor diner": [
+        "Look for a room with tables, chairs, food, and a counter inside a building.",
+        "Indoor diner scenes have visible tables, chairs, and food, unlike outdoor or commercial scenes with different layouts.",
+        "Indoor diner scenes have distinct features like tables, chairs, food, and a counter in a cozy, often dimly lit setting.",
+        "A visible counter with stools is unique to indoor diner scenes."
+    ],
+    "outdoor diner": [
+        "Look for outdoor seating, food, and a casual setting with visible building structures.",
+        "Outdoor diners have visible food service counters with seating areas under a covered roof.",
+        "Outdoor diners have distinct features like outdoor seating, food displays, and specific architectural elements like awnings.",
+        "Outdoor diners have visible food and tables outside, while other scenes lack these specific dining elements."
+    ],
+    "home dinette": [
+        "Look for small dining areas with tables, chairs, and often a window or wall nearby.",
+        "A home dinette has a small, casual dining table with chairs, often in a compact space.",
+        "A home dinette is a small dining area with a table and chairs, often in a kitchen or living space.",
+        "A home dinette has small tables, chairs, and often a casual setting, unlike larger dining rooms."
+    ],
+    "vehicle dinette": [
+        "A vehicle dinette scene is a small dining area inside a vehicle, often in an RV or camper.",
+        "A vehicle dinette has a small, fold-out table and seating inside a vehicle.",
+        "Look for a small dining area inside a vehicle, often with fold-down tables and limited space.",
+        "A vehicle dinette scene has movable furniture inside a vehicle, unlike fixed furniture in other indoor scenes."
+    ],
+    "dining car": [
+        "A dining car scene has tables and food, unlike other scenes which lack these specific elements.",
+        "A dining car scene is a restaurant inside a train with tables, chairs, and food.",
+        "Look for a train car with tables, chairs, and food service items.",
+        "A dining car scene has distinct features like tables, chairs, food, and a train setting."
+    ],
+    "dining room": [
+        "Look for a room with a table, chairs, and often a dining setting like plates or food.",
+        "A dining room scene is a room with a table, chairs, and often food, meant for eating.",
+        "A dining room has tables and chairs for eating, unlike other rooms that serve different functions.",
+        "A dining room has a table with chairs, often near a window, and includes dining-related items."
+    ],
+    "discotheque": [
+        "A discotheque scene is a vibrant, crowded indoor space with flashing lights and music playing.",
+        "A discotheque scene is identified by bright lights, crowded dance floor, and loud music equipment.",
+        "A discotheque scene has bright lights and crowded dance floors unlike other scenes with natural lighting and open spaces.",
+        "A discotheque scene is recognizable by bright, colorful lights, crowded dance floors, and loud music."
+    ],
+    "dock": [
+        "Look for structures with boats, water, and platforms where people load or unload items.",
+        "A dock scene has water, boats, and industrial elements, unlike natural or urban scenes without water or boats.",
+        "A dock scene uniquely features a wooden or metal platform extending over water for boats.",
+        "A dock scene has distinct features like water, boats, and wooden planks, which set it apart from other scenes."
+    ],
+    "outdoor doorway": [
+        "Look for elements like door frames, steps, and outdoor surroundings near building entries.",
+        "Outdoor doorways have distinct features like door frames, thresholds, and surrounding outdoor elements like walls or steps.",
+        "An outdoor doorway scene has a visible transition between indoor and outdoor environments.",
+        "An outdoor doorway scene is a transition space between inside and outside with a visible entryway."
+    ],
+    "dorm room": [
+        "A dorm room is a small bedroom with basic furniture, usually in a college or university setting.",
+        "A dorm room has small, personal furniture and study items, unlike larger, more public spaces.",
+        "A dorm room has distinct features like bunk beds, small desks, and shared living spaces.",
+        "Look for small rooms with beds, desks, and personal items, often in a simple, functional layout."
+    ],
+    "driveway": [
+        "A driveway scene is a paved path leading to a house or garage, often with vehicles nearby.",
+        "A driveway scene has a paved path for vehicles, unlike other scenes which may lack this feature.",
+        "Look for paved pathways leading to buildings or roads, often with vehicles or tools nearby.",
+        "A driveway scene is recognized by a paved path leading to a house or garage with vehicles nearby."
+    ],
+    "outdoor driving range": [
+        "Outdoor driving ranges have open grassy areas with golf balls, clubs, and hitting nets for practice.",
+        "Outdoor driving ranges have open grassy areas with golf balls and clubs, unlike other scenes.",
+        "Look for wide open spaces with artificial turf, golf balls, and distant targets, often with a driving mat.",
+        "An outdoor driving range has grass, targets, and golf balls, often with people hitting from a designated area."
+    ],
+    "drugstore": [
+        "Drugstores have distinct features like medicine aisles, checkout counters, and health products, different from other retail or indoor scenes.",
+        "A drugstore scene is a retail space with aisles of medicine, cosmetics, and everyday items.",
+        "Look for bright lighting, aisles with shelves, and displays of medicine and personal care products.",
+        "Drugstore scenes have aisles with shelves of products, unlike other scenes that show different settings or objects."
+    ],
+    "electrical substation": [
+        "An electrical substation has distinct high-voltage equipment and power lines, unlike most other scenes.",
+        "Electrical substations have visible transformers and power lines, unlike most scenes which lack these electrical infrastructure elements.",
+        "An electrical substation scene has large metal structures, wires, and transformers for power distribution.",
+        "Look for large transformers, high-voltage equipment, and extensive wiring structures in an outdoor or industrial setting."
+    ],
+    "door elevator": [
+        "A door elevator scene has vertical doors and a confined space, unlike open or outdoor scenes.",
+        "A door elevator scene is a small, enclosed space with doors and buttons inside a building.",
+        "Look for a vertical metal box with buttons inside a building, often near stairs or hallways.",
+        "A door elevator scene is recognized by its vertical shaft, control panel, and enclosed space for vertical transport."
+    ],
+    "interior elevator": [
+        "Look for enclosed spaces with walls, doors, and often a control panel inside a building.",
+        "An interior elevator scene is a small, enclosed space with walls, a door, and often buttons.",
+        "Interior elevators have metal walls and buttons, unlike other scenes which show varied outdoor or room settings.",
+        "Interior elevators have distinct metal walls, buttons, doors, and often a small space with a specific lighting setup."
+    ],
+    "elevator shaft": [
+        "Look for a tall, narrow opening with visible floors and often a door, usually in a building.",
+        "An elevator shaft has vertical walls and a lift, unlike other scenes which lack these specific features.",
+        "An elevator shaft scene is a narrow vertical space with walls and a lift mechanism inside.",
+        "An elevator shaft has a distinct vertical opening with visible cables and machinery."
+    ],
+    "engine room": [
+        "An engine room has large machinery, pipes, and controls, unlike most other indoor or outdoor scenes.",
+        "Look for large machinery, pipes, and industrial equipment in a dimly lit, enclosed space.",
+        "An engine room has machinery and pipes, unlike other scenes which may show nature or interiors without heavy equipment.",
+        "An engine room scene is a mechanical space with machinery, pipes, and equipment for powering a vehicle or ship."
+    ],
+    "indoor escalator": [
+        "Indoor escalators have moving stairs and railings, unlike static scenes with stairs or other structures.",
+        "An indoor escalator scene has distinct moving stairs, often with people, in a controlled indoor environment.",
+        "Look for a long, moving staircase inside a building with a distinct upward or downward flow.",
+        "A continuous moving staircase with handrails is the unique visual cue for an indoor escalator scene."
+    ],
+    "excavation": [
+        "Excavation scenes have large machinery and exposed earth, unlike other scenes which lack these features.",
+        "Excavation scenes have large machinery, earth-moving activity, and exposed ground, distinguishing them from other outdoor scenes.",
+        "Large machinery digging or moving earth is unique to excavation scenes.",
+        "An excavation scene is a construction site with digging equipment and workers uncovering or building something."
+    ],
+    "indoor factory": [
+        "Large, complex machinery and industrial equipment are unique to indoor factory scenes.",
+        "Indoor factory scenes have distinct features like machinery, pipes, and industrial equipment in a structured environment.",
+        "Indoor factory scenes have structured layouts with machinery, while other scenes vary widely in layout and content.",
+        "Look for large, open spaces with machinery, pipes, and industrial equipment inside a building."
+    ],
+    "fairway": [
+        "Look for a large, open grassy area with a golf ball or tee, often with a flag in the distance.",
+        "A fairway scene is a golf course area with a smooth, grassy surface for playing.",
+        "A fairway scene has a long, open grassy area for golf, unlike other scenes with varied landscapes.",
+        "A fairway scene uniquely features a long, manicured grassy area with golf balls or clubs."
+    ],
+    "fastfood restaurant": [
+        "Look for bright lighting, food displays, and counter service areas typical of fast-food establishments.",
+        "Fastfood restaurants have distinct features like counters, food displays, and indoor seating areas compared to other scenes.",
+        "Fastfood restaurants have bright lighting, food displays, and counter service, unlike other scenes with varied settings and activities.",
+        "A fastfood restaurant scene is a busy indoor setting with food counters, tables, and customers."
+    ],
+    "cultivated field": [
+        "Cultivated fields have organized rows of crops, which are not present in other natural or urban scenes.",
+        "Cultivated fields are characterized by organized rows of crops, open land, and often a rural or agricultural setting.",
+        "Cultivated fields have organized rows of crops, unlike natural or urban scenes with varied or structured elements.",
+        "A cultivated field scene is an open area with rows of crops, often seen in rural settings."
+    ],
+    "wild field": [
+        "Wild field scenes have open, natural landscapes with scattered vegetation, few structures, and a sense of untamed space.",
+        "Wild field scenes have scattered, untamed plants and grasses without clear human-made structures or organization.",
+        "Look for natural, open areas with grass, plants, and lack of man-made structures.",
+        "A wild field scene is a natural, open area with grass, plants, and no man-made structures."
+    ],
+    "fire escape": [
+        "A fire escape scene has outdoor stairs and safety features, unlike indoor or natural settings.",
+        "Fire escape scenes have distinct features like outdoor stairs, railings, and emergency exits, often near buildings.",
+        "Look for outdoor structures with stairs, railings, and platforms, often near buildings, designed for emergency exits.",
+        "A fire escape scene shows outdoor stairs or ladders attached to buildings for emergency exits."
+    ],
+    "fire station": [
+        "Look for large buildings with fire trucks, ladders, and emergency equipment near the entrance.",
+        "Fire stations have distinct red structures, fire trucks, and emergency equipment, setting them apart from other scenes.",
+        "A fire truck is the unique visual cue found in fire station scenes compared to other scenes.",
+        "A fire station scene has large red buildings with vehicles, unlike other scenes which vary widely in appearance."
+    ],
+    "indoor firing range": [
+        "An indoor firing range has distinct gun ranges and safety gear, unlike most other scenes.",
+        "Look for a room with firing lanes, targets, and safety equipment like ear protection.",
+        "An indoor firing range has walls with bullet traps, targets, and people shooting guns in a controlled space.",
+        "Indoor firing ranges have distinct features like bullet traps, shooting lanes, and safety signs, setting them apart from other scenes."
+    ],
+    "fishpond": [
+        "A fishpond scene has water with fish, while other scenes lack this specific aquatic feature.",
+        "Look for water with visible fish, plants around the edges, and a calm, natural setting.",
+        "A fishpond scene is a body of water with fish, often surrounded by greenery and rocks.",
+        "A fishpond scene has clear water, visible fish, and often includes surrounding greenery or rocks."
+    ],
+    "indoor florist shop": [
+        "Look for bright lighting, flower displays, and indoor settings with counters and possibly customers.",
+        "Indoor florist shops have bright, colorful displays of flowers, unlike other scenes with different objects and settings.",
+        "An indoor florist shop has flowers, plants, and decorative items displayed inside a building.",
+        "An indoor florist shop has bright flowers, green plants, and often a counter with arrangements."
+    ],
+    "food court": [
+        "Look for multiple food stalls, seating areas, and a busy, indoor environment with diverse food options.",
+        "A food court scene is an indoor area with multiple food stalls and seating for customers.",
+        "A food court scene has many food stalls and tables, unlike other scenes that lack these features.",
+        "A food court scene has distinct features like food stalls, seating areas, and a busy, indoor environment."
+    ],
+    "broadleaf forest": [
+        "Broadleaf forests are recognized by dense, deciduous trees with large leaves and a lush, green canopy.",
+        "Broadleaf forests have dense green leaves, unlike other scenes with different vegetation or no trees.",
+        "Look for dense trees with large leaves and a mix of green colors in the image.",
+        "Broadleaf forests have distinct large, flat leaves visible on trees, unlike other forest types."
+    ],
+    "needleleaf forest": [
+        "Look for tall, slender trees with pointed leaves, often in a dense, dark green canopy.",
+        "Needleleaf forests are recognized by their tall, slender trees with needle-like leaves and sparse ground cover.",
+        "Needleleaf forests have distinct coniferous trees with needle-like leaves, unlike broadleaf or mixed forests.",
+        "Needleleaf forests have tall, thin trees with needle-like leaves, unlike other scenes with different vegetation or structures."
+    ],
+    "forest path": [
+        "A forest path scene is a narrow trail through trees with natural surroundings on both sides.",
+        "A forest path has trees and ground, unlike open fields or urban areas with buildings and roads.",
+        "A forest path has distinct winding trails, trees on both sides, and natural ground textures.",
+        "A forest path scene has a winding trail bordered by trees and natural vegetation."
+    ],
+    "forest road": [
+        "A forest road scene is a path through trees with natural surroundings on both sides.",
+        "Look for winding paths bordered by trees and vegetation in a natural outdoor setting.",
+        "A forest road scene has trees and a path, unlike urban or desert scenes with buildings or sand.",
+        "A forest road scene has a winding path surrounded by dense trees and natural vegetation."
+    ],
+    "formal garden": [
+        "Formal gardens have structured layouts, symmetrical designs, and manicured plants, unlike natural or informal garden scenes.",
+        "Formal gardens have structured layouts with geometric shapes, while other scenes often lack this organized design.",
+        "Look for neatly arranged plants, pathways, and structures with a symmetrical or geometric design.",
+        "Symmetrical layouts with manicured hedges and geometric plant arrangements are unique to formal garden scenes."
+    ],
+    "fountain": [
+        "Fountain scenes have water features and often people, unlike other scenes which lack these elements.",
+        "Fountain scenes have distinct water jets, decorative structures, and often people interacting near the water.",
+        "Look for water jets, decorative structures, and often people or animals near the water feature.",
+        "A fountain scene features water jets, often in a park or plaza, with people or decorative elements around it."
+    ],
+    "galley": [
+        "A galley scene is recognized by its kitchen appliances, cooking tools, and food preparation areas.",
+        "A galley scene is a kitchen area with cooking appliances and food preparation surfaces.",
+        "Look for long, narrow spaces with parallel lines and often a kitchen setup or cooking area.",
+        "A galley scene shows a kitchen or cooking area, unlike other scenes that depict different environments."
+    ],
+    "game room": [
+        "Look for cues like game tables, arcade machines, or sports equipment in a room setting.",
+        "A game room has distinct features like game tables, arcade machines, and colorful decorations not found in other rooms.",
+        "A game room has unique visual cues like game tables, arcade machines, and various recreational equipment.",
+        "A game room has more colorful decorations and recreational equipment than other typical indoor scenes."
+    ],
+    "indoor garage": [
+        "Indoor garages have concrete floors and parked vehicles, unlike outdoor scenes with natural elements and open spaces.",
+        "Look for enclosed spaces with concrete floors, vehicles, and overhead lighting typical of parking areas.",
+        "An indoor garage scene is a covered space with vehicles, tools, and often concrete floors.",
+        "Indoor garages have distinct features like parked vehicles, concrete floors, and overhead lighting, different from other scenes."
+    ],
+    "garbage dump": [
+        "Look for scattered waste, discarded items, and an overall messy, neglected environment.",
+        "A garbage dump scene is a messy area filled with waste and discarded items.",
+        "A garbage dump scene has scattered waste and debris, unlike other scenes that show organized or natural elements.",
+        "A garbage dump scene has scattered waste, large piles, and often industrial equipment in an open area."
+    ],
+    "gas station": [
+        "Gas stations have fuel pumps and signs, while other scenes lack these specific commercial and service-related features.",
+        "Look for fuel pumps, convenience stores, and signs with brand logos near roads.",
+        "A gas station scene has visible fuel pumps, which are not found in other types of scenes.",
+        "Gas stations have distinct fuel pumps, signage, and often parking areas, setting them apart from other scenes."
+    ],
+    "exterior gazebo": [
+        "An exterior gazebo scene is a small, open-sided structure often found in gardens or parks.",
+        "Look for a freestanding, roofed structure with open sides in an outdoor setting.",
+        "A gazebo scene has a distinct open-roof structure with pillars, often in gardens or parks.",
+        "An exterior gazebo scene has a distinctive roofed structure, unlike other scenes which lack this specific feature."
+    ],
+    "indoor general store": [
+        "Look for shelves with various items, indoor lighting, and a commercial setting without specific product focus.",
+        "An indoor general store has shelves with diverse items, a checkout counter, and a welcoming retail atmosphere.",
+        "Indoor general stores have shelves with diverse items, unlike other scenes that lack this organized retail setup.",
+        "An indoor general store scene has shelves filled with various goods in a retail setting."
+    ],
+    "outdoor general store": [
+        "An outdoor general store scene has a rustic, commercial look, unlike natural or residential scenes.",
+        "Look for a small shop with basic goods outside, often with simple signs and a rustic feel.",
+        "An outdoor general store scene is a rustic shop with basic goods and a simple, rural setting.",
+        "Outdoor general stores have visible merchandise, rustic structures, and a rural setting with clear signage."
+    ],
+    "gift shop": [
+        "A gift shop scene has more merchandise displays and tourist items than other types of scenes.",
+        "A gift shop scene is a retail space filled with various items for sale as gifts.",
+        "A gift shop scene can be identified by displays of souvenirs, trinkets, and tourist-oriented merchandise.",
+        "Gift shops have distinct displays of wrapped presents, cards, and festive decorations not seen in other scenes."
+    ],
+    "golf course": [
+        "Golf courses have manicured fairways, sand bunkers, and water hazards, distinct from other outdoor recreational areas.",
+        "Look for manicured fairways, greens, sand traps, and distant clubhouses with open green spaces.",
+        "A golf course has wide open green spaces with fairways and greens, unlike other scenes with varied structures.",
+        "A golf course scene is a large open area with manicured grass, fairways, and greens for playing golf."
+    ],
+    "indoor greenhouse": [
+        "Indoor greenhouses have visible artificial lighting and controlled climate systems not found in other scenes.",
+        "Indoor greenhouses have distinct features like potted plants, grow lights, and controlled environments not seen in other scenes.",
+        "Look for bright, artificial lighting, plants, and glass structures inside a building.",
+        "Indoor greenhouses have plants inside, while other scenes show outdoor nature, urban areas, or different indoor settings."
+    ],
+    "outdoor greenhouse": [
+        "An outdoor greenhouse scene is a glass structure with plants, often in a garden or farm setting.",
+        "Glass walls and roof structures enclosing plants are unique to outdoor greenhouse scenes.",
+        "Outdoor greenhouses have large glass structures with plants inside, set against natural backgrounds like gardens or fields.",
+        "Look for large glass structures with plants inside, often showing natural light and controlled indoor environments."
+    ],
+    "indoor gymnasium": [
+        "Indoor gymnasiums have large open spaces with sports equipment, unlike other scenes which vary widely in objects and settings.",
+        "An indoor gymnasium has large open spaces, sports equipment, and often a wooden or polished floor.",
+        "An indoor gymnasium has sports equipment, a large open space, and often a wooden or polished floor.",
+        "Look for large open spaces with sports equipment, often featuring wooden floors and high ceilings."
+    ],
+    "indoor hangar": [
+        "Look for large, open indoor spaces with high ceilings and often aircraft or vehicles inside.",
+        "A large, open indoor space with visible structural supports and often aircraft or vehicles.",
+        "Indoor hangars have large open spaces, metal structures, and often contain aircraft or vehicles.",
+        "Indoor hangars have large open spaces with metal structures, unlike other scenes that vary in size and materials."
+    ],
+    "outdoor hangar": [
+        "Look for large, open structures with metal or concrete walls and a roof, often near airports or industrial areas.",
+        "Outdoor hangars have large, open structures with planes, while other scenes lack these specific industrial and aviation features.",
+        "An outdoor hangar scene is a large, open structure used for storing aircraft, often with vehicles nearby.",
+        "Outdoor hangars have large, open structures with metal frames and flat roofs, often near airports or industrial areas."
+    ],
+    "harbor": [
+        "Look for large bodies of water with boats, docks, and industrial structures near the shore.",
+        "A harbor scene has water, boats, and docks, unlike other scenes which lack these maritime elements.",
+        "Harbor scenes have distinct features like water, boats, docks, and industrial structures near the waterfront.",
+        "Harbor scenes uniquely feature large bodies of water with ships and docks, often near urban areas."
+    ],
+    "hayfield": [
+        "Look for tall, golden grass or crops, often with a rural setting and possibly farm equipment nearby.",
+        "A hayfield scene is a rural landscape with harvested grass or hay spread out in open fields.",
+        "Hayfields are characterized by tall, golden grass, rural settings, and often flat, open landscapes.",
+        "A hayfield scene has tall, dried grass, while other scenes have different plants or structures."
+    ],
+    "heliport": [
+        "A heliport scene has landing pads and helicopters, unlike other scenes that lack these specific features.",
+        "A heliport scene is a small landing area for helicopters, often with markings and nearby buildings.",
+        "Look for small buildings with helipads, often near water or urban areas, with distinct landing zones.",
+        "A heliport scene is recognized by its landing pad, helicopters, and often nearby buildings or vehicles."
+    ],
+    "herb garden": [
+        "A herb garden scene is a small, cultivated area with various herb plants growing together.",
+        "A herb garden scene has distinct features like potted plants, fresh herbs, and a natural, cultivated setting.",
+        "A herb garden scene is identified by visible plants, herbs, and possibly gardening tools in a natural setting.",
+        "A herb garden scene has green plants and herbs, unlike other scenes that may show buildings, water, or people."
+    ],
+    "highway": [
+        "Highways have long roads with vehicles, while other scenes have varied features like buildings, nature, or water.",
+        "A highway scene is a long road with many lanes and vehicles traveling in different directions.",
+        "Highways have long, straight, paved roads with multiple lanes and often parallel lines.",
+        "Highways have long, straight roads with multiple lanes, vehicles, and distant horizons, unlike other scenes."
+    ],
+    "hill": [
+        "A hill scene is a landscape with rolling or sloping land, often with vegetation and a natural setting.",
+        "Hills have rolling, elevated terrain with distinct slopes, unlike flat or steep landscapes.",
+        "Hill scenes have rolling slopes and natural vegetation, unlike flat urban or water-dominated landscapes.",
+        "Hill scenes have rolling slopes, green vegetation, and open landscapes, distinguishing them from flat or urban areas."
+    ],
+    "home office": [
+        "Look for a room with a desk, chair, computer, and personal items, often in a residential setting.",
+        "A home office scene is a room with a desk, chair, and computer, used for working.",
+        "A home office has distinct furniture like desks and computers, often with books and papers, in a private setting.",
+        "A home office scene has desks and computers, unlike other scenes that show outdoor or living spaces."
+    ],
+    "hospital": [
+        "A hospital scene is a clinical indoor setting with medical equipment, beds, and healthcare professionals.",
+        "Look for medical equipment, white walls, and signs like \"emergency\" or \"hospital\" to spot a hospital scene.",
+        "A hospital scene has medical equipment and sterile environments, unlike other scenes with natural or commercial elements.",
+        "A hospital scene has distinct medical equipment, white walls, and organized spaces for patient care and treatment."
+    ],
+    "hospital room": [
+        "A hospital room has medical equipment and beds, which are not found in other types of rooms.",
+        "A hospital room has beds, medical equipment, and a clean, sterile environment for patient care.",
+        "Look for medical equipment, beds, white walls, and a clean, organized environment typical of healthcare settings.",
+        "Hospital rooms have distinct medical equipment, beds, and sterile white walls not seen in other scenes."
+    ],
+    "hot spring": [
+        "Hot springs have distinct bubbling water, geothermal heat, and natural mineral-rich pools in outdoor settings.",
+        "Hot springs have visible steam or bubbling water, which is not found in other natural or man-made scenes.",
+        "Hot springs have warm water and steam, unlike other scenes which lack these specific thermal features.",
+        "Look for steamy water, natural rocky surroundings, and a warm, inviting atmosphere in the image."
+    ],
+    "outdoor hot tub": [
+        "Outdoor hot tub scenes have water and seating, unlike indoor or dry outdoor scenes.",
+        "Look for a round or square tub filled with water, often with jets, in a garden or patio area.",
+        "A hot tub scene has visible water with bubbles or jets, unlike other outdoor scenes.",
+        "Outdoor hot tub scenes have distinct water, steam, and surrounding natural elements like plants and sky."
+    ],
+    "outdoor hotel": [
+        "An outdoor hotel scene is a building with rooms, often near a pool or garden, for guests.",
+        "Look for open-air areas with guest accommodations, like patios or pools near buildings.",
+        "Outdoor hotel scenes have man-made structures and clear human presence, unlike natural or indoor scenes.",
+        "Outdoor hotel scenes have clear architectural structures, manicured lawns, and visible amenities like pools or pathways."
+    ],
+    "hotel room": [
+        "Look for a bedroom with a bed, furniture, and often a bathroom or corridor nearby.",
+        "A hotel room has a bed, furniture, and decor, often seen in clean, indoor settings.",
+        "Hotel rooms have distinct features like beds, desks, and TVs, which set them apart from other scenes.",
+        "Hotel rooms have beds and furniture, while other scenes have different objects and layouts."
+    ],
+    "house": [
+        "House scenes have distinct architectural structures and interiors, unlike natural or urban scenes with open spaces or buildings.",
+        "Look for elements like roofs, windows, doors, and walls arranged in a residential structure.",
+        "A house scene is recognized by distinct features like roofs, windows, and doors in a residential setting.",
+        "A house scene is a domestic setting with rooms, furniture, and personal items inside a building."
+    ],
+    "outdoor hunting lodge": [
+        "Look for rustic wood structures, hunting gear, and natural surroundings like forests or mountains.",
+        "Outdoor hunting lodges have rustic wood structures, surrounded by nature, with hunting gear and a cozy, secluded atmosphere.",
+        "An outdoor hunting lodge scene has rustic wood structures and nature elements, unlike urban or indoor settings.",
+        "An outdoor hunting lodge scene features rustic cabins, woodsy elements, and a natural, secluded environment."
+    ],
+    "ice cream parlor": [
+        "Look for bright, clean interiors with counters, colorful treats, and often small tables for customers.",
+        "Ice cream parlors have distinct features like colorful displays, ice cream scoops, and often a vintage or cozy atmosphere.",
+        "Ice cream parlor scenes have bright colors and food displays, unlike other scenes that vary widely in appearance.",
+        "An ice cream parlor scene features colorful treats, tables, and often a bright, cheerful indoor setting."
+    ],
+    "ice floe": [
+        "Ice floe scenes are characterized by floating ice chunks in water with a cold, snowy environment.",
+        "Look for floating ice chunks on water with a cold, often snowy, environment.",
+        "Ice floe scenes have distinct white, icy textures and frozen water features not seen in other natural or urban scenes.",
+        "An ice floe scene shows floating ice pieces on water, often with a cold, snowy environment."
+    ],
+    "ice shelf": [
+        "Look for large, flat, white ice surfaces often with cracks or water nearby.",
+        "Ice shelf scenes have vast, white, icy expanses, unlike other scenes with varied terrain and less ice.",
+        "Ice shelves are flat, white surfaces with cracks and crevasses, often surrounded by water or icebergs.",
+        "An ice shelf scene is a vast, white, icy landscape with floating ice and sometimes water."
+    ],
+    "indoor ice skating rink": [
+        "Indoor ice skating rinks have smooth ice, skaters, and specific lighting, unlike most other scenes.",
+        "An indoor ice skating rink is a cold, indoor area with ice, skaters, and often spectators.",
+        "Look for smooth ice surfaces, skaters, and indoor structures like walls or roofs in the image.",
+        "The presence of ice, skaters, and specialized rink structures distinguishes an indoor ice skating rink."
+    ],
+    "outdoor ice skating rink": [
+        "Outdoor ice skating rinks have smooth, reflective ice surfaces, unlike most other scenes with varied textures.",
+        "Look for a frozen surface with skaters, often with a festive setting and surrounding buildings.",
+        "An outdoor ice skating rink has a frozen surface with skaters, often surrounded by winter scenery.",
+        "An outdoor ice skating rink scene is a winter setting with people skating on ice surrounded by cold weather."
+    ],
+    "iceberg": [
+        "Look for large, white, jagged formations in a cold, blue water environment.",
+        "An iceberg scene has distinct features like sharp, jagged ice formations and a cold, blue water background.",
+        "An iceberg scene has white, jagged ice formations in a cold, blue water setting.",
+        "An iceberg scene features large, white ice formations floating in a dark, cold body of water."
+    ],
+    "igloo": [
+        "An igloo scene is a snowy, dome-shaped structure typically found in cold, arctic environments.",
+        "An igloo scene has a distinct dome-shaped structure made of snow in a cold, snowy environment.",
+        "An igloo scene has a distinct snow dome structure, unlike other scenes with different architectural or natural features.",
+        "An igloo scene has a distinct round, dome-shaped structure made of snow in a cold, snowy environment."
+    ],
+    "industrial area": [
+        "Industrial areas have large buildings, machinery, and storage units with a gritty, functional appearance.",
+        "Industrial areas have more buildings, machinery, and infrastructure compared to natural or residential scenes.",
+        "Look for large buildings, factories, machinery, and infrastructure with a functional, utilitarian design.",
+        "Industrial areas have large, uniform structures with smokestacks or machinery, unlike other scene types."
+    ],
+    "outdoor inn": [
+        "An outdoor inn scene is a cozy establishment with a covered porch and natural surroundings.",
+        "An outdoor inn scene has a building with a porch or entrance, unlike natural or indoor scenes.",
+        "Outdoor inns have distinct features like wooden structures, open porches, and natural surroundings like trees and pathways.",
+        "Look for natural elements like trees and mountains combined with man-made structures like cabins or lodges."
+    ],
+    "islet": [
+        "Look for small, isolated land areas surrounded by water with minimal structures or human activity.",
+        "An islet scene is a small, isolated land area surrounded by water, often with vegetation.",
+        "Islet scenes have distinct features like small land areas surrounded by water, often with vegetation and minimal structures.",
+        "An islet scene is smaller and more isolated with water surroundings compared to other types of scenes."
+    ],
+    "indoor jacuzzi": [
+        "An indoor jacuzzi scene is a warm, bubbly pool inside a building, often in a spa or hotel.",
+        "A indoor jacuzzi scene has a small pool with bubbles, often in a bathroom or spa setting.",
+        "Look for a small, indoor pool with jets, often in a bathroom or spa, with water bubbles.",
+        "An indoor jacuzzi scene has a small, warm pool with bubbles, unlike outdoor or dry indoor scenes."
+    ],
+    "indoor jail": [
+        "Indoor jail scenes have distinct features like barred windows, metal detectors, and institutional furniture.",
+        "An indoor jail scene is a confined space with bare walls, metal bars, and minimal furniture.",
+        "Indoor jail scenes have bare walls and metal bars, unlike other scenes with more varied decor and fewer restrictions.",
+        "Look for barred windows, concrete walls, and institutional furniture in a confined, dimly lit space."
+    ],
+    "jail cell": [
+        "A jail cell scene is a small, confined space with bars, a bed, and minimal furniture.",
+        "Jail cells have barred windows and doors, and often feature bunk beds and institutional furniture.",
+        "Look for barred windows, small rooms, and institutional furniture typical of correctional facilities.",
+        "A jail cell scene has bars and institutional features unlike most other scenes."
+    ],
+    "jewelry shop": [
+        "Look for displays of shiny items, glass cases, and counters with expensive-looking objects in the image.",
+        "Jewelry shops are recognizable by their display cases, shiny items, and often dim, focused lighting.",
+        "A jewelry shop has bright displays and reflective surfaces, unlike most other scenes.",
+        "Jewelry shops uniquely display glittering, valuable items like rings, necklaces, and watches under bright lighting."
+    ],
+    "kasbah": [
+        "Look for fortified buildings with distinct walls and towers in arid or desert environments.",
+        "A kasbah scene is a fortified medieval building complex, often seen in North African towns.",
+        "A kasbah scene is recognized by its fortified walls, arched doorways, and traditional North African architectural elements.",
+        "A kasbah scene has distinctive ancient fort structures, while other scenes lack these unique architectural features."
+    ],
+    "indoor kennel": [
+        "Look for small, enclosed spaces with bedding and often multiple compartments for animals.",
+        "An indoor kennel scene has enclosed animal housing, unlike outdoor or human-centric scenes with open spaces.",
+        "An indoor kennel has distinct features like cages, bedding, and animal-related items in a confined space.",
+        "An indoor kennel scene is a sheltered area with animal enclosures inside a building."
+    ],
+    "outdoor kennel": [
+        "Outdoor kennels have visible dog houses or enclosures with outdoor flooring.",
+        "Look for outdoor structures with pens or enclosures designed to house animals, typically dogs.",
+        "Outdoor kennels have distinct fenced enclosures with multiple dog houses and open grassy areas.",
+        "Outdoor kennels have visible animal enclosures and fences, unlike other scenes which lack these specific structures."
+    ],
+    "kindergarden classroom": [
+        "Kindergarten classrooms have bright colors, educational posters, toys, and small furniture, unlike other scenes.",
+        "Look for small tables, colorful decorations, educational posters, and children's artwork in the room.",
+        "Kindergarten classrooms have colorful educational posters and toys specifically designed for young children's learning.",
+        "A kindergarten classroom has colorful walls, toys, and small desks with young children learning."
+    ],
+    "kitchen": [
+        "Look for common kitchen items like stoves, sinks, and countertops in the image.",
+        "A kitchen scene is a room with cooking appliances, counters, and often a sink or dining area.",
+        "A kitchen scene has distinct features like appliances, countertops, sinks, and cooking tools not found in other scenes.",
+        "Kitchen scenes have more appliances and food items compared to other scenes."
+    ],
+    "kitchenette": [
+        "A kitchenette scene is smaller and has fewer appliances than a full kitchen or dining area.",
+        "A kitchenette scene is a small, compact area with basic cooking appliances and minimal space.",
+        "A kitchenette has compact, combined cooking and storage areas in a small, often auxiliary space.",
+        "Look for small cooking areas with minimal appliances and compact furniture, often found in limited spaces."
+    ],
+    "outdoor labyrinth": [
+        "Outdoor labyrinths have winding paths and walls, unlike open or simple structured scenes.",
+        "Outdoor labyrinths have winding paths, high walls, and natural surroundings, unlike most other outdoor scenes.",
+        "Look for winding paths, high walls, and natural surroundings to spot an outdoor labyrinth scene.",
+        "An outdoor labyrinth scene is a maze-like structure with paths and walls, often in a garden or park."
+    ],
+    "natural lake": [
+        "Natural lakes have calm water and natural surroundings, unlike urban or man-made scenes with buildings or structures.",
+        "A natural lake scene is a body of water surrounded by land, often with trees and clear water.",
+        "Look for calm water surrounded by natural land, with trees or mountains, not man-made structures.",
+        "A natural lake scene has calm water, surrounding land, and natural elements like trees or mountains."
+    ],
+    "landfill": [
+        "Landfills have piles of waste and garbage, unlike natural or clean scenes with greenery or clear spaces.",
+        "Landfills are characterized by large piles of waste, machinery, and a chaotic, industrial appearance.",
+        "Look for large piles of waste, garbage trucks, and open areas with scattered debris.",
+        "A landfill scene is a messy area with lots of trash and waste piled up outdoors."
+    ],
+    "landing deck": [
+        "A landing deck scene is a flat, open area designed for aircraft to take off and land.",
+        "A landing deck scene has runways and aircraft, unlike other scenes which lack these specific features.",
+        "Look for large, open flat surfaces with aircraft, often near water or structures, and minimal vegetation.",
+        "A landing deck scene has distinct features like aircraft, runways, and control towers, setting it apart from other scenes."
+    ],
+    "laundromat": [
+        "A laundromat has washing machines and dryers, while other scenes lack these specific appliances.",
+        "A laundromat has distinct washing machines, dryers, and laundry-related items in a clean, functional indoor setting.",
+        "Look for coin-operated washing machines and dryers in a public setting with a clean, functional environment.",
+        "A laundromat scene shows washing machines and dryers in a public place where people clean clothes."
+    ],
+    "lecture room": [
+        "Look for a room with desks, chairs, a podium, and often a screen or whiteboard.",
+        "A lecture room has a visible podium or lectern at the front for presenting.",
+        "A lecture room scene is a classroom with students, a teacher, and educational materials for learning.",
+        "Lecture rooms have desks and chairs arranged for students, while other scenes lack this specific educational setup."
+    ],
+    "indoor library": [
+        "Indoor libraries have distinct features like bookshelves, reading desks, and quiet spaces with soft lighting.",
+        "Look for shelves filled with books, reading tables, and a quiet atmosphere with natural or artificial lighting.",
+        "An indoor library has shelves of books, reading tables, and a quiet atmosphere.",
+        "An indoor library has shelves of books and quiet spaces, unlike other scenes with different objects and activities."
+    ],
+    "outdoor library": [
+        "Outdoor libraries have books and reading areas outside, while other scenes lack these specific educational elements.",
+        "Outdoor libraries have distinct features like open-air settings, bookshelves, and reading areas visible from the outside.",
+        "Look for outdoor settings with bookshelves, reading areas, and architectural elements typical of libraries.",
+        "An outdoor library scene is a building with books and reading areas outside, often in a park."
+    ],
+    "outdoor lido deck": [
+        "An outdoor lido deck has a pool, sun loungers, and a bright, open area near water.",
+        "Look for bright, open spaces with water, sun loungers, and a pool, often on a boat or ship.",
+        "An outdoor lido deck scene is a sunny, open area on a ship with chairs and a pool.",
+        "An outdoor lido deck scene has a pool, sun loungers, and a nautical feel, unlike other scenes."
+    ],
+    "lift bridge": [
+        "A lift bridge has a central section that can be raised to let boats pass underneath.",
+        "Look for a movable bridge with counterweights or hydraulics that raises to let boats pass.",
+        "A lift bridge scene has a movable structure over water, unlike other scenes with fixed structures or no bridges.",
+        "A lift bridge scene is recognized by its movable span mechanism and waterway crossing structure."
+    ],
+    "lighthouse": [
+        "Look for a tall, cylindrical structure with a light on top near water.",
+        "A lighthouse scene is recognized by a tall, coastal tower with a light, often near water.",
+        "A lighthouse scene has a tall, unique structure by water, unlike other scenes with natural or urban elements.",
+        "A tall, cylindrical structure with a bright light at the top is unique to lighthouse scenes."
+    ],
+    "limousine interior": [
+        "A limousine interior has plush seating and luxury details unlike most other vehicle or indoor scenes.",
+        "A limousine interior scene is a luxurious, spacious car interior with plush seating and high-end features.",
+        "A limousine interior has plush seating, dark tinted windows, and a luxurious, spacious design.",
+        "Look for a spacious, luxurious car interior with plush seating and a divider between the front and back."
+    ],
+    "living room": [
+        "A living room has distinct furniture like sofas and tables arranged for relaxation and social interaction.",
+        "A living room has distinct furniture like sofas and chairs arranged for relaxation and socializing.",
+        "Look for furniture like sofas and chairs arranged for relaxation, often with a TV or fireplace.",
+        "A living room scene is a cozy indoor space with furniture, often including a sofa and a TV."
+    ],
+    "lobby": [
+        "Look for large open spaces with furniture, lighting, and often a reception desk or waiting area.",
+        "A lobby scene has a formal, welcoming interior with furniture and decor, unlike outdoor or casual indoor spaces.",
+        "A lobby scene is a spacious area with furniture, often in a building, for people to wait.",
+        "A lobby scene has distinct features like reception desks, waiting areas, and modern decor compared to other scenes."
+    ],
+    "lock chamber": [
+        "A lock chamber has water-filled compartments with gates and machinery for raising or lowering boats.",
+        "A lock chamber scene has water and gates, unlike other scenes which lack these specific elements.",
+        "Look for a narrow, enclosed waterway with gates and machinery used for raising or lowering boats.",
+        "A lock chamber scene has distinct water gates and moving water, unlike most other outdoor scenes."
+    ],
+    "locker room": [
+        "A locker room scene is a small, enclosed space with lockers and often sports equipment.",
+        "A locker room has lockers and sports equipment, unlike other scenes which lack these specific features.",
+        "Look for tiled floors, lockers, and personal belongings to spot a locker room scene.",
+        "Locker rooms have distinct features like lockers, benches, and often wet floors, setting them apart from other scenes."
+    ],
+    "mansion": [
+        "Mansions have large, ornate architectural features like grand columns and elaborate facades not found in other scenes.",
+        "A mansion scene is a large, luxurious house with many rooms and often a big yard.",
+        "A mansion scene can be identified by large, grand houses with multiple stories and ornate architectural details.",
+        "Mansions have large, ornate structures, expansive lawns, and multiple stories, distinguishing them from other residential or commercial buildings."
+    ],
+    "manufactured home": [
+        "Look for small, prefabricated homes with simple designs, often in residential areas or parks.",
+        "Manufactured home scenes have prefabricated structures and simpler designs compared to natural or traditional residential areas.",
+        "A manufactured home scene shows prefabricated housing often in rural or suburban areas with simple designs.",
+        "Manufactured homes have distinct modular structures, uniform layouts, and often smaller footprints compared to traditional residential scenes."
+    ],
+    "indoor market": [
+        "Indoor markets have stalls, produce displays, and crowds, distinguishing them from other indoor and outdoor scenes.",
+        "Indoor markets have stalls and produce, while other scenes lack these commercial and food-focused elements.",
+        "Look for stalls with produce, people shopping, and indoor lighting in a commercial setting.",
+        "Indoor markets have stalls with fresh produce and goods displayed for sale under a roof."
+    ],
+    "outdoor market": [
+        "Outdoor markets have distinct features like stalls, produce, and crowds, setting them apart from other scenes.",
+        "Outdoor markets have crowded stalls with diverse goods, unlike other scenes that lack such commercial and varied items.",
+        "Look for crowded stalls with fresh produce, varied goods, and people shopping in an open-air setting.",
+        "An outdoor market scene features stalls with goods, people shopping, and a bustling atmosphere under open skies."
+    ],
+    "marsh": [
+        "Marsh scenes have distinct water bodies, dense vegetation, and open spaces with soft, natural light.",
+        "A marsh scene is a wetland area with water, grasses, and sometimes trees.",
+        "A marsh scene has water, grassy areas, and often birds, with a natural, wetland environment.",
+        "Marsh scenes have standing water with emergent vegetation, unlike other wetland or water-based environments."
+    ],
+    "martial arts gym": [
+        "A martial arts gym has mats, training equipment, and sparring areas, unlike typical indoor or outdoor scenes.",
+        "Look for mats, training equipment, and people in specific attire practicing martial arts moves.",
+        "A martial arts gym has mats, training equipment, and combat-focused activities, setting it apart from other scenes.",
+        "Martial arts gyms have unique visual cues like training mats, punching bags, and specific martial arts equipment."
+    ],
+    "mausoleum": [
+        "A mausoleum scene has a distinct appearance with large, stone-built tombs or monuments, often in a formal setting.",
+        "A mausoleum scene has a distinct tomb-like structure, unlike other scenes which lack such architectural features.",
+        "Mausoleums are recognizable by their large, stone structures with distinct architectural designs meant for burial purposes.",
+        "A mausoleum scene is uniquely identified by its large, standalone tomb-like structure."
+    ],
+    "medina": [
+        "Look for narrow, winding streets, traditional architecture, and dense urban layouts typical of old city centers.",
+        "A medina scene has narrow winding streets and traditional architecture, unlike open or modern urban areas.",
+        "A medina scene is an old, narrow, winding street in a North African city with traditional buildings.",
+        "A medina scene is recognized by narrow winding streets, white-washed buildings, and traditional North African architecture."
+    ],
+    "water moat": [
+        "Look for a wide body of water surrounding a structure or area, often with distinct banks.",
+        "A water moat scene has a distinct body of water surrounding a structure, unlike other scenes.",
+        "A water moat scene has a distinct feature of a wide, deep body of water surrounding a structure.",
+        "A water moat scene features a body of water surrounding a structure, often a castle or fort."
+    ],
+    "outdoor monastery": [
+        "Outdoor monastery scenes have distinct religious structures and natural surroundings, unlike urban or natural-only landscapes.",
+        "An outdoor monastery scene is a religious building complex, often with gardens, in a natural setting.",
+        "Outdoor monastery scenes have distinct religious structures, prayer flags, and monastic architecture set in natural surroundings.",
+        "Look for stone structures, prayer flags, and natural surroundings in a peaceful, elevated setting."
+    ],
+    "indoor mosque": [
+        "Indoor mosques have distinct arches, domes, and prayer rugs, setting them apart from other indoor scenes.",
+        "Look for prayer rugs, arches, and a mihrab niche to distinguish an indoor mosque from other scenes.",
+        "The unique visual cue is the presence of intricate geometric patterns and arabesque designs on walls and domes.",
+        "Indoor mosque scenes have unique architectural elements like domes and prayer mats, unlike other indoor or outdoor spaces."
+    ],
+    "outdoor mosque": [
+        "Outdoor mosques have distinct features like minarets, domes, and prayer halls visible in open surroundings.",
+        "Look for a large, arched structure with a dome and minarets, often surrounded by open outdoor space.",
+        "Outdoor mosque scenes have distinct architectural elements like domes and minarets, unlike other scenes.",
+        "The unique visual cue is a large, domed structure with a minaret."
+    ],
+    "motel": [
+        "A motel scene is a simple building with rooms, often near a road, with a parking area.",
+        "Motels have distinct features like parking lots, outdoor signs, and simple architecture compared to other scenes.",
+        "Look for small, roadside buildings with simple designs, often with \"motel\" or \"inn\" signs and parking spaces.",
+        "A motel scene has distinct signs like neon lights and parking areas, unlike other natural or indoor scenes."
+    ],
+    "mountain": [
+        "Mountains have high, rugged terrain with peaks and slopes that are not found in other natural or urban scenes.",
+        "Mountain scenes have high elevations with rocky terrain and peaks, unlike flat or urban landscapes.",
+        "Mountains have tall peaks, rocky terrain, and often snow, distinguishing them from other natural or urban scenes.",
+        "Look for tall, natural landforms with peaks, often surrounded by trees or sky in the image."
+    ],
+    "mountain snowy": [
+        "Mountain snowy scenes have distinct white, textured peaks and cold, clear atmospheres not seen in other scenes.",
+        "Mountain snowy scenes have white, cold landscapes with peaks, while other scenes show warmer, varied terrain and colors.",
+        "Snow covering peaks and slopes is unique to mountain snowy scenes.",
+        "Look for large, white, jagged peaks with snow and ice against a clear or cloudy sky."
+    ],
+    "indoor movie theater": [
+        "Indoor movie theaters have large screens, dark interiors, and rows of seats, distinguishing them from other scenes.",
+        "Indoor movie theaters have dark rooms with large screens and seats, unlike most other scenes with natural light.",
+        "An indoor movie theater has dark seating, a large screen, and people watching a film.",
+        "Look for a large screen, dark surroundings, rows of seats, and possibly people watching a movie."
+    ],
+    "indoor museum": [
+        "Indoor museum scenes have distinct features like large open spaces, high ceilings, and displayed artifacts.",
+        "Indoor museums have structured layouts with exhibits and lighting, unlike outdoor or residential scenes with natural elements.",
+        "Look for large, open spaces with exhibits, often dimly lit, and featuring architecture or artifacts.",
+        "Museum scenes uniquely feature large, open indoor spaces with displays and exhibits."
+    ],
+    "music store": [
+        "A music store has instruments, sheet music, and sound equipment, unlike other retail or entertainment venues.",
+        "Look for displays of instruments, sheet music, and listening stations in a retail setting.",
+        "A music store has instruments and related gear, unlike other scenes with different objects and settings.",
+        "Music stores have displays of instruments like guitars and drums, which are not found in other scenes."
+    ],
+    "music studio": [
+        "A music studio has distinct recording equipment, soundproofing materials, and often a controlled, minimalist environment.",
+        "Look for instruments, recording equipment, and soundproofing materials in a room designed for music production.",
+        "A music studio scene has instruments, recording equipment, and soundproof walls in a dedicated space.",
+        "A music studio scene has recording equipment and instruments, unlike other scenes with different objects and settings."
+    ],
+    "outdoor nuclear power plant": [
+        "Outdoor nuclear power plants have large cooling towers and reactor buildings, unlike other industrial or natural scenes.",
+        "Outdoor nuclear power plants have distinctive cooling towers and reactor buildings, unlike other scenes.",
+        "Look for large cooling towers, reactor buildings, and industrial structures in an outdoor setting.",
+        "Large cooling towers with distinctive hyperbolic shapes are unique to outdoor nuclear power plant scenes."
+    ],
+    "nursery": [
+        "Look for bright colors, toys, cribs, and child-friendly furniture in a cozy, playful setting.",
+        "A nursery scene is recognized by soft colors, toys, cribs, and child-friendly decor.",
+        "A nursery scene is a cozy room with furniture, toys, and decorations for babies or young children.",
+        "A nursery scene uniquely features baby furniture and decor designed for infants."
+    ],
+    "oast house": [
+        "A oast house scene is a rural building used for drying hops, often with conical roofs.",
+        "Look for tall, cylindrical buildings with conical roofs, often near farms, used for drying hops.",
+        "An oast house scene has a distinctive conical roof structure, unlike other scenes with flat or gabled roofs.",
+        "A oast house scene is recognized by its distinctive conical drying kilns used for processing hops."
+    ],
+    "outdoor observatory": [
+        "An outdoor observatory has large domes and telescopes, unlike other scenes which lack these specific features.",
+        "An outdoor observatory has large domes, telescopes, and often dark surroundings with scientific equipment.",
+        "Look for large domes, telescopes, and dark skies in open areas with minimal buildings.",
+        "Large domes with telescopes are unique to outdoor observatory scenes."
+    ],
+    "ocean": [
+        "Look for large bodies of water with waves, blue hues, and possibly sandy shores or boats.",
+        "Ocean scenes have large bodies of water and horizons, unlike other scenes with different natural or urban elements.",
+        "An ocean scene is a wide view of water with waves, often showing sky and maybe a beach.",
+        "Ocean scenes have large bodies of water with waves, often blue skies, and distant horizons."
+    ],
+    "office": [
+        "Look for desks, chairs, computers, and organized spaces with a professional or work-related setting.",
+        "Offices have distinct desks, computers, chairs, and indoor lighting setups not found in other scenes.",
+        "Desks with computers and office supplies are unique to office scenes.",
+        "An office scene has desks and computers, while other scenes have different furniture and activities."
+    ],
+    "office building": [
+        "Office buildings have structured facades and windows, unlike natural or residential scenes that lack such uniformity.",
+        "Look for tall structures with windows and offices, often in urban areas with other buildings nearby.",
+        "Office buildings have distinct rectangular shapes, large windows, and structured facades compared to other scenes.",
+        "An office building scene looks like a structured, multi-story structure with windows and often a professional environment."
+    ],
+    "outdoor oil refinery": [
+        "Outdoor oil refineries have large industrial structures and equipment, unlike natural or urban scenes with buildings or landscapes.",
+        "Outdoor oil refineries have large industrial structures, storage tanks, and pipelines, unlike natural or urban scenes.",
+        "Look for large industrial structures, tanks, pipes, and processing equipment in an outdoor setting.",
+        "Large industrial structures with interconnected pipelines and storage tanks are unique to outdoor oil refinery scenes."
+    ],
+    "oilrig": [
+        "Look for large offshore structures with drilling equipment, pipes, and platforms in a water environment.",
+        "Oilrig scenes have industrial structures on water, unlike natural or urban scenes with buildings or landscapes.",
+        "An oilrig scene has distinct features like large offshore structures, industrial equipment, and water surrounding it.",
+        "An oilrig scene is a man-made structure at sea used for drilling oil, often with machinery and platforms."
+    ],
+    "operating room": [
+        "An operating room has distinct medical equipment, sterile environment, and bright lighting for surgical procedures.",
+        "Operating rooms have visible medical equipment like surgical tools and monitors not found in other scenes.",
+        "An operating room has medical equipment and sterile environment, unlike other scenes with varied objects and settings.",
+        "Look for bright, sterile lighting, medical equipment, and a clean, organized environment typical of surgical settings."
+    ],
+    "orchard": [
+        "Orchards have rows of fruit trees, which are not found in other types of scenes.",
+        "Look for rows of trees with fruit, often with open spaces and natural surroundings.",
+        "Orchards have distinct rows of fruit trees and open green spaces, unlike other natural or urban scenes.",
+        "An orchard scene has trees with fruits, while other scenes lack this specific agricultural feature."
+    ],
+    "outdoor outhouse": [
+        "Look for small, standalone buildings with simple designs, often near natural areas and lacking modern amenities.",
+        "An outdoor outhouse scene has a small, rustic toilet building, unlike other scenes with different structures or settings.",
+        "An outdoor outhouse scene features a simple, standalone toilet structure in a natural or rural setting.",
+        "A small, standalone wooden structure with a roof and a door, typically found in rural or camping areas."
+    ],
+    "pagoda": [
+        "Pagodas have tiered, multi-roofed structures with distinctive eaves and often appear in religious or cultural settings.",
+        "Look for tiered, multi-roofed structures with upward-pointing eaves, often surrounded by gardens or temples.",
+        "A pagoda scene is a traditional Asian temple with multiple tiered roofs and often surrounded by nature.",
+        "A pagoda scene has a distinctive multi-tiered roof structure, unlike other scenes with flat or simple roofs."
+    ],
+    "palace": [
+        "Palaces have grand, ornate architecture with multiple stories, large windows, and often surrounded by formal gardens.",
+        "Palaces have large, ornate structures with distinct architectural details like domes and grand facades.",
+        "Look for grand, ornate architecture with large rooms, multiple stories, and decorative elements like columns or statues.",
+        "Palace scenes have grand structures and ornate details, unlike simpler scenes with basic buildings or natural elements."
+    ],
+    "pantry": [
+        "A pantry scene is recognized by shelves with food items, storage containers, and kitchen supplies.",
+        "A pantry scene is identified by shelves, food containers, and kitchen supplies in a storage area.",
+        "A pantry scene is a storage room with shelves filled with food items and kitchen supplies.",
+        "A pantry scene has shelves with food items, unlike other scenes that show different objects or settings."
+    ],
+    "park": [
+        "A park scene has distinct features like green grass, trees, open spaces, and recreational areas.",
+        "Look for open green spaces with trees, paths, and recreational areas in the image.",
+        "A park scene has more greenery and open spaces compared to other scenes.",
+        "A park scene is a green outdoor area with trees, grass, and often people or paths."
+    ],
+    "indoor parking garage": [
+        "Indoor parking garages have concrete structures and cars, unlike outdoor scenes with nature or buildings.",
+        "Look for large, open spaces with concrete structures, cars, and often directional signs inside a building.",
+        "The presence of multiple levels with ramps and designated parking spots is unique to indoor parking garages.",
+        "Indoor parking garages have distinct rows of parked cars, concrete structures, and overhead lighting."
+    ],
+    "outdoor parking garage": [
+        "An outdoor parking garage scene is a large structure with multiple levels for parking vehicles outside.",
+        "Look for large, open areas with multiple levels, cars parked closely, and structural supports.",
+        "Outdoor parking garages have distinct multi-level structures with visible cars, ramps, and often urban surroundings.",
+        "Outdoor parking garages have structured, multi-level designs with cars, while other scenes lack this organized, vehicle-focused layout."
+    ],
+    "parking lot": [
+        "Parking lots have distinct rows of parked vehicles and clear, open spaces with defined boundaries.",
+        "Look for large, paved areas with multiple parked vehicles and clear lines or markings.",
+        "Parking lots have many cars and flat surfaces, unlike other scenes which show more nature or buildings.",
+        "A parking lot scene is an open area with many vehicles parked in organized spaces."
+    ],
+    "parlor": [
+        "Look for a room with elegant furniture, often used for entertaining, and decorated with refined details.",
+        "A parlor scene is recognized by its indoor setting, furniture, and often a fireplace or decorative elements.",
+        "A parlor scene is a room used for social gatherings, often with furniture and decorations.",
+        "A parlor scene uniquely features elegant furniture and decorative elements arranged for formal or social gatherings."
+    ],
+    "pasture": [
+        "Look for open grassy areas with scattered trees and possibly livestock, often with a rural setting.",
+        "A pasture scene is a grassy field with livestock, often surrounded by trees and fences.",
+        "A pasture scene has green grass and often livestock, unlike urban or desert scenes with buildings or sand.",
+        "A pasture scene has open grassy areas with scattered trees and livestock, distinguishing it from other natural or urban scenes."
+    ],
+    "patio": [
+        "A patio scene is an outdoor area with a paved floor, often near a house, used for relaxation.",
+        "Look for outdoor spaces with paved flooring, furniture, and often adjacent to buildings or gardens.",
+        "A patio scene has outdoor paved areas for relaxation, unlike indoor or natural scenes with different features.",
+        "A patio scene has distinct features like outdoor furniture, paved flooring, and open space surrounded by walls."
+    ],
+    "pavilion": [
+        "A pavilion scene is an open-air structure, often with a roof, in a public or garden setting.",
+        "Look for open structures with roofs and open sides, often in gardens or parks.",
+        "A pavilion scene has a distinct open-roof structure, unlike enclosed buildings or natural outdoor settings.",
+        "A pavilion scene is uniquely identified by its open-roofed structure with pillars or columns."
+    ],
+    "pharmacy": [
+        "A pharmacy has distinct features like medicine shelves, counters, and healthcare items not found in other scenes.",
+        "A pharmacy scene has medical supplies and organized shelves, unlike other scenes which vary widely in content.",
+        "Pharmacy scenes uniquely feature medicine cabinets or shelves with labeled bottles and medical supplies.",
+        "A pharmacy scene features medicine shelves, counters, and healthcare items in a clean, organized retail setting."
+    ],
+    "phone booth": [
+        "A phone booth scene is recognized by its distinct glass enclosure and public telephone inside.",
+        "Look for a small, enclosed structure with a phone inside, often found on streets or in public areas.",
+        "A phone booth scene has a distinct, enclosed structure with a phone inside, unlike other scenes.",
+        "A phone booth scene features a standalone booth with a phone, often in urban settings."
+    ],
+    "physics laboratory": [
+        "Physics labs have scientific equipment and tools, unlike other scenes that lack these specific items.",
+        "Look for equipment like lab tables, scientific instruments, and white coats to spot a physics laboratory scene.",
+        "A physics laboratory scene features scientific equipment, experiments, and educational tools for studying physical phenomena.",
+        "A physics lab has unique equipment like lab benches, scientific instruments, and often white coats, distinguishing it from other scenes."
+    ],
+    "picnic area": [
+        "A picnic area has tables and open space, unlike other scenes which vary in structure and purpose.",
+        "Look for open grassy areas with tables, benches, and people, often near nature or recreational spots.",
+        "A picnic area has open grass, tables, benches, and people, often near trees or water.",
+        "A picnic area scene is an open space with tables, benches, and grass for outdoor dining and relaxation."
+    ],
+    "indoor pilothouse": [
+        "An indoor pilothouse scene has controls and windows, unlike outdoor or other indoor scenes.",
+        "Look for enclosed spaces with windows, control panels, and often a nautical or vehicle setting.",
+        "Indoor pilothouse scenes have distinct control panels, steering wheels, and windows facing outward for recognition.",
+        "An indoor pilothouse scene is a room with controls, windows, and equipment used to operate a ship."
+    ],
+    "outdoor planetarium": [
+        "Outdoor planetarium scenes have large domes with star patterns, unlike other outdoor or indoor scenes.",
+        "Look for a large, dark dome with stars or projections, often with people sitting inside.",
+        "Outdoor planetarium scenes have large domes and dark skies, unlike other scenes with natural or urban elements.",
+        "An outdoor planetarium scene is a large dome building with a sky-like projection inside, often in a park."
+    ],
+    "playground": [
+        "A playground scene is an outdoor area with play equipment like swings and slides for children.",
+        "Look for swings, slides, and open spaces with children's play equipment in the image.",
+        "Playground scenes have play equipment and children, while other scenes lack these specific features.",
+        "Playgrounds have distinct features like swings, slides, and play structures, often in open outdoor areas."
+    ],
+    "playroom": [
+        "A playroom has toys and children's furniture, which are not found in other types of rooms.",
+        "Look for toys, colorful decorations, and a space designed for children's activities.",
+        "A playroom has colorful toys, furniture for kids, and a playful atmosphere not seen in other rooms.",
+        "A playroom has more toys and bright colors compared to other scenes."
+    ],
+    "plaza": [
+        "Look for open, paved areas with surrounding buildings and often people, benches, or fountains.",
+        "Plaza scenes have open, paved areas with people and buildings, unlike natural or indoor scenes.",
+        "A plaza scene is an open public area with paved ground, often surrounded by buildings and people.",
+        "Plazas have open, paved areas with surrounding buildings, often featuring fountains or statues."
+    ],
+    "indoor podium": [
+        "Indoor podium scenes have structured, man-made elements, unlike natural or outdoor scenes with more organic features.",
+        "A podium scene has a raised platform with steps, often used for awards or speeches.",
+        "An indoor podium scene is a stage-like platform inside a building used for speeches or presentations.",
+        "A podium scene has a raised platform, often with a microphone, in an indoor setting."
+    ],
+    "outdoor podium": [
+        "An outdoor podium scene is a raised platform used for speeches or awards in open-air settings.",
+        "Look for a raised platform outside with people or objects, often used for speeches or awards.",
+        "Outdoor podium scenes have distinct raised platforms with speakers or awards, often in open areas.",
+        "Outdoor podium scenes have elevated platforms with speakers, unlike other scenes which lack this specific structure."
+    ],
+    "pond": [
+        "A pond scene is a body of still water surrounded by land, often with vegetation and wildlife.",
+        "Look for calm water with vegetation, reflections, and natural surroundings like trees or rocks.",
+        "A pond scene has calm, still water with reflections, unlike other water bodies like rivers or oceans.",
+        "A pond scene has calm water and natural elements, unlike urban or mountain scenes with different features."
+    ],
+    "establishment poolroom": [
+        "Look for billiard tables, cues, and a dimly lit room with a focus on gaming activities.",
+        "A poolroom scene has billiard tables and cues, unlike other scenes which lack these specific sports elements.",
+        "A poolroom has billiard tables, cues, balls, and often a dimly lit, social atmosphere with players.",
+        "A pool table is the unique visual cue in a poolroom scene compared to other scenes."
+    ],
+    "home poolroom": [
+        "Look for a room with a pool table, often with cues and balls, in a residential setting.",
+        "A home poolroom has a billiard table with pockets, which is not found in other scenes.",
+        "A home poolroom has a billiard table, cues, balls, and often a casual indoor setting.",
+        "A home poolroom scene has billiard tables and cues, unlike other scenes which lack these specific gaming elements."
+    ],
+    "outdoor power plant": [
+        "Outdoor power plants have large machinery and structures, unlike natural or urban scenes with fewer industrial elements.",
+        "Look for large machinery, industrial structures, and energy-related equipment in an outdoor setting.",
+        "Outdoor power plants have large machinery, tall structures, and industrial equipment visible in open settings.",
+        "Large industrial equipment and machinery are unique to outdoor power plant scenes."
+    ],
+    "promenade deck": [
+        "Look for a large, open deck area with railings, often on a ship, and possibly with people walking.",
+        "A promenade deck scene is an outdoor area on a ship with a walkway and often railings.",
+        "A promenade deck scene has a ship's outdoor walkway, unlike other scenes with different structures or settings.",
+        "A promenade deck scene has distinct features like open spaces, railings, and boats, setting it apart from other scenes."
+    ],
+    "indoor pub": [
+        "Look for dim lighting, wooden furniture, beer mugs, and a crowded atmosphere typical of pubs.",
+        "An indoor pub scene is a cozy, dimly lit room with wooden tables, bar counter, and people.",
+        "An indoor pub scene has wooden furniture and dim lighting, unlike bright, open spaces or modern interiors.",
+        "An indoor pub scene has wooden tables, bar counters, and dim lighting, setting it apart from other scenes."
+    ],
+    "pulpit": [
+        "A pulpit scene includes a raised platform for speaking, unlike other scenes which lack this specific feature.",
+        "Look for elevated platforms with religious figures speaking, often in churches or places of worship.",
+        "A pulpit scene uniquely features a raised platform or podium used for religious speeches or sermons.",
+        "A pulpit scene has a raised platform with religious figures, often in a church or chapel setting."
+    ],
+    "putting green": [
+        "A putting green scene is a flat, grassy area with holes and markers for playing golf.",
+        "A putting green scene has distinct features like short grass, a hole, and a golf club.",
+        "Look for smooth, flat, closely mowed grass with a hole and a golf club or ball nearby.",
+        "A putting green scene has short, uniform grass and a flat surface, unlike varied landscapes or rough terrain."
+    ],
+    "racecourse": [
+        "Look for a long, straight track with starting gates and often spectators or horses nearby.",
+        "A racecourse has a distinct oval or circular track designed for horse or car racing.",
+        "A racecourse scene is an open area with tracks and spectators, often showing horses or cars.",
+        "A racecourse has distinct features like tracks, starting gates, and spectators, differentiating it from other outdoor scenes."
+    ],
+    "raceway": [
+        "A raceway scene is a track for racing vehicles, often with spectators and fast-moving cars.",
+        "A raceway scene has a unique visual cue of a long, winding track designed for racing vehicles.",
+        "A raceway scene has tracks and vehicles, while other scenes lack these specific elements.",
+        "A raceway scene has distinct features like tracks, vehicles, and spectators, setting it apart from other scenes."
+    ],
+    "raft": [
+        "A raft scene is a water-based setting with a small boat-like vessel floating on a body of water.",
+        "A raft scene has water and a floating vessel, unlike other scenes which may lack these elements.",
+        "Look for flat, buoyant objects on water with people or equipment nearby.",
+        "A raft scene is recognized by water, floating objects, and often outdoor settings with natural elements."
+    ],
+    "railroad track": [
+        "Look for parallel lines, metal rails, ties, and often a rural or industrial setting.",
+        "A railroad track scene features tracks, trains, and often industrial or outdoor settings.",
+        "Railroad tracks have straight lines and metal rails, unlike natural scenes with curves and organic elements.",
+        "Railroad tracks have long parallel lines, metal ties, and often a rural or industrial setting."
+    ],
+    "rainforest": [
+        "Rainforests have dense, tall trees, lush greenery, and diverse plant life, often with mist or water features.",
+        "Rainforests have dense green vegetation and tall trees, unlike other scenes which may have fewer plants or different structures.",
+        "Look for dense, tall trees, lush greenery, and a thick canopy covering the ground.",
+        "A rainforest scene is a lush, dense area with tall trees, green plants, and lots of moisture."
+    ],
+    "reception": [
+        "Look for a room with a desk, chairs, and people, often in a professional or waiting area.",
+        "Reception scenes have distinct features like waiting areas, front desks, and organized layouts for guest interaction.",
+        "A reception scene is a welcoming area where people gather, often with a desk or counter.",
+        "Reception scenes have more people and tables, while other scenes vary in objects and fewer people."
+    ],
+    "recreation room": [
+        "A recreation room has games, furniture, and entertainment items for leisure activities.",
+        "A recreation room has sports equipment and game areas, unlike other rooms that focus on living or working.",
+        "A recreation room has game equipment like pool tables or arcade machines not found in other rooms.",
+        "A recreation room has distinct features like game equipment, sofas, and recreational items not found in other scenes."
+    ],
+    "residential neighborhood": [
+        "Residential neighborhoods have distinct features like houses, streets, and yards that separate them from other scene types.",
+        "Residential neighborhoods have houses and streets, unlike natural scenes with mountains or forests and urban scenes with tall buildings.",
+        "Look for houses, streets, and yards together to spot a residential neighborhood scene.",
+        "Residential neighborhoods have houses with lawns, unlike other scenes that lack these domestic structures."
+    ],
+    "restaurant": [
+        "Look for tables, chairs, food, and a dining area to spot a restaurant scene.",
+        "Restaurants have visible food displays, which are not commonly found in other types of scenes.",
+        "Restaurants have distinct features like tables, chairs, food, and indoor settings compared to other scenes.",
+        "A restaurant scene is an indoor setting with tables, chairs, and food, often showing people dining."
+    ],
+    "restaurant kitchen": [
+        "Look for cooking equipment, food preparation, and staff in a functional, often busy indoor space.",
+        "A restaurant kitchen scene has distinct features like cooking appliances, food preparation, and chefs working in a functional space.",
+        "A restaurant kitchen has visible cooking appliances and food preparation surfaces not found in other scenes.",
+        "A restaurant kitchen scene has cooking equipment and food prep areas, unlike other scenes with different objects and settings."
+    ],
+    "restaurant patio": [
+        "Look for outdoor seating areas with tables, chairs, and sometimes plants near buildings or streets.",
+        "A restaurant patio scene has outdoor seating and food elements, unlike other scenes which lack these features.",
+        "A restaurant patio has outdoor seating, food tables, and a relaxed atmosphere near a building.",
+        "A restaurant patio scene is an outdoor dining area with tables, chairs, and often plants or umbrellas."
+    ],
+    "rice paddy": [
+        "Rice paddies have flooded fields with green crops, distinct from other agricultural or natural scenes.",
+        "Rice paddies have flooded fields with green plants, unlike dry land or urban scenes with buildings and roads.",
+        "Look for flooded fields with green plants and straight lines, often with surrounding rural landscapes.",
+        "A rice paddy scene shows flooded fields with growing rice plants, often in rural agricultural areas."
+    ],
+    "riding arena": [
+        "A riding arena has distinct features like horse jumps, sand floors, and fenced boundaries not seen in other scenes.",
+        "A riding arena scene is an enclosed area with jumps and horses, used for equestrian activities.",
+        "Look for enclosed spaces with marked lanes, often with sand or dirt, and riding equipment nearby.",
+        "A riding arena has a flat, enclosed area with fences, unlike other scenes which vary in terrain and openness."
+    ],
+    "river": [
+        "Rivers have flowing water, natural banks, and often surrounding greenery, distinguishing them from other water or land scenes.",
+        "Look for flowing water with banks, trees, and possibly a bridge or boats in the image.",
+        "A river scene has flowing water and often greenery, unlike other scenes which may lack these elements.",
+        "A river scene features flowing water bordered by land, often with trees or rocks nearby."
+    ],
+    "rock arch": [
+        "Rock arch scenes have unique curved rock formations, unlike other scenes with flat or varied terrain features.",
+        "Look for a natural stone arch structure with an open passage through it in the landscape.",
+        "Rock arch scenes have unique curved openings in cliffs, distinguishing them from other natural and man-made structures.",
+        "A rock arch scene is uniquely identified by a natural stone archway formed by erosion."
+    ],
+    "rope bridge": [
+        "Look for a bridge with ropes supporting it, often over water or a gap in nature.",
+        "A rope bridge scene shows a suspended bridge made of ropes over a gap or water.",
+        "A rope bridge scene has a unique hanging bridge structure over water or a gap.",
+        "A rope bridge scene has hanging ropes and a bridge structure, unlike other scenes with flat surfaces."
+    ],
+    "ruin": [
+        "Ruin scenes have weathered structures and decay, unlike other scenes that are often intact or natural.",
+        "Ruins have visible signs of decay and destruction that are not present in other scene types.",
+        "Look for weathered structures, broken elements, and signs of decay in the image.",
+        "Ruin scenes have distinct features like decaying structures, broken walls, and overgrown vegetation compared to other scenes."
+    ],
+    "runway": [
+        "A runway scene has a long, flat, paved surface for aircraft, unlike other scenes with varied terrain or structures.",
+        "A runway scene is a long, paved path where planes take off and land, often with airport buildings nearby.",
+        "Runway scenes have distinct long, straight paths with parallel lines and often feature aircraft or vehicles.",
+        "Look for long, flat, paved surfaces with markings, often surrounded by grass or tarmac near airports."
+    ],
+    "sandbar": [
+        "Look for flat, sandy areas in water with clear boundaries and no buildings or dense vegetation.",
+        "A sandbar scene is a flat area of sand in water, often near a river or ocean.",
+        "Sandbar scenes have distinct features like exposed sandy areas near water with minimal vegetation and flat terrain.",
+        "Sandbar scenes have exposed sandy areas near water, unlike other scenes which may lack this distinct feature."
+    ],
+    "sandbox": [
+        "A sandbox scene has loose, fine sand, often with toys or imprints, unlike natural sandy areas.",
+        "Look for a small area with fine sand, often with toys or children, and simple structures.",
+        "A sandbox scene is recognized by its small, loose, granular material and often includes toys or digging tools.",
+        "A sandbox scene is a small area with sand where children play, often found in outdoor playgrounds."
+    ],
+    "sauna": [
+        "Look for wooden walls, steam, and people relaxing in a hot, enclosed room with simple decor.",
+        "A sauna scene is a small, steamy room with wooden benches and people relaxing.",
+        "A sauna scene has wooden walls and steam, unlike other scenes which lack these specific features.",
+        "A sauna scene has distinct features like wooden walls, steam, and people relaxing in a hot, humid environment."
+    ],
+    "schoolhouse": [
+        "Schoolhouses have distinct buildings with classrooms, while other scenes lack these educational structures.",
+        "A schoolhouse scene has distinct features like classrooms, desks, and educational signs that set it apart from other scenes.",
+        "A schoolhouse scene has classrooms, desks, and educational signs, distinguishing it from other indoor or outdoor settings.",
+        "A schoolhouse scene uniquely features classrooms with desks, whiteboards, and educational materials."
+    ],
+    "sea cliff": [
+        "Sea cliffs have steep rock faces near water, distinguishing them from other coastal or mountain scenes.",
+        "A sea cliff scene has a vertical rock face meeting the ocean water.",
+        "A sea cliff scene has steep rock faces near water, unlike other scenes with flatter or different terrain.",
+        "A sea cliff scene has steep rock faces near the ocean with waves crashing at the bottom."
+    ],
+    "server room": [
+        "A server room has many computers and equipment racks in a clean, organized indoor space.",
+        "A server room has many computers and wires, unlike other scenes that show different objects and settings.",
+        "Look for organized racks, cables, and equipment in a controlled environment with uniform lighting.",
+        "A server room has racks of computers and networking equipment, which are not found in other scenes."
+    ],
+    "shed": [
+        "Look for small, simple structures with basic materials like wood or metal, often in outdoor settings.",
+        "A shed scene is recognized by its small, rustic structure with a roof, often in a backyard or garden.",
+        "A shed scene is a small outdoor structure with tools and supplies, often in a backyard or garden.",
+        "A shed scene is smaller and more rustic than other scenes, often with simple wooden structures."
+    ],
+    "shoe shop": [
+        "Look for displays of shoes, racks, and counters in a retail setting with a focus on footwear.",
+        "Shoe shops have displays of footwear, shelves, and often mirrors, distinguishing them from other retail or home scenes.",
+        "Shoe shops uniquely display a variety of footwear prominently on shelves or racks.",
+        "A shoe shop scene has displays of shoes, while other scenes show different objects or environments."
+    ],
+    "shopfront": [
+        "Look for a storefront with a visible entrance, display windows, and often a sign or awning.",
+        "A shopfront scene is a storefront with windows, signs, and displays, often on a busy street.",
+        "Shopfront scenes have distinct features like storefront signs, windows, and commercial displays that set them apart from other scenes.",
+        "Shopfront scenes have visible storefronts with windows and signs, unlike other scenes that lack commercial building fronts."
+    ],
+    "indoor shopping mall": [
+        "Indoor shopping malls have many stores and people, unlike outdoor scenes which are more natural.",
+        "Indoor shopping malls have distinct features like multiple stores, large walkways, and bright lighting.",
+        "Look for large open spaces with multiple stores, high ceilings, and often a central atrium or food court.",
+        "An indoor shopping mall has stores, walkways, and people inside a large, enclosed building."
+    ],
+    "shower": [
+        "A shower scene is recognized by water, steam, wet surfaces, and a distinct enclosed bathing area.",
+        "Look for wet surfaces, steam, shower curtains, and bathing fixtures to spot a shower scene.",
+        "A shower scene has wet surfaces and steam, unlike other scenes which lack these moisture-related visual cues.",
+        "A shower scene shows a bathroom area with water running and a person under a showerhead."
+    ],
+    "skatepark": [
+        "Look for ramps, rails, and smooth surfaces typical of skateboarding areas.",
+        "Skateparks have ramps and rails designed for skateboarding, which are not found in other scenes.",
+        "Skateparks have ramps, rails, and smooth surfaces for skateboarding, distinguishing them from other outdoor recreational areas.",
+        "A skatepark scene has ramps and rails, while other scenes lack these specific structures."
+    ],
+    "ski lodge": [
+        "Look for wooden structures, ski equipment, and snowy surroundings to spot a ski lodge scene.",
+        "A ski lodge scene has wooden structures and snow, unlike other scenes which lack these features.",
+        "A ski lodge scene has distinct features like wooden structures, fireplaces, and snowy surroundings.",
+        "A ski lodge scene is a cozy indoor place with wooden walls and fireplaces, often near snowy mountains."
+    ],
+    "ski resort": [
+        "A ski resort has snowy slopes and ski lifts, unlike other scenes which lack these features.",
+        "Ski resorts have man-made slopes and lifts for skiing, which are not found in other types of scenes.",
+        "Look for snowy slopes, ski lifts, and buildings designed for winter sports in the image.",
+        "A ski resort has snowy slopes, ski lifts, and winter structures like lodges set in mountainous areas."
+    ],
+    "ski slope": [
+        "Ski slopes have steep, snow-covered inclines with skiers or snowboarders, often set in mountainous, winter environments.",
+        "Look for steep, snow-covered paths with skiers or ski equipment, often set in mountainous areas.",
+        "A ski slope scene is a snowy, sloped area with skiers or snowboarding equipment.",
+        "Ski slopes have snow and ski equipment, while other scenes lack these elements and vary in terrain and objects."
+    ],
+    "sky": [
+        "A sky scene is recognized by its open, vast, and often blue upper portion with few obstructions.",
+        "Look for wide, open areas with visible blue or white areas above, often with clouds or a gradient.",
+        "The sky scene has a vast, open expanse of clouds or blue sky visible in the image.",
+        "A sky scene features clouds, blue hues, and open space, often seen in outdoor and natural settings."
+    ],
+    "skyscraper": [
+        "Skyscrapers have tall buildings and urban elements, unlike natural or residential scenes with fewer structures.",
+        "Skyscrapers have tall, glass buildings with multiple floors and a modern urban setting.",
+        "Look for tall, rectangular buildings with many windows and a distinct vertical structure in the image.",
+        "Skyscrapers have tall, rectangular buildings with many windows, often reaching high into the sky."
+    ],
+    "slum": [
+        "Look for crowded, makeshift structures with poor conditions and lack of organization in the scene.",
+        "Overcrowded, makeshift shelters with visible waste and lack of infrastructure distinguish slum scenes.",
+        "Slum scenes have crowded, makeshift structures with visible poverty and lack of proper infrastructure.",
+        "Slum scenes have crowded, makeshift structures and poor conditions, unlike cleaner, organized scenes in other categories."
+    ],
+    "snowfield": [
+        "Look for large, white, flat areas with no vegetation, often with mountains or blue skies nearby.",
+        "A snowfield scene is a vast, white, open area covered in snow, often with mountains or trees.",
+        "Snowfields have vast white, flat areas with sparse vegetation and distinct cold, bright lighting conditions.",
+        "A snowfield scene has a white, flat, and uniform appearance, unlike other scenes with varied colors and textures."
+    ],
+    "squash court": [
+        "Look for a rectangular court with specific markings, often with a wall and a small ball present.",
+        "A squash court scene is a small indoor area with walls, a high ceiling, and a court for playing squash.",
+        "A squash court has a high ceiling, glass walls, and a specific playing area with distinct markings.",
+        "The unique visual cue is the specific layout of the court with back and side walls."
+    ],
+    "stable": [
+        "Stable scenes have a clear, unobstructed view of the ground or floor, unlike other scenes.",
+        "Look for consistent lighting, color, and texture patterns across different images of the same scene type.",
+        "A stable scene is one that remains consistent and unchanging over time, with minimal movement or variation.",
+        "Stable scenes have consistent lighting and structure, while other scenes vary more in appearance and elements."
+    ],
+    "baseball stadium": [
+        "A baseball stadium has open fields and seating areas, unlike closed indoor or natural outdoor scenes.",
+        "A baseball stadium has a large field, bleachers, and a scoreboard, distinguishing it from other sports venues.",
+        "Look for a large grass field with a diamond, bases, and a grandstand seating area.",
+        "A baseball stadium scene is an open-air sports venue with seating, field, and often spectators."
+    ],
+    "football stadium": [
+        "A football stadium scene has large open spaces and seating areas, unlike most other enclosed or natural scenes.",
+        "Look for large open fields with goalposts, tiered seating, and often a running track around the field.",
+        "A football stadium scene is a large outdoor venue with seating, a field, and often spectators.",
+        "A football stadium has large open fields, seating structures, and often a crowd, distinguishing it from other scenes."
+    ],
+    "indoor stage": [
+        "Look for large open spaces with seating, a performance area, and often a backstage or audience section.",
+        "An indoor stage scene is a room with a raised platform used for performances or events.",
+        "An indoor stage scene has a structured setting with lighting and props, unlike natural or everyday environments.",
+        "A large, open performance area with a back wall and often a ceiling is unique to indoor stages."
+    ],
+    "staircase": [
+        "Staircases have distinct steps or flights of stairs that are not present in other scene types.",
+        "A staircase scene is a setting with steps leading up or down, often indoors or outdoors.",
+        "Look for multiple steps arranged in a series, often with railings and leading up or down.",
+        "Staircases have distinct steps and vertical structures, unlike flat or uniform surfaces in other scenes."
+    ],
+    "street": [
+        "Street scenes have distinct features like roads, sidewalks, and human activity, which set them apart from other scenes.",
+        "Look for roads, sidewalks, buildings, and human activity to spot a street scene.",
+        "Pavement and roadways are the unique visual cues found in street scenes.",
+        "A street scene has buildings and roads, while other scenes may feature nature, interiors, or different structures."
+    ],
+    "subway interior": [
+        "A subway interior scene is a confined space with seats, tracks, and often many people inside.",
+        "A subway interior has metal, tiled walls, seats, and tracks, unlike most other scenes.",
+        "Subway interiors have distinctive metal railings and turnstiles not found in other indoor or transportation scenes.",
+        "Look for dark, narrow spaces with metal railings, seats, and often dim lighting typical of underground transit systems."
+    ],
+    "platform subway station": [
+        "Platform subway stations have tracks and trains, unlike other scenes which lack these transportation elements.",
+        "A platform subway station is an indoor transit area with tracks, trains, and waiting passengers.",
+        "A platform subway station has distinct tracks, waiting areas, and urban structures for easy recognition.",
+        "Look for underground transit areas with platforms, tracks, and often tiled walls or signage."
+    ],
+    "supermarket": [
+        "Supermarkets have aisles with shelves, checkout counters, and displays of packaged goods, unlike other scenes.",
+        "Supermarkets have distinct aisles with shelves, products, shopping carts, and checkout counters, unlike other indoor or outdoor scenes.",
+        "Supermarkets have aisles with shelves and products, unlike other scenes that lack organized retail displays.",
+        "A supermarket scene is a brightly lit indoor space filled with aisles of food and products."
+    ],
+    "sushi bar": [
+        "A sushi bar scene is recognized by its distinct counter, fresh seafood, and traditional Japanese decor elements.",
+        "Look for a counter with sushi, chefs, and customers, often in a modern or Japanese-style setting.",
+        "A sushi bar scene has food and Japanese elements, unlike other scenes with different themes and objects.",
+        "Sushi bars uniquely feature counters with sushi chefs preparing and serving fresh sushi dishes."
+    ],
+    "swamp": [
+        "A swamp scene is a wet, marshy area with water, plants, and sometimes trees in a low-lying region.",
+        "Swamps have water, vegetation, and murky tones, unlike dry landscapes or urban scenes with buildings and roads.",
+        "Swamps have distinct murky water, dense vegetation, and unique wildlife, setting them apart from other natural scenes.",
+        "Swamps have standing water with partially submerged vegetation, unlike other wetland or water-based scenes."
+    ],
+    "indoor swimming pool": [
+        "Look for a large, rectangular body of water with tiles and often people or diving boards nearby.",
+        "An indoor swimming pool scene is a man-made space with water, often in a building, for swimming.",
+        "Indoor swimming pools have water, tiles, and often glass walls, unlike most other scenes.",
+        "Water in a contained, indoor space with visible lanes and a surrounding deck or edge."
+    ],
+    "outdoor swimming pool": [
+        "Outdoor swimming pools have clear blue water, sun loungers, and often a surrounding deck or grassy area.",
+        "Outdoor swimming pools have water, tiles, and often people, unlike other scenes which lack these specific elements.",
+        "Clear, blue water with a distinct rectangular shape and surrounding deck or tiles.",
+        "Look for clear water, blue tiles, and surrounding deck areas in the image."
+    ],
+    "indoor synagogue": [
+        "Look for prayer items, religious symbols, and interior architectural features typical of Jewish worship spaces.",
+        "A synagogue has religious symbols and seating, unlike other indoor scenes which lack these specific features.",
+        "A synagogue has distinct religious symbols, prayer items, and seating arrangements not found in other indoor scenes.",
+        "A Star of David symbol is unique to indoor synagogue scenes among all types of scenes."
+    ],
+    "outdoor synagogue": [
+        "Outdoor synagogue scenes have religious architecture and religious symbols, unlike most other outdoor scenes.",
+        "Look for a building with distinct religious architecture, often with a Star of David, in an outdoor setting.",
+        "A large, distinct Star of David symbol is unique to outdoor synagogue scenes.",
+        "Outdoor synagogues have distinct architectural elements like domes and star symbols, set against natural backgrounds."
+    ],
+    "television studio": [
+        "A television studio scene is a controlled indoor setting with cameras, lights, and often a set for broadcasting.",
+        "Look for bright, artificial lighting, large cameras, and a set with a backdrop or studio markings.",
+        "A television studio scene has bright, controlled lighting and specific equipment, unlike natural or everyday environments.",
+        "A television studio scene has a large, bright, evenly lit backdrop with visible stage lighting equipment."
+    ],
+    "east asia temple": [
+        "East Asia temples have distinct traditional architecture and spiritual elements not seen in most other scenes.",
+        "East Asia temples have distinctive pagoda roofs, intricate carvings, and traditional architectural elements.",
+        "Look for traditional architecture with curved roofs, intricate details, and often surrounded by natural elements.",
+        "East Asia temples often feature traditional pagoda-style roofs with multiple tiers and upward-curving eaves."
+    ],
+    "south asia temple": [
+        "South Asia temple scenes have distinct religious architecture and cultural elements not seen in other types of scenes.",
+        "Look for intricate carvings, domes, and spires typical of South Asian religious architecture.",
+        "South Asia temples have distinct features like intricate carvings, domes, and specific architectural styles not seen elsewhere.",
+        "South Asia temples often feature intricate, ornate carvings and distinct, multi-tiered roof structures."
+    ],
+    "indoor tennis court": [
+        "Indoor tennis courts have a smooth, uniform surface with a net, unlike outdoor courts or other indoor sports areas.",
+        "Look for a large indoor space with a marked court, net, and often spectators or players.",
+        "An indoor tennis court has a large, smooth floor with a net and boundary lines inside a building.",
+        "An indoor tennis court has a unique combination of a hard court surface and high walls with a ceiling."
+    ],
+    "outdoor tennis court": [
+        "Look for a rectangular surface with white lines, often with a net and surrounding grass or pavement.",
+        "An outdoor tennis court scene is a flat, rectangular area with a net, surrounded by fences or stands.",
+        "Outdoor tennis courts have distinct net lines and court markings, unlike most other scenes.",
+        "Outdoor tennis courts have distinct rectangular courts with white lines, nets, and often surrounding fences or seating."
+    ],
+    "outdoor tent": [
+        "An outdoor tent scene is a temporary shelter setup in a natural environment like a campsite.",
+        "Outdoor tents have fabric structures and camping gear, unlike other scenes which lack these specific elements.",
+        "Look for a portable shelter with fabric walls and a roof, often in natural settings.",
+        "A outdoor tent scene has a portable, temporary shelter structure made of fabric or similar material."
+    ],
+    "indoor procenium theater": [
+        "Look for a large stage with an archway at the front in a room.",
+        "A procenium theater has a stage with curtains, while other scenes lack this specific architectural feature.",
+        "A proscenium theater has a distinct stage with curtains and audience seating facing it.",
+        "An indoor proscenium theater scene features a stage with curtains and seating, often with decorative elements."
+    ],
+    "indoor seats theater": [
+        "Look for rows of seats facing a stage with dim lighting and possibly a proscenium arch.",
+        "Indoor theater scenes have rows of seats and a stage, unlike other scenes with different layouts and features.",
+        "Indoor seats theater scenes feature rows of chairs facing a stage in a structured, enclosed performance space.",
+        "The unique visual cue is rows of seats facing a central stage or screen."
+    ],
+    "thriftshop": [
+        "Look for cluttered spaces with mixed items, worn clothing, and low lighting typical of secondhand stores.",
+        "A thriftshop scene is a cluttered indoor space filled with used clothing, furniture, and various secondhand items.",
+        "Thrift shops have cluttered, varied items and worn textures, unlike clean, uniform scenes in other settings.",
+        "Thriftshop scenes are characterized by crowded racks of clothes, mixed items, and a cluttered, organized retail environment."
+    ],
+    "throne room": [
+        "A throne room scene is a grand, formal space with a throne, often in a palace or castle.",
+        "A throne room has a large, ornate chair or seat set apart as a central focal point.",
+        "A throne room has grand furniture and royal decor, unlike other scenes with simpler or everyday settings.",
+        "Look for grand, decorated seating areas with high status symbols like thrones in formal settings."
+    ],
+    "ticket booth": [
+        "A ticket booth has a small, enclosed structure with a window or counter for ticket sales.",
+        "A ticket booth scene has a small enclosed structure for selling tickets, unlike other open or large spaces.",
+        "A ticket booth scene is a small structure where people buy tickets for events or transportation.",
+        "A ticket booth scene has distinct features like ticket windows, counters, and often people waiting in lines."
+    ],
+    "toll plaza": [
+        "Look for multiple toll booths, payment lanes, and vehicles in a structured, often roadside setting.",
+        "Toll plazas have distinct rows of booths, payment counters, and often heavy traffic, unlike other scenes.",
+        "A toll plaza scene is a road area with payment booths where drivers stop to pay fees.",
+        "A toll plaza has distinct toll booths and lanes, unlike other scenes that lack these specific structures."
+    ],
+    "topiary garden": [
+        "Topiary gardens have distinct trimmed plant shapes and formal designs unlike natural or wild garden scenes.",
+        "Topiary gardens have sculpted plants, while other scenes lack these trimmed, artistic plant shapes.",
+        "Look for neatly trimmed, sculpted plants forming shapes, often with paths or open spaces around them.",
+        "Topiary gardens are uniquely characterized by sculpted, trimmed plants shaped into specific forms or figures."
+    ],
+    "tower": [
+        "Towers have tall, distinct structures with unique architectural elements that stand out in any scene.",
+        "Look for tall, slender structures with multiple levels, often reaching high into the sky.",
+        "A tower scene is a tall, prominent structure standing alone or in a city, often with a view.",
+        "Tall, slender structures with multiple levels reaching high above the surrounding environment."
+    ],
+    "toyshop": [
+        "A toyshop scene is filled with colorful toys and displays, making it look playful and child-friendly.",
+        "A toyshop scene is recognizable by its abundance of colorful toys, shelves, and playful decorations.",
+        "A toyshop scene has bright colors, many toys, and shelves filled with playthings.",
+        "A toyshop has bright colors and many small objects, unlike other scenes that vary in items and lighting."
+    ],
+    "outdoor track": [
+        "An outdoor track scene is a sports field with lanes for running, often surrounded by grass or seating.",
+        "Outdoor track scenes have running lanes and start/finish lines, unlike other scenes which lack these features.",
+        "Outdoor track scenes have distinct running tracks, starting blocks, and often a surrounding grassy area.",
+        "Look for long, straight, parallel lines with a running surface and often a grassy border."
+    ],
+    "train railway": [
+        "Look for long, straight tracks, trains, and stations to distinguish train railway scenes from others.",
+        "A train railway scene has tracks and trains, while other scenes lack these specific transportation elements.",
+        "A train railway scene has distinct tracks, trains, and often industrial or rural settings for recognition.",
+        "A train railway scene features tracks, trains, and stations, often with people or vehicles nearby."
+    ],
+    "platform train station": [
+        "Platform train stations have visible train tracks and platforms where passengers board or exit trains.",
+        "Platform train stations have tracks and waiting areas, unlike other scenes which lack these specific elements.",
+        "A platform train station scene is an indoor or outdoor area with trains, platforms, and waiting passengers.",
+        "Platform train stations have distinct tracks, platforms, and waiting areas with unique architectural elements."
+    ],
+    "tree farm": [
+        "A tree farm scene is a large area with many evenly spaced trees, often for commercial use.",
+        "Tree farms have evenly spaced, young trees in rows, often with bare ground, distinguishing them from natural forests.",
+        "Look for rows of evenly spaced trees, often with uniform height, in a cultivated, open landscape.",
+        "Tree farm scenes have orderly rows of young trees, unlike natural forests with varied, mature trees."
+    ],
+    "tree house": [
+        "Tree houses have elevated wooden structures with natural surroundings, distinguishing them from ground-level or urban scenes.",
+        "A tree house scene is an elevated wooden structure built among trees, often for recreational use.",
+        "A tree house scene has elevated wooden structures in trees, unlike ground-level or indoor scenes.",
+        "Look for elevated wooden structures in natural settings with surrounding foliage and ground-level views."
+    ],
+    "trench": [
+        "Look for long, narrow depressions in the ground, often with soldiers or equipment nearby.",
+        "Trench scenes have distinct muddy, dug-out paths with military equipment, unlike other natural or urban environments.",
+        "A trench scene is a narrow, dug-out path often seen in war zones or construction sites.",
+        "A trench scene has muddy, dug-out areas, while other scenes have natural or built surfaces without such features."
+    ],
+    "coral reef underwater": [
+        "Coral reefs have colorful, diverse marine life and rock formations, unlike most other scenes.",
+        "Look for vibrant colors, diverse marine life, and rocky formations under water.",
+        "Coral reefs have colorful, diverse marine life and unique rock formations not found in other underwater scenes.",
+        "A coral reef underwater scene is a colorful, vibrant environment with diverse marine life and coral formations."
+    ],
+    "utility room": [
+        "A utility room is a small space with washing machines and laundry supplies, often near a home's entrance.",
+        "Utility rooms have distinct features like washing machines, dryers, and utility sinks, setting them apart from other scenes.",
+        "A utility room has washing machines and laundry items, unlike other scenes which lack these specific features.",
+        "Utility rooms often have visible washing machines or dryers, which are not common in other scenes."
+    ],
+    "valley": [
+        "A valley scene has a distinct visual cue of land enclosed by mountains or hills on both sides.",
+        "A valley scene is a landscape with rolling hills and a low area between them, often with a river.",
+        "Valleys are recognized by their deep, narrow terrain with sloping sides and often a river or stream running through.",
+        "A valley scene has a distinct appearance with mountains on both sides and a lower area in between."
+    ],
+    "van interior": [
+        "A van interior has more seating and storage areas compared to other scenes like rooms or vehicles.",
+        "Look for dashboard, steering wheel, seats, and windows inside a vehicle to identify a van interior scene.",
+        "A van interior scene shows a vehicle's inside with seats, windows, and storage areas.",
+        "A van interior scene has distinct features like dashboard, steering wheel, seats, and windows compared to other scenes."
+    ],
+    "vegetable garden": [
+        "A vegetable garden scene has plants and vegetables, unlike other scenes that may show buildings or nature.",
+        "A vegetable garden scene has distinct rows of planted vegetables and natural, earthy elements.",
+        "Look for rows of planted vegetables, raised beds, and gardening tools in a natural outdoor setting.",
+        "A vegetable garden scene shows plants and vegetables growing in rows with soil and greenery around them."
+    ],
+    "veranda": [
+        "A veranda scene has an open, covered porch area, unlike indoor or fully outdoor scenes.",
+        "Look for open, covered porch areas attached to buildings with visible support structures and outdoor seating.",
+        "A veranda scene is an outdoor porch area with a roof and open sides, often near a house.",
+        "A veranda scene has distinct features like open porch, railing, and outdoor setting with indoor connections."
+    ],
+    "veterinarians office": [
+        "A veterinarians office has medical equipment and animals, often with people caring for them in a clean setting.",
+        "Look for medical equipment, animal examination tables, and veterinary supplies in a clean, professional setting.",
+        "A veterinarians office has medical equipment and animal-related items, unlike other scenes which lack these specific features.",
+        "A veterinarians office has unique medical equipment and animal presence, unlike typical healthcare or home settings."
+    ],
+    "viaduct": [
+        "A viaduct scene is recognized by tall arches and bridges crossing over valleys or roads.",
+        "Look for tall, arched structures crossing valleys or roads with multiple spans and supporting pillars.",
+        "A viaduct scene has tall bridges with arches, unlike other scenes that lack such prominent elevated structures.",
+        "A viaduct scene uniquely features multiple arches or bridges crossing over a valley or roadway."
+    ],
+    "videostore": [
+        "A videostore scene is recognizable by shelves filled with movie cases and a retail environment.",
+        "Look for shelves filled with videos, a checkout counter, and a small retail environment.",
+        "A videostore scene has shelves with movie boxes, unlike other scenes that show different objects or environments.",
+        "A videostore scene features shelves filled with movies, often with customers browsing or employees working."
+    ],
+    "village": [
+        "Look for small houses, narrow roads, greenery, and a peaceful setting with fewer buildings than a city.",
+        "Village scenes have small houses, winding paths, and natural surroundings like trees and fields.",
+        "A village scene has rural buildings and open spaces, unlike urban or natural scenes with different structures or landscapes.",
+        "A village scene is a small settlement with houses, roads, and greenery in a rural setting."
+    ],
+    "vineyard": [
+        "Look for rows of grapevines, green leaves, and possibly trellises in an outdoor setting.",
+        "A vineyard scene is a green field with grapevines and often a winery or trellises.",
+        "Vineyards have rows of grapevines, green leaves, and often a rural setting with trellises.",
+        "Vineyard scenes have rows of grapevines, while other scenes lack this specific agricultural pattern."
+    ],
+    "volcano": [
+        "Volcano scenes have distinct features like lava, smoke, and craters that set them apart from other natural scenes.",
+        "Look for a large, cone-shaped mountain with a crater and signs of eruption or lava.",
+        "A volcano scene has a unique visual cue of a mountain with an opening that can erupt.",
+        "Volcano scenes have distinct fiery or rocky formations, unlike other scenes which lack such geological features."
+    ],
+    "indoor volleyball court": [
+        "Look for a large indoor space with a net, raised playing area, and often spectators or players.",
+        "Indoor volleyball courts have a specific net, floor, and boundary markings, unlike most other indoor or outdoor scenes.",
+        "An indoor volleyball court is a large room with a net, floor lines, and often spectators.",
+        "The presence of a raised net dividing the court into two equal halves is unique to indoor volleyball scenes."
+    ],
+    "outdoor volleyball court": [
+        "Look for a sandy area with a net, two teams, and a ball, often near water.",
+        "An outdoor volleyball court has a net and lines on sand or grass, unlike other scenes.",
+        "Outdoor volleyball courts have distinct net structures, sand surfaces, and players in specific playing positions.",
+        "An outdoor volleyball court scene is a sandy area with a net, players, and boundary lines."
+    ],
+    "waiting room": [
+        "A waiting room has distinct seating arrangements and often a reception desk for visitors.",
+        "A waiting room has chairs, people, and often a desk or counter in a calm, indoor setting.",
+        "A waiting room has chairs and people, while other scenes lack these specific elements.",
+        "A waiting room scene has distinct seating arrangements and often includes magazines or digital displays."
+    ],
+    "indoor warehouse": [
+        "Indoor warehouses have large empty spaces and stacked goods, unlike other scenes with varied natural or urban elements.",
+        "An indoor warehouse scene is a large, open space with shelves, storage units, and industrial equipment.",
+        "Indoor warehouses have large open spaces, high ceilings, and organized storage racks with uniform lighting.",
+        "Look for large, open spaces with stacked goods, shelves, and industrial elements inside a building."
+    ],
+    "water tower": [
+        "Look for tall, cylindrical structures with water tanks on top, often near urban or rural areas.",
+        "Water towers have tall, cylindrical structures with distinct tanks, often located in open areas or near buildings.",
+        "Water tower scenes have distinct tall structures, while other scenes lack these specific elevated tanks.",
+        "A water tower scene typically shows a tall, cylindrical structure used to store and supply water in various settings."
+    ],
+    "block waterfall": [
+        "A block waterfall scene has a distinct cascade of water flowing in distinct, separated layers.",
+        "A block waterfall scene has distinct layered waterfalls, unlike other scenes with smoother water or no waterfalls.",
+        "Look for a tall, wide waterfall with distinct blocks or steps flowing down a rocky surface.",
+        "A block waterfall scene is a natural landscape featuring a waterfall with distinct, layered rock formations."
+    ],
+    "fan waterfall": [
+        "A fan waterfall scene has moving water and rocks, unlike other scenes which lack these elements.",
+        "A fan waterfall scene has flowing water, rocks, and vegetation, distinguishing it from other natural or urban scenes.",
+        "A fan waterfall scene uniquely features a man-made structure combined with flowing water.",
+        "Look for flowing water, rocks, and vegetation, often with a steep drop and misty surroundings."
+    ],
+    "plunge waterfall": [
+        "A plunge waterfall has a vertical drop where water falls straight down into a pool below.",
+        "Look for a tall, vertical water drop with a clear plunge pool at the bottom.",
+        "A plunge waterfall scene has a vertical drop with water falling straight down, unlike other scenes.",
+        "A plunge waterfall scene has a tall, vertical drop with water cascading straight down into a pool."
+    ],
+    "watering hole": [
+        "Look for natural outdoor areas with water, animals, and vegetation, often with a dry landscape nearby.",
+        "A watering hole scene is a natural outdoor area where animals gather to drink water.",
+        "A watering hole scene has distinct features like animals gathering, water bodies, and natural savanna or forest settings.",
+        "A watering hole scene has animals near water, while other scenes lack this specific wildlife and water feature."
+    ],
+    "wave": [
+        "Waves have distinct, undulating water patterns that rise and fall, unlike any other scene type.",
+        "Look for large bodies of water with visible ripples or crests moving in a rhythmic pattern.",
+        "Wave scenes have water with visible motion, unlike static water or land-based scenes.",
+        "Waves have distinct rolling patterns, dynamic motion, and foamy crests that set them apart from other water scenes."
+    ],
+    "wet bar": [
+        "A wet bar scene is a place with a counter, sink, and taps, often in a kitchen or pub.",
+        "Look for a small counter with sink, taps, and stools, often in a home or commercial setting.",
+        "A wet bar scene has a counter with sink and taps, unlike other scenes which lack these features.",
+        "A wet bar scene has distinct features like a counter, sink, and bar stools, often in a home setting."
+    ],
+    "wheat field": [
+        "Look for vast, golden-yellow fields with tall, swaying stalks and few other objects.",
+        "Wheat fields have uniform golden-yellow crops, while other scenes vary in colors, structures, and natural elements.",
+        "Wheat fields have tall, golden stalks, uniform rows, and open landscapes, distinguishing them from other agricultural or natural scenes.",
+        "The presence of tall, golden, swaying stalks with heads of grain is unique to a wheat field."
+    ],
+    "wind farm": [
+        "Look for large, rotating turbines spread across open land or water with a consistent pattern.",
+        "Wind farms have large, rotating turbines on open land, often with multiple structures spread out.",
+        "Wind turbines are the unique visual cue that distinguishes a wind farm from other scenes.",
+        "Wind farms have large turbines, while other scenes lack these structures and often show different natural or urban elements."
+    ],
+    "windmill": [
+        "Look for tall structures with rotating blades, often near farmland or coastal areas.",
+        "Windmill scenes have tall rotating blades and a tower structure, often in rural or open landscapes.",
+        "A windmill scene has tall rotating structures, while other scenes lack these distinctive mechanical elements.",
+        "A windmill scene typically shows a tall structure with rotating blades in an open landscape."
+    ],
+    "barrel storage wine cellar": [
+        "A barrel storage wine cellar has wooden barrels, while other scenes lack this specific storage feature.",
+        "Look for wooden barrels, racks, and bottles in a dimly lit room with a cellar-like atmosphere.",
+        "The presence of wooden wine barrels specifically designed for aging wine is unique to this scene.",
+        "A barrel storage wine cellar scene has aging wooden barrels and racks in a dimly lit, cool environment."
+    ],
+    "bottle storage wine cellar": [
+        "A bottle storage wine cellar scene is recognized by rows of wine bottles stored in racks.",
+        "A bottle storage wine cellar scene is a room filled with shelves holding many wine bottles.",
+        "Look for racks holding bottles, often in a cool, dimly lit room with wooden or metal structures.",
+        "A bottle storage wine cellar scene has rows of wine bottles, unlike other scenes with different objects or layouts."
+    ],
+    "indoor wrestling ring": [
+        "An indoor wrestling ring scene is a squared-off arena with ropes and turnbuckles for wrestling matches.",
+        "Look for a squared-off platform with ropes and turnbuckles inside a building.",
+        "An indoor wrestling ring scene has a circular ring with ropes and turnbuckles, unlike other scenes.",
+        "An indoor wrestling ring has a raised platform with ropes and turnbuckles, distinct from other indoor scenes."
+    ],
+    "yard": [
+        "Yard scenes have open spaces, grass, and often fences or houses, distinguishing them from other outdoor settings.",
+        "Look for open spaces with grass, pathways, and outdoor furniture near buildings or houses.",
+        "A yard scene has open outdoor space with grass or dirt, unlike indoor or urban scenes with buildings or streets.",
+        "A yard scene is an outdoor area with grass, plants, and often a house or fence nearby."
+    ],
+    "youth hostel": [
+        "Look for shared rooms, bunk beds, and communal areas typical of budget accommodations for travelers.",
+        "Youth hostels have distinct features like bunk beds, shared living spaces, and communal areas compared to other scenes.",
+        "Youth hostels often have bunk beds, which are not typically found in other types of scenes.",
+        "A youth hostel scene often shows shared, simple rooms with bunk beds, unlike private or luxurious accommodations."
+    ]
+}

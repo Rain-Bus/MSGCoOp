@@ -1,0 +1,608 @@
+{
+    "apple pie": [
+        "Apple pie is typically a round dessert with a golden brown flaky crust and visible apple slices or filling inside.",
+        "Apple pie typically features a golden brown crust with a lattice or solid top and visible cooked apple filling inside.",
+        "Apple pie is recognized by its golden flaky crust, lattice or solid top, and visible baked apple filling with spices.",
+        "Apple pie typically features a golden brown crust with a lattice or solid top and visible baked apple filling inside."
+    ],
+    "baby back ribs": [
+        "Baby back ribs are curved pork ribs with meat on top, usually glazed with barbecue sauce and served in racks.",
+        "Baby back ribs are curved pork ribs with visible bones, glazed or sauced, and often served in racks with a caramelized surface.",
+        "Baby back ribs are recognized by curved pork ribs with visible bones, glazed barbecue sauce, and a caramelized, sticky surface.",
+        "Baby back ribs are identifiable by their curved pork bones covered in glazed barbecue sauce with visible charred grill marks."
+    ],
+    "baklava": [
+        "Baklava appears as golden brown layered pastry squares or diamonds filled with chopped nuts and soaked in sweet syrup.",
+        "Baklava is layered golden brown pastry with visible nuts and syrup, often cut into diamonds or squares, unlike most foods.",
+        "Baklava is recognized by its layered golden flaky pastry filled with chopped nuts and soaked in sweet syrup or honey.",
+        "Baklava is recognizable by its golden flaky layers of phyllo dough filled with chopped nuts and soaked in syrup."
+    ],
+    "beef carpaccio": [
+        "Beef carpaccio features thin raw beef slices often garnished with greens cheese or capers unlike cooked or heavily sauced dishes.",
+        "Beef carpaccio features thin raw beef slices arranged flat on a plate often garnished with greens cheese or drizzled dressing.",
+        "Beef carpaccio features thin raw beef slices arranged flat on a plate often garnished with greens cheese or drizzled dressing.",
+        "Thinly sliced raw red beef arranged flat on a plate often garnished with arugula cheese and drizzled olive oil."
+    ],
+    "beef tartare": [
+        "Beef tartare is recognized by its raw finely chopped red beef often topped with a raw egg yolk and garnishes.",
+        "Beef tartare appears as finely chopped raw red meat often topped with egg yolk and garnishes unlike cooked or mixed dishes.",
+        "Beef tartare is raw finely chopped red beef often topped with a raw egg yolk and garnished with herbs or onions.",
+        "Beef tartare typically appears as finely chopped raw red beef often topped with a raw egg yolk and garnished with herbs."
+    ],
+    "beet salad": [
+        "Beet salad is recognized by its deep red or purple beet chunks often mixed with greens cheese nuts or bright vegetables.",
+        "Beet salad is identifiable by its deep red or purple beet chunks often mixed with greens cheese nuts or light dressing.",
+        "Beet salad typically features vibrant red or purple beet chunks mixed with greens cheese nuts or other colorful vegetables.",
+        "Beet salad typically features vibrant red or purple beet pieces often mixed with greens cheese or nuts for added color contrast."
+    ],
+    "beignets": [
+        "Beignets are square or rectangular deep fried pastries dusted with powdered sugar often appearing golden brown and pillowy.",
+        "Beignets are small square or rectangular fried pastries dusted with powdered sugar often appearing puffy and golden brown.",
+        "Beignets are square or rectangular fried dough pieces, golden brown, and heavily dusted with powdered sugar, unlike most pastries.",
+        "Beignets are square or rectangular deep fried pastries dusted with powdered sugar often showing a puffy and golden brown appearance."
+    ],
+    "bibimbap": [
+        "Bibimbap is distinct for its colorful arrangement of vegetables, meat, and egg on rice, often served in a bowl.",
+        "Bibimbap is a colorful Korean rice bowl topped with neatly arranged vegetables, meat, and a fried egg in the center.",
+        "Bibimbap is a colorful Korean rice bowl topped with assorted vegetables, sliced meat, and a fried egg arranged neatly.",
+        "Bibimbap is recognized by its colorful arrangement of assorted vegetables, meat, and egg atop rice, often served in a bowl."
+    ],
+    "bread pudding": [
+        "Bread pudding is characterized by chunky bread pieces soaked in custard, often baked golden with visible raisins or spices.",
+        "Bread pudding typically appears as a moist, chunky baked dessert with visible bread pieces, often topped with sauce or dusted sugar.",
+        "Bread pudding looks like a dense, moist dessert with chunks of bread, often topped with sauce or sprinkled with powdered sugar.",
+        "Bread pudding typically appears as a moist, chunky dessert with visible bread pieces, often golden brown and sometimes topped with sauce."
+    ],
+    "breakfast burrito": [
+        "A breakfast burrito is a tortilla wrapped around eggs, meat, cheese, and vegetables, often appearing plump and golden.",
+        "A breakfast burrito is a tortilla wrapped around visible eggs, potatoes, cheese, and often sausage or bacon, usually cut open.",
+        "Breakfast burritos are typically cylindrical tortillas wrapped around visible fillings like eggs, cheese, and meats, often showing a toasted surface.",
+        "A breakfast burrito is uniquely identified by a tortilla wrap visibly stuffed with eggs, often with potatoes, cheese, and sausage."
+    ],
+    "bruschetta": [
+        "Bruschetta typically consists of toasted bread slices topped with diced tomatoes, garlic, basil, and olive oil, often brightly colored.",
+        "Bruschetta is typically toasted bread topped with diced tomatoes, basil, garlic, and olive oil, often appearing colorful and rustic.",
+        "Bruschetta typically features toasted bread slices topped with diced tomatoes and herbs, unlike most foods which lack this distinct presentation.",
+        "Bruschetta features toasted bread slices topped with diced tomatoes, basil, olive oil, and sometimes garlic, creating a colorful appetizer."
+    ],
+    "caesar salad": [
+        "Caesar salad is identified by romaine lettuce, croutons, grated cheese, and creamy dressing often topped with grilled chicken.",
+        "Caesar salad is recognized by romaine lettuce, croutons, parmesan cheese, and creamy dressing often topped with grilled chicken.",
+        "Caesar salad typically features romaine lettuce, croutons, grated cheese, and creamy dressing, making it look fresh and leafy.",
+        "Caesar salad typically features romaine lettuce, croutons, grated cheese, and creamy dressing, often topped with grilled chicken."
+    ],
+    "cannoli": [
+        "Cannoli are tube-shaped pastries with a crispy shell filled with creamy white ricotta, often dusted with powdered sugar.",
+        "Cannoli are tube-shaped pastries filled with creamy ricotta, often dusted with powdered sugar and sometimes topped with chocolate chips.",
+        "Cannoli are tube-shaped pastries filled with creamy ricotta, often dusted with powdered sugar and sometimes topped with chocolate chips.",
+        "Cannoli are tube-shaped pastries filled with creamy ricotta, often dusted with powdered sugar and sometimes topped with chocolate chips."
+    ],
+    "caprese salad": [
+        "Caprese salad is uniquely identified by alternating slices of fresh mozzarella and tomatoes with basil leaves arranged in a simple pattern.",
+        "Caprese salad features sliced tomatoes, mozzarella, and basil arranged in layers, often drizzled with olive oil and balsamic.",
+        "Caprese salad features sliced tomatoes, fresh mozzarella, and basil leaves arranged in layers, often drizzled with olive oil.",
+        "Caprese salad features sliced tomatoes mozzarella and basil leaves arranged in layers often drizzled with olive oil and balsamic."
+    ],
+    "carrot cake": [
+        "Carrot cake typically has a moist brownish crumb with visible orange flecks and is often topped with creamy white frosting.",
+        "Carrot cake is recognized by its moist brownish crumb with visible orange carrot flecks and often topped with creamy white frosting.",
+        "Carrot cake is a moist brownish cake often topped with white cream cheese frosting and sometimes decorated with nuts or carrots.",
+        "Carrot cake typically has a dense texture with visible orange flecks and is often topped with creamy white frosting."
+    ],
+    "ceviche": [
+        "Ceviche is identifiable by raw fish or seafood marinated in citrus juice mixed with onions cilantro and colorful vegetables.",
+        "Ceviche typically features raw fish or seafood marinated in citrus juice, mixed with onions, cilantro, and colorful vegetables.",
+        "Ceviche is uniquely identified by raw fish or seafood marinated in citrus juice, often mixed with onions and herbs.",
+        "Ceviche typically features raw fish marinated in citrus juice with visible onions herbs and colorful vegetables unlike most cooked dishes."
+    ],
+    "cheese plate": [
+        "A cheese plate typically features assorted cheeses often sliced or cubed with crackers fruits or nuts arranged on a flat surface.",
+        "A cheese plate typically features assorted cheeses often sliced or cubed arranged with crackers fruits or nuts on a platter.",
+        "A cheese plate features assorted cheese slices or wedges often with crackers fruits or nuts arranged on a flat serving surface.",
+        "A cheese plate features assorted sliced or cubed cheeses often arranged with fruits nuts crackers or bread on a platter."
+    ],
+    "cheesecake": [
+        "Cheesecake typically appears as a creamy, pale dessert with a smooth top and a crumbly or dense crust at the base.",
+        "Cheesecake is recognized by its creamy dense texture smooth pale surface and often a crumbly biscuit or graham cracker crust.",
+        "Cheesecake typically has a smooth creamy surface often with a pale color and sometimes a crumbly crust at the base.",
+        "Cheesecake is typically creamy and pale with a smooth top often on a crumbly crust sometimes topped with fruit or sauce."
+    ],
+    "chicken curry": [
+        "Chicken curry is recognizable by its golden or reddish sauce with visible chicken pieces often garnished with herbs or spices.",
+        "Chicken curry is distinguished by tender chicken pieces in a thick, often yellow or orange spiced sauce with visible oil.",
+        "Chicken curry is recognized by its rich orange or yellow sauce, visible chicken pieces, and presence of herbs or spices.",
+        "Chicken curry typically appears as pieces of chicken in a thick, yellow or orange spiced sauce, often with visible herbs."
+    ],
+    "chicken quesadilla": [
+        "Chicken quesadilla is typically a folded or layered tortilla with visible grilled chicken pieces and melted cheese, often cut into wedges.",
+        "Chicken quesadilla typically appears as folded or grilled tortillas filled with melted cheese and chicken, often sliced into wedges.",
+        "Chicken quesadilla is recognized by folded or layered tortillas with visible grilled chicken cheese and sometimes vegetables often cut into wedges.",
+        "Chicken quesadillas typically feature folded tortillas with visible grilled marks and melted cheese, often showing chicken pieces inside or spilling out."
+    ],
+    "chicken wings": [
+        "Chicken wings are typically small, curved pieces with visible bones and crispy skin, often coated in sauce or seasoning.",
+        "Chicken wings are small curved pieces of chicken with visible bones often coated in sauce or seasoning and sometimes crispy.",
+        "Chicken wings are typically small, curved pieces of meat with visible bones, crispy or saucy skin, and a reddish or golden color.",
+        "Chicken wings are small, curved pieces of fried or baked poultry often coated in sauce, usually served with bones visible."
+    ],
+    "chocolate cake": [
+        "Chocolate cake is typically dark brown with a moist texture and often topped with chocolate frosting or dusted with cocoa.",
+        "Chocolate cake is recognized by its dark brown color, moist crumb texture, layered structure, and visible chocolate frosting or decoration.",
+        "Chocolate cake is typically dark brown, often layered, with a moist texture and sometimes topped with glossy chocolate icing.",
+        "Chocolate cake is a dark brown layered dessert, often topped with glossy chocolate icing and sometimes decorated with sprinkles or fruit."
+    ],
+    "chocolate mousse": [
+        "Chocolate mousse typically appears as a smooth, creamy, dark brown dessert often served in cups or bowls with a fluffy texture.",
+        "Chocolate mousse is typically smooth, airy, and dark brown, often served in cups or bowls with a creamy texture.",
+        "Chocolate mousse typically appears as a smooth, airy, dark brown dessert often served in cups or bowls with a creamy texture.",
+        "Chocolate mousse is typically smooth, airy, dark brown, often served in cups or glasses, sometimes topped with whipped cream."
+    ],
+    "churros": [
+        "Churros are long, ridged, golden brown pastries often dusted with sugar, distinct from round, flat, or layered foods.",
+        "Churros are long, ridged, golden brown fried dough sticks often dusted with sugar and sometimes served with chocolate.",
+        "Churros are long ridged sticks of fried dough often dusted with sugar and sometimes served with chocolate for dipping.",
+        "Churros are long ridged fried dough sticks often coated in sugar and sometimes served with chocolate dipping sauce."
+    ],
+    "clam chowder": [
+        "Clam chowder is a creamy white soup with visible chunks of clams potatoes and sometimes vegetables often served in a bowl.",
+        "Clam chowder is a creamy white soup with visible chunks of clams potatoes and sometimes vegetables often served in a bowl.",
+        "Clam chowder is creamy and thick with visible chunks of clams and potatoes unlike most other foods which lack this texture.",
+        "Clam chowder is creamy white or beige soup with visible clams potatoes and sometimes celery often served in a bowl."
+    ],
+    "club sandwich": [
+        "A club sandwich is typically stacked with layers of toasted bread, sliced meats, lettuce, tomato, and often cut into triangles.",
+        "Club sandwiches are uniquely identified by their stacked layers of bread, meats, lettuce, tomato, and toothpicks holding quarters together.",
+        "A club sandwich is distinct for its layered toasted bread, sliced meats, lettuce, tomato, bacon, and visible sandwich cross-section.",
+        "A club sandwich typically features stacked toasted bread layers filled with sliced meats lettuce tomato bacon and mayonnaise cut into quarters."
+    ],
+    "crab cakes": [
+        "Crab cakes are typically round golden brown patties with a coarse texture unlike smoother or differently shaped foods in the dataset.",
+        "Crab cakes are round golden brown patties with a slightly crispy exterior often flecked with herbs and small crab pieces.",
+        "Crab cakes are round golden brown patties with a coarse texture often showing visible crab meat and breadcrumb pieces.",
+        "Crab cakes are round golden brown patties with a coarse flaky texture often showing visible crab meat and breadcrumb pieces."
+    ],
+    "creme brulee": [
+        "Creme brulee is identified by its smooth creamy custard base topped with a thin layer of caramelized golden brown sugar.",
+        "Creme brulee has a smooth creamy base topped with a shiny caramelized sugar crust often served in a shallow dish.",
+        "Creme brulee is a creamy custard dessert with a smooth surface topped by a thin layer of caramelized golden sugar.",
+        "Creme brulee features a smooth creamy custard base topped with a caramelized golden brown sugar crust in a shallow dish."
+    ],
+    "croque madame": [
+        "A croque madame is a toasted sandwich topped with a fried egg, often showing melted cheese and ham inside.",
+        "A croque madame is a toasted ham and cheese sandwich topped with a fried egg, often served with sauce.",
+        "Croque madame is distinct for its toasted sandwich topped with a fried egg, often showing melted cheese and ham inside.",
+        "Croque madame is distinct for its toasted sandwich with ham and cheese topped with a fried egg on top."
+    ],
+    "cup cakes": [
+        "Cup cakes are small individual cakes with a rounded top often decorated with frosting and sprinkles in paper liners.",
+        "Cup cakes are small individual cakes with a rounded top often decorated with frosting or sprinkles and served in paper cups.",
+        "Cup cakes are small individual cakes with rounded tops often decorated with colorful frosting and sprinkles in paper wrappers.",
+        "Cup cakes are small individual cakes with a rounded top often decorated with colorful frosting and sprinkles in paper liners."
+    ],
+    "deviled eggs": [
+        "Deviled eggs are halved hard boiled eggs with creamy yellow yolk filling piped or spooned into the white halves.",
+        "Deviled eggs are halved hard boiled eggs with creamy yellow yolk filling piped or spooned into the hollowed whites.",
+        "Deviled eggs are halved hard boiled eggs with a yellow creamy filling in the center often sprinkled with paprika.",
+        "Deviled eggs are halved hard boiled eggs with creamy yellow yolk filling, often garnished with paprika or herbs."
+    ],
+    "donuts": [
+        "Donuts are typically round with a central hole, often glazed or frosted, and may have colorful sprinkles or powdered sugar.",
+        "Donuts are typically round with a hole in the center and have a glazed or frosted surface, unlike most other foods.",
+        "Donuts are round pastries with a hole in the center, often glazed or topped with colorful sprinkles or icing.",
+        "Donuts are round pastries with a hole in the center, often glazed or topped with colorful icing and sprinkles."
+    ],
+    "dumplings": [
+        "Dumplings are small dough parcels often filled with meat or vegetables, featuring pleated or pinched edges and a soft texture.",
+        "Dumplings are typically small dough parcels often with pleated edges, enclosing a filling, unlike flat, open, or layered foods.",
+        "Dumplings are small dough parcels often folded or pleated, usually containing visible fillings and sometimes served with sauce or broth.",
+        "Dumplings are small dough parcels often filled with meat or vegetables, usually round or crescent-shaped, and appear soft or steamed."
+    ],
+    "edamame": [
+        "Edamame are bright green immature soybeans served in pods often steamed or boiled and typically sprinkled with coarse salt.",
+        "Edamame is recognized by its bright green color, smooth oval pods, and often appears steamed or sprinkled with coarse salt.",
+        "Edamame looks like bright green immature soybeans served in pods, often steamed or boiled, with a smooth, plump appearance.",
+        "Edamame are bright green immature soybeans in pods, distinct from most foods by their color, shape, and podded form."
+    ],
+    "eggs benedict": [
+        "Eggs benedict features poached eggs on English muffins with ham or bacon, topped with creamy yellow hollandaise sauce.",
+        "Eggs benedict features poached eggs on an English muffin with ham or bacon, topped with creamy yellow hollandaise sauce.",
+        "Eggs benedict features poached eggs and ham on an English muffin, topped with creamy yellow hollandaise sauce.",
+        "Eggs benedict features poached eggs on an English muffin with ham and hollandaise sauce, often topped with a yellow sauce."
+    ],
+    "escargots": [
+        "Escargots are typically small snails served in shells with visible garlic herb butter and often presented in a round escargot dish.",
+        "Escargots are usually small snails served in shells or dishes, often topped with green garlic herb butter and parsley.",
+        "Escargots are small cooked snails often served in shells with green herb butter, unlike most foods which lack visible shells.",
+        "Escargots are cooked snails often served in shells with garlic butter, appearing as small, glossy, spiral shapes on plates."
+    ],
+    "falafel": [
+        "Falafel typically appears as small round or oval deep fried balls or patties made from ground chickpeas or fava beans.",
+        "Falafel is typically small round or oval deep fried balls with a coarse brown crust and a greenish interior from herbs.",
+        "Falafel is typically small round or oval deep fried balls or patties with a coarse brown crust and greenish interior.",
+        "Falafel is recognized by its small round or oval deep fried balls made from ground chickpeas or fava beans with a crispy brown exterior."
+    ],
+    "filet mignon": [
+        "Filet mignon is a small, thick, round beef steak, usually brown on the outside and pink or red inside.",
+        "Filet mignon is a thick, round, tender beef steak often served medium rare with a seared brown exterior.",
+        "Filet mignon is a small, thick, round steak with a smooth texture, usually served grilled or pan-seared without sauce.",
+        "Filet mignon is a small thick round steak with a smooth texture and minimal fat often served medium rare."
+    ],
+    "fish and chips": [
+        "Fish and chips typically feature golden battered fish fillets and thick fries, often served together with a light crispy texture.",
+        "Fish and chips typically feature golden battered fish fillets alongside thick potato fries often served together on a single plate.",
+        "Fish and chips typically features golden battered fish fillets and thick potato fries often served together on a plain plate.",
+        "Fish and chips features golden battered fish fillets paired with thick potato fries often served together on a plain plate."
+    ],
+    "foie gras": [
+        "Foie gras typically appears as smooth, pale beige or pinkish slices or pâté, often served with toast or garnish.",
+        "Foie gras typically appears as smooth, pale beige or pinkish slices or pâté, often served with toast or fruit.",
+        "Foie gras typically appears as smooth, pale, creamy slices or pâté, unlike most foods which have varied textures and colors.",
+        "Foie gras is recognized by its smooth creamy texture, pale beige color, and often served as thick slices or pâté."
+    ],
+    "french fries": [
+        "French fries are thin golden sticks with a crispy exterior and soft interior often served in piles or alongside burgers.",
+        "French fries are thin, elongated, golden-brown potato strips with a crispy exterior and soft interior, often served in piles.",
+        "French fries are thin, golden, crispy strips of potato, distinct from other foods by their uniform shape and fried texture.",
+        "French fries are thin golden strips of deep fried potato often served in piles and usually accompanied by ketchup or other dips."
+    ],
+    "french onion soup": [
+        "French onion soup is typically brown with melted cheese and bread on top served in a bowl with visible onions.",
+        "French onion soup is identified by its brown broth topped with melted cheese and toasted bread slices floating on top.",
+        "French onion soup is recognized by its caramelized onions, clear brown broth, and melted cheese topping over toasted bread.",
+        "French onion soup typically appears as a brown broth topped with melted cheese and toasted bread in a round bowl."
+    ],
+    "french toast": [
+        "French toast is typically sliced bread soaked in egg mixture, pan-fried, and often topped with powdered sugar or syrup.",
+        "French toast typically appears as golden brown bread slices, often dusted with powdered sugar and sometimes topped with fruit or syrup.",
+        "French toast typically appears as golden brown bread slices, often dusted with powdered sugar and sometimes topped with fruit or syrup.",
+        "French toast is typically sliced bread soaked in egg mixture, pan-fried, and topped with powdered sugar, syrup, or fruit."
+    ],
+    "fried calamari": [
+        "Fried calamari typically appears as golden brown rings or tentacles with a crispy texture, distinct from most other foods.",
+        "Fried calamari is recognized by its golden brown crispy rings or tentacles often served with lemon wedges or dipping sauce.",
+        "Fried calamari typically appears as golden brown rings or tentacles, often breaded and crispy, usually served with dipping sauce.",
+        "Fried calamari typically appears as golden brown rings or tentacles with a crispy breaded coating, often served with lemon wedges."
+    ],
+    "fried rice": [
+        "Fried rice appears as mixed grains with visible vegetables and proteins, often golden brown from soy sauce or seasoning.",
+        "Fried rice is recognized by mixed grains of rice with visible vegetables and proteins, often showing a slightly oily appearance.",
+        "Fried rice appears as a colorful mix of rice grains with visible vegetables, eggs, and sometimes meat or shrimp pieces.",
+        "Fried rice is uniquely identified by mixed grains of rice with visible bits of vegetables eggs and meats scattered throughout."
+    ],
+    "frozen yogurt": [
+        "Frozen yogurt is typically swirled, creamy, served in cups or cones, and often topped with fruits, nuts, or candy.",
+        "Frozen yogurt typically appears as a swirled creamy dessert in a cup often topped with fruits or colorful candies.",
+        "Frozen yogurt is often served in a swirl shape with a glossy smooth texture and sometimes topped with colorful fruits or candies.",
+        "Frozen yogurt typically appears as a smooth swirled soft serve in a cup often topped with fruits or candies."
+    ],
+    "garlic bread": [
+        "Garlic bread is recognized by its golden toasted crust, visible garlic and herb flecks, and often a buttery sheen.",
+        "Garlic bread is typically sliced baguette or loaf with a golden toasted surface and visible garlic butter and herbs.",
+        "Garlic bread typically appears as golden toasted bread slices with a buttery surface often speckled with green herbs like parsley.",
+        "Garlic bread is typically sliced baguette or loaf with a golden crust, visible garlic butter, and often sprinkled with herbs."
+    ],
+    "gnocchi": [
+        "Gnocchi are small, soft, oval dumplings often ridged or smooth, distinct from pasta, noodles, or rice-based dishes.",
+        "Gnocchi are small, soft, pillowy dumplings often oval or ridged, usually pale and served with sauce or cheese.",
+        "Gnocchi are small, soft dumplings often oval or pillow-shaped, usually pale and served with sauce or grated cheese.",
+        "Gnocchi are small, soft, pillowy dumplings often oval or ridged, usually pale in color and served with sauce."
+    ],
+    "greek salad": [
+        "Greek salad typically features chopped tomatoes cucumbers onions olives and feta cheese, often with olive oil and herbs.",
+        "Greek salad is identifiable by chunks of tomato cucumber red onion olives and feta cheese often mixed with olive oil.",
+        "Greek salad is distinct for its mix of tomatoes cucumbers olives feta cheese and red onions often with visible olive oil.",
+        "Greek salad is uniquely identified by large chunks of feta cheese combined with olives, tomatoes, cucumbers, and red onions."
+    ],
+    "grilled cheese sandwich": [
+        "A grilled cheese sandwich is golden brown bread with melted cheese inside often cut diagonally and looks warm and crispy.",
+        "Grilled cheese sandwich is recognized by golden toasted bread slices with melted cheese oozing between them and sometimes visible grill marks.",
+        "A grilled cheese sandwich typically has golden brown toasted bread with melted cheese oozing between two slices.",
+        "Grilled cheese sandwiches typically show golden toasted bread with visible melted cheese oozing between two slices, unlike most other foods."
+    ],
+    "grilled salmon": [
+        "Grilled salmon is usually pink-orange with distinct grill marks and a flaky texture, often served with lemon or herbs.",
+        "Grilled salmon is recognized by its pinkish-orange flaky flesh, charred grill marks, and sometimes a glistening or slightly oily surface.",
+        "Grilled salmon typically has pinkish-orange flesh with visible grill marks and a flaky texture unlike most other foods.",
+        "Grilled salmon typically appears as pinkish-orange fish fillets with grill marks often served with vegetables or rice on the side."
+    ],
+    "guacamole": [
+        "Guacamole is typically a chunky green dip with visible avocado pieces often mixed with tomato onion cilantro and sometimes lime.",
+        "Guacamole is typically green chunky and creamy with visible avocado pieces often mixed with tomatoes onions and cilantro.",
+        "Guacamole is recognized by its chunky green appearance with visible avocado pieces often mixed with tomato onion cilantro and lime.",
+        "Guacamole is a chunky green dip made from mashed avocados often mixed with tomatoes onions cilantro and lime juice."
+    ],
+    "gyoza": [
+        "Gyoza are crescent-shaped dumplings with pleated edges, typically pan-fried to a golden brown and often served in groups.",
+        "Gyoza are small crescent-shaped dumplings with pleated edges, typically pan-fried to a golden brown on one side.",
+        "Gyoza are small crescent-shaped dumplings with pleated edges and a golden crispy bottom, often served in groups.",
+        "Gyoza are crescent-shaped dumplings with pleated edges, pan-fried to a golden brown on one side and steamed on the other."
+    ],
+    "hamburger": [
+        "A hamburger is typically a round sandwich with a visible cooked patty, lettuce, tomato, and sometimes cheese between two buns.",
+        "Hamburgers typically feature a round bun with a visible meat patty and layered toppings unlike most other foods.",
+        "A hamburger typically features a round bun with a visible beef patty, lettuce, tomato, cheese, and sometimes onions or pickles.",
+        "A hamburger is recognized by a round bun sandwiching a visible cooked patty often with lettuce tomato cheese and condiments."
+    ],
+    "hot and sour soup": [
+        "Hot and sour soup is typically dark brown with visible tofu strips mushrooms and egg ribbons in a clear broth.",
+        "Hot and sour soup typically appears as a dark broth with visible tofu strips mushrooms and sometimes egg ribbons floating throughout.",
+        "Hot and sour soup is recognized by its dark broth, visible tofu, mushrooms, bamboo shoots, and floating egg ribbons.",
+        "Hot and sour soup appears as a dark broth with tofu mushrooms egg ribbons and vegetables often garnished with green onions."
+    ],
+    "hot dog": [
+        "A hot dog is a sausage in a long bun, often topped with mustard, ketchup, onions, or relish.",
+        "A hot dog is a sausage in a sliced bun often topped with condiments like mustard ketchup onions or relish.",
+        "A hot dog typically features a sausage in a sliced bun often topped with condiments unlike most other foods.",
+        "A hot dog is recognized by a sausage nestled in a sliced bun often topped with condiments like mustard or ketchup."
+    ],
+    "huevos rancheros": [
+        "Huevos rancheros typically feature fried eggs on tortillas topped with salsa, often accompanied by beans and vibrant garnishes.",
+        "Huevos rancheros typically feature fried eggs on tortillas topped with tomato salsa often accompanied by beans and colorful garnishes.",
+        "Huevos rancheros features fried eggs on tortillas topped with salsa often accompanied by beans and colorful garnishes.",
+        "Huevos rancheros feature fried eggs on tortillas topped with tomato salsa often accompanied by beans and vibrant Mexican garnishes."
+    ],
+    "hummus": [
+        "Hummus is a creamy beige dip often served in a shallow dish with olive oil and sometimes garnished with spices or herbs.",
+        "Hummus is a creamy beige dip often served in a bowl, sometimes garnished with olive oil, herbs, or spices.",
+        "Hummus is recognized by its creamy beige appearance often served in a bowl with olive oil and sprinkled spices on top.",
+        "Hummus is a creamy beige dip often served in a bowl, usually garnished with olive oil and spices on top."
+    ],
+    "ice cream": [
+        "Ice cream typically appears as smooth or swirled scoops or soft serve, often in cones or bowls, sometimes with toppings.",
+        "Ice cream is typically smooth or swirled, often in scoops or cones, and appears creamy with pastel or bright colors.",
+        "Ice cream is recognized by its creamy texture, cold appearance, smooth scoops, pastel colors, and often served in cones or bowls.",
+        "Ice cream typically appears as smooth or swirled scoops or soft serve, often colorful and sometimes topped with sprinkles or sauces."
+    ],
+    "lasagna": [
+        "Lasagna is layered with pasta sheets, meat or vegetables, tomato sauce, and cheese, often baked with a browned top.",
+        "Lasagna typically appears as layered pasta with visible sauce and cheese, often baked with a browned top and rectangular shape.",
+        "Lasagna typically appears as layered pasta with visible meat sauce, cheese, and sometimes herbs, often baked to a golden top.",
+        "Lasagna is uniquely identified by its visible stacked layers of pasta, sauce, cheese, and meat or vegetables."
+    ],
+    "lobster bisque": [
+        "Lobster bisque is a creamy orange soup often served smooth with a garnish and sometimes pieces of lobster or herbs.",
+        "Lobster bisque is creamy orange-pink soup often garnished with herbs or lobster pieces, unlike chunkier or solid foods.",
+        "Lobster bisque is a creamy orange soup often garnished with herbs or lobster pieces and served in a bowl.",
+        "Lobster bisque is a creamy orange-pink soup often served in a bowl sometimes garnished with herbs or lobster pieces."
+    ],
+    "lobster roll sandwich": [
+        "A lobster roll sandwich features lobster meat in a split-top bun, often with visible chunks and a light dressing or butter.",
+        "A lobster roll sandwich features chunks of lobster meat in a split-top bun often with mayonnaise and sometimes lettuce or herbs.",
+        "A lobster roll sandwich features lobster meat in a split-top bun often with mayonnaise and celery, distinctively seafood-focused and light-colored.",
+        "A lobster roll sandwich features lobster meat in a split-top bun, often with mayonnaise, appearing pinkish and creamy inside bread."
+    ],
+    "macaroni and cheese": [
+        "Macaroni and cheese is identified by elbow-shaped pasta coated in creamy yellow cheese sauce often appearing baked or gooey.",
+        "Macaroni and cheese typically appears as elbow pasta coated in creamy yellow cheese sauce, often baked with a golden top.",
+        "Macaroni and cheese is recognized by its creamy yellow-orange cheese sauce coating small curved pasta shapes, often appearing gooey and baked.",
+        "Macaroni and cheese typically features small pasta shapes coated in a creamy yellow cheese sauce, often appearing baked or gooey."
+    ],
+    "macarons": [
+        "Macarons are small round sandwich cookies with smooth tops ruffled edges and vibrant colors unlike most other foods.",
+        "Macarons are small round sandwich cookies with smooth domed tops and pastel colors often filled with creamy or fruity fillings.",
+        "Macarons are small round sandwich cookies with smooth domed tops ruffled edges and vibrant colors filled with creamy centers.",
+        "Macarons are small round sandwich cookies with smooth domed tops ruffled edges and vibrant colors filled with creamy centers."
+    ],
+    "miso soup": [
+        "Miso soup is typically a clear brownish broth with floating tofu cubes seaweed and green onions often served in a small bowl.",
+        "Miso soup typically appears as a clear broth with floating tofu cubes, seaweed, and green onions, unlike most other foods.",
+        "Miso soup typically appears as a clear brownish broth with floating tofu cubes seaweed and green onions among various foods.",
+        "Miso soup is recognized by its clear broth with floating tofu cubes, seaweed, and green onions, often served in bowls."
+    ],
+    "mussels": [
+        "Mussels are small dark oval shells often served open with orange or pale flesh inside sometimes in a broth or sauce.",
+        "Mussels have dark oblong shells often served open with orange flesh inside unlike most foods which lack shells or similar presentation.",
+        "Mussels are recognized by their dark oval shells often open to reveal orange or yellow flesh arranged in a bowl or plate.",
+        "Mussels are small dark oval shells often served open with orange or yellow flesh inside, usually accompanied by broth or herbs."
+    ],
+    "nachos": [
+        "Nachos are typically tortilla chips covered with melted cheese and toppings, often appearing colorful and layered compared to other foods.",
+        "Nachos are crispy tortilla chips topped with melted cheese, often garnished with salsa, jalapenos, beans, or sour cream.",
+        "Nachos are recognized by crispy tortilla chips topped with melted cheese, jalapenos, salsa, and sometimes beans or ground meat.",
+        "Nachos are identifiable by tortilla chips topped with melted cheese, often layered with salsa, jalapenos, beans, and colorful garnishes."
+    ],
+    "omelette": [
+        "Omelettes are typically yellow or golden, folded or flat, with a smooth or slightly browned surface and visible cooked egg texture.",
+        "Omelettes are typically yellow or golden, flat, and folded, often with visible fillings like vegetables, cheese, or meats inside.",
+        "Omelette appears as a flat round dish made from beaten eggs often yellow with visible fillings like vegetables or cheese.",
+        "Omelettes are typically yellow, folded, and slightly browned, often with visible fillings, unlike most other foods in the dataset."
+    ],
+    "onion rings": [
+        "Onion rings are golden brown circular rings with a crispy fried coating often served stacked or piled on a plate.",
+        "Onion rings are circular, golden brown, and crispy, with a visible onion center, unlike most other foods in Food101.",
+        "Onion rings are circular golden brown fried rings with a crunchy coating and a visible hollow center from the onion slice.",
+        "Onion rings are circular golden brown fried rings with a crispy breadcrumb coating and a visible onion center inside."
+    ],
+    "oysters": [
+        "Oysters are recognized by their irregular rough shells and moist grayish flesh often served on the half shell with garnish.",
+        "Oysters look like irregularly shaped grayish shells often served open faced with moist, shiny, plump flesh inside.",
+        "Oysters have irregular rough shells and a moist grayish interior, unlike most foods which are smoother and more uniformly colored.",
+        "Oysters are typically grayish or beige shellfish served in irregular shells often on ice with a moist glossy surface."
+    ],
+    "pad thai": [
+        "Pad thai typically appears as stir fried rice noodles with shrimp or chicken, peanuts, bean sprouts, and lime wedges.",
+        "Pad thai is recognized by stir fried rice noodles with shrimp or chicken, peanuts, bean sprouts, lime, and vibrant garnishes.",
+        "Pad thai is identifiable by stir fried rice noodles with shrimp or chicken, peanuts, lime wedges, and bean sprouts.",
+        "Pad thai typically features stir fried noodles with shrimp or chicken, peanuts, bean sprouts, and lime, often garnished with herbs."
+    ],
+    "paella": [
+        "Paella is recognized by its yellow saffron rice, mixed seafood or meats, vegetables, and often visible lemon wedges.",
+        "Paella is recognizable by its yellow saffron rice, mixed seafood or meats, and colorful vegetables arranged in a shallow pan.",
+        "Paella is distinct for its vibrant yellow rice mixed with seafood or meat and vegetables often served in a wide shallow pan.",
+        "Paella is a colorful rice dish with saffron, seafood, chicken, and vegetables, often garnished with lemon wedges."
+    ],
+    "pancakes": [
+        "Pancakes are flat round and golden brown with a smooth surface often stacked and sometimes topped with syrup or fruit.",
+        "Pancakes are flat round golden brown cakes often stacked and served with syrup butter or fruit on top.",
+        "Pancakes are flat round golden brown stacks often topped with syrup butter or fruit and have a soft fluffy texture.",
+        "Pancakes are flat round golden-brown cakes often stacked and served with syrup butter or fruit on top."
+    ],
+    "panna cotta": [
+        "Panna cotta is a smooth creamy molded dessert often topped with fruit or sauce and has a glossy gelatinous surface.",
+        "Panna cotta is usually smooth and creamy, molded into a dome or cup shape, often topped with fruit or sauce.",
+        "Panna cotta is a smooth creamy dessert often molded and topped with berries or sauce usually appearing glossy and pale.",
+        "Panna cotta is a smooth creamy molded dessert often served in a dome shape with fruit sauce or berries on top."
+    ],
+    "peking duck": [
+        "Peking duck is recognized by its glossy crispy brown skin sliced meat and often served with thin pancakes and scallions.",
+        "Peking duck features glossy crispy brown skin with sliced meat often served with pancakes and garnishes unlike most other dishes.",
+        "Peking duck is recognizable by its glossy crispy brown skin often sliced and served with thin pancakes and green onions.",
+        "Peking duck features glossy brown crispy skin often served sliced with pancakes green onions and hoisin sauce on the side."
+    ],
+    "pho": [
+        "Pho is a Vietnamese noodle soup with clear broth, rice noodles, sliced meat, and fresh herbs, often served in bowls.",
+        "Pho is a Vietnamese noodle soup with clear broth, flat rice noodles, sliced meat, and fresh herbs like cilantro and basil.",
+        "Pho is recognized by its clear broth, flat rice noodles, sliced meat, fresh herbs, and lime in a deep bowl.",
+        "Pho typically features clear broth, rice noodles, sliced meat, and fresh herbs, unlike many foods with thicker sauces or mixed ingredients."
+    ],
+    "pizza": [
+        "Pizza is typically round with a golden crust, melted cheese, tomato sauce, and visible toppings like pepperoni or vegetables.",
+        "Pizza typically has a round flat base with visible toppings like cheese sauce and meats arranged on a baked crust.",
+        "Pizza is recognized by a flat round crust topped with melted cheese tomato sauce and various visible toppings like pepperoni or vegetables.",
+        "Pizza typically appears as a round flatbread topped with tomato sauce cheese and various toppings, often sliced into triangular pieces."
+    ],
+    "pork chop": [
+        "A pork chop is a thick, bone-in or boneless meat cut, usually light brown outside with a juicy, pale interior.",
+        "Pork chop typically features a browned or grilled meat slice with visible bone and fat, unlike most other foods.",
+        "Pork chop typically appears as a thick, browned meat slice often with a bone, sometimes garnished or served with sides.",
+        "Pork chop is recognized by its thick bone-in or boneless meat slice, browned seared edges, and visible marbling."
+    ],
+    "poutine": [
+        "Poutine is distinct for its combination of French fries topped with cheese curds and brown gravy, creating a layered appearance.",
+        "Poutine is identified by fries topped with brown gravy and cheese curds, creating a messy, saucy, and chunky appearance.",
+        "Poutine looks like a pile of French fries topped with brown gravy and white cheese curds, often messy and hearty.",
+        "Poutine is distinct for its fries topped with brown gravy and cheese curds, creating a messy layered look."
+    ],
+    "prime rib": [
+        "Prime rib is identifiable by its thick juicy slices of beef with a pinkish center and a browned seasoned crust.",
+        "Prime rib is characterized by thick juicy slices of roasted beef with visible marbling and a pink to red center.",
+        "Prime rib is thick juicy beef with a browned crust and visible marbling, unlike most foods which lack this appearance.",
+        "Prime rib appears as thick juicy beef slices with a browned crust and pinkish red center often served with au jus."
+    ],
+    "pulled pork sandwich": [
+        "Pulled pork sandwiches feature shredded pork in barbecue sauce on a bun often topped with coleslaw or pickles.",
+        "A pulled pork sandwich typically features shredded pork in sauce on a bun often with visible slaw or pickles on top.",
+        "A pulled pork sandwich features shredded pork in sauce on a bun often with coleslaw and looks hearty and rustic.",
+        "Pulled pork sandwich is uniquely identified by shredded pork meat piled inside a bun often with visible barbecue sauce and slaw."
+    ],
+    "ramen": [
+        "Ramen typically features curly noodles in broth with toppings like sliced meat eggs and vegetables unlike most other foods.",
+        "Ramen is identified by noodles in a broth with sliced meat, egg, and vegetables often topped with green onions.",
+        "Ramen is recognized by its curly noodles in broth, often topped with sliced meat, egg, and green onions.",
+        "Ramen typically appears as a bowl of noodles in broth topped with sliced meat eggs vegetables and sometimes seaweed."
+    ],
+    "ravioli": [
+        "Ravioli are small square or round pasta pillows filled with cheese or meat, often served with sauce or herbs.",
+        "Ravioli are small pasta squares or circles with crimped edges, filled with ingredients, often served with sauce or cheese.",
+        "Ravioli are square or round pasta pillows with visible sealed edges, often filled and served with sauce or cheese.",
+        "Ravioli are small square or round pasta pockets filled with stuffing, often featuring crimped edges and a smooth or slightly textured surface."
+    ],
+    "red velvet cake": [
+        "Red velvet cake is a layered dessert with deep red sponge and white cream cheese frosting, often decorated with crumbs.",
+        "Red velvet cake is recognized by its deep red color, layered appearance, and creamy white frosting, often with cake crumbs.",
+        "Red velvet cake is distinct for its deep red color and cream cheese frosting, unlike most other foods in appearance.",
+        "Red velvet cake is identified by its deep red crumb layered with white cream cheese frosting, often topped with red crumbs."
+    ],
+    "risotto": [
+        "Risotto is creamy with visible short grain rice, often mixed with vegetables or seafood, and lacks distinct broth or noodles.",
+        "Risotto appears creamy and slightly soupy with visible short rice grains often mixed with vegetables cheese or seafood.",
+        "Risotto looks like a creamy rice dish often served in a shallow bowl with visible grains and sometimes garnished.",
+        "Risotto appears as a creamy rice dish with visible grains, often mixed with vegetables, cheese, or seafood, and looks moist."
+    ],
+    "samosa": [
+        "Samosas are triangular pastries with a golden brown crispy exterior, often distinct from round, flat, or saucy foods.",
+        "A samosa is a golden brown triangular pastry with a crisp shell, often filled with spiced potatoes and peas.",
+        "Samosas are triangular pastries with a golden brown crispy shell, often showing crimped edges and sometimes visible savory filling.",
+        "Samosas are triangular pastries with a golden brown crispy exterior, often showing crimped edges and sometimes visible savory filling."
+    ],
+    "sashimi": [
+        "Sashimi features thin slices of raw fish or seafood, usually served plain without rice, sauces, or heavy garnishes.",
+        "Sashimi features raw, sliced fish or seafood pieces, often arranged neatly without rice, garnished with greens or wasabi.",
+        "Sashimi consists of thin slices of raw fish or seafood, usually served neatly arranged without rice or heavy garnishes.",
+        "Sashimi is identifiable by its neatly sliced raw fish pieces, often served without rice and arranged simply on a plate."
+    ],
+    "scallops": [
+        "Scallops are small round white or beige seafood pieces often seared with a golden brown crust unlike most other foods.",
+        "Scallops are small round white or beige pieces often seared golden brown with a slightly translucent center and smooth texture.",
+        "Scallops are round, creamy white seafood pieces often seared golden brown with a slightly translucent center and served in shells.",
+        "Scallops are round, creamy white seafood pieces often seared golden brown, distinct from most foods due to their unique shape."
+    ],
+    "seaweed salad": [
+        "Seaweed salad is typically glossy dark green thin strands often with sesame seeds and sometimes mixed with shredded carrots or red pepper.",
+        "Seaweed salad typically appears as glossy green strands or ribbons, often with a shiny wet look and sprinkled sesame seeds.",
+        "Seaweed salad typically appears as glossy green strands or ribbons, often garnished with sesame seeds and sometimes thinly sliced vegetables.",
+        "Seaweed salad is recognized by its glossy dark green strands, often mixed with sesame seeds and thinly sliced vegetables."
+    ],
+    "shrimp and grits": [
+        "Shrimp and grits typically feature visible shrimp atop creamy yellow grits often garnished with herbs or sauce.",
+        "Shrimp and grits features pink shrimp atop creamy yellow grits often garnished with green herbs or bits of bacon.",
+        "Shrimp and grits features pink shrimp atop creamy yellow grits often garnished with green herbs or bacon pieces.",
+        "Shrimp and grits features pink shrimp atop creamy yellow grits often garnished with green herbs and sometimes bits of bacon."
+    ],
+    "spaghetti bolognese": [
+        "Spaghetti bolognese features long pasta noodles topped with a chunky red meat sauce often garnished with grated cheese or herbs.",
+        "Spaghetti bolognese features long pasta noodles topped with a chunky red meat sauce often garnished with grated cheese or herbs.",
+        "Spaghetti bolognese features long pasta strands topped with chunky red meat sauce unlike most other foods with different shapes and colors.",
+        "Spaghetti bolognese features long pasta noodles topped with a chunky red tomato and ground meat sauce often garnished with herbs."
+    ],
+    "spaghetti carbonara": [
+        "Spaghetti carbonara is pasta with creamy yellow sauce, bits of pancetta or bacon, and often topped with grated cheese.",
+        "Spaghetti carbonara features long pasta strands coated in creamy sauce with visible pancetta bits and often sprinkled with grated cheese.",
+        "Spaghetti carbonara features long pasta strands coated in a creamy yellow sauce with visible bacon pieces and sometimes grated cheese.",
+        "Spaghetti carbonara features long pasta noodles coated in a creamy pale sauce with visible bits of bacon or pancetta."
+    ],
+    "spring rolls": [
+        "Spring rolls are typically cylindrical, golden brown, and crispy with visible vegetable or meat fillings often seen through a thin wrapper.",
+        "Spring rolls are typically cylindrical, golden brown, and have a thin, crispy wrapper often revealing a mix of vegetables inside.",
+        "Spring rolls are typically cylindrical, golden brown, and crispy, often showing visible vegetable or meat fillings through a thin wrapper.",
+        "Spring rolls are cylindrical wrappers filled with vegetables or meat, often golden brown and served with dipping sauce."
+    ],
+    "steak": [
+        "Steak is typically a thick, grilled or seared slice of beef with a browned crust and visible muscle fibers.",
+        "Steak typically appears as a thick, browned slab of meat often with grill marks and a juicy, reddish or pink center.",
+        "Steak is recognized by its thick grilled or seared meat surface, visible muscle fibers, and brown to reddish coloration.",
+        "Steak typically appears as a thick, browned piece of meat with visible grill marks and a juicy, reddish interior."
+    ],
+    "strawberry shortcake": [
+        "Strawberry shortcake features layers of sponge cake whipped cream and visible fresh strawberries often topped with more cream and berries.",
+        "Strawberry shortcake features layers of sponge cake, whipped cream, and visible fresh strawberries, giving it a distinct colorful layered look.",
+        "Strawberry shortcake features layers of sponge cake, whipped cream, and visible fresh strawberries, often topped with more cream and berries.",
+        "Strawberry shortcake features layers of light cake, whipped cream, and bright red strawberries, often topped with more cream."
+    ],
+    "sushi": [
+        "Sushi typically features bite-sized rice with raw fish or seafood, often wrapped in seaweed, unlike most other foods.",
+        "Sushi features small rice rolls or balls topped or wrapped with raw fish or seafood often with seaweed and colorful garnishes.",
+        "Sushi is identifiable by its compact rice base topped or wrapped with raw fish or seafood often presented in neat bite-sized pieces.",
+        "Sushi is uniquely identified by compact rice rolls or blocks topped or wrapped with colorful raw fish or seafood slices."
+    ],
+    "tacos": [
+        "Tacos are typically folded tortillas filled with visible layers of meat vegetables cheese and sauces often held by hand.",
+        "Tacos are folded or rolled tortillas filled with meats vegetables and toppings often appearing colorful and handheld among foods.",
+        "Tacos are typically folded tortillas filled with visible layers of meat vegetables cheese and salsa often presented in a handheld form.",
+        "Tacos typically feature folded tortillas filled with visible meats, vegetables, and toppings, unlike most foods with enclosed or mixed presentations."
+    ],
+    "takoyaki": [
+        "Takoyaki are round golden brown balls often topped with sauce and bonito flakes unlike most foods which have different shapes.",
+        "Takoyaki are round golden brown balls often topped with sauce mayonnaise bonito flakes and green onions, resembling small savory doughnuts.",
+        "Takoyaki are round golden brown balls often topped with sauce mayonnaise bonito flakes and green onions, typically served in trays.",
+        "Takoyaki are round golden balls with visible octopus pieces, drizzled with dark sauce and mayonnaise, and topped with bonito flakes."
+    ],
+    "tiramisu": [
+        "Tiramisu typically has layered cream and cocoa powder on top, often showing distinct layers of cream and soaked cake.",
+        "Tiramisu is layered with cream and cocoa powder on top, often showing coffee-soaked cake or ladyfingers in cross-section.",
+        "Tiramisu is recognized by its layered structure with creamy mascarpone, coffee soaked ladyfingers, and a dusting of cocoa powder on top.",
+        "Tiramisu typically appears as layered squares or slices with creamy filling, dusted with cocoa powder, often showing visible layers."
+    ],
+    "tuna tartare": [
+        "Tuna tartare typically appears as finely diced raw tuna often shaped in a mound and garnished with herbs or sauces.",
+        "Tuna tartare typically appears as small cubes of raw red tuna, often garnished with herbs or avocado on a plate.",
+        "Tuna tartare typically appears as finely diced raw red tuna often shaped in a mound and garnished with herbs or avocado.",
+        "Tuna tartare features finely diced raw tuna often mixed with herbs and sauces, usually presented as a neat mound or ring."
+    ],
+    "waffles": [
+        "Waffles are easily identified by their golden brown color and distinctive grid pattern of square or rectangular indentations.",
+        "Waffles are recognized by their grid-like pattern, golden-brown color, crisp texture, and often square or round shape.",
+        "Waffles have a distinctive grid pattern with deep square pockets, unlike most other foods which have smoother or irregular surfaces.",
+        "Waffles are golden brown grids with square indentations, often served stacked and topped with syrup, fruit, or whipped cream."
+    ]
+}

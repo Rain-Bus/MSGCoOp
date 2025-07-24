@@ -1,0 +1,608 @@
+{
+    "Apply Eye Makeup": [
+        "Apply Eye Makeup involves precise hand movements near the face focusing on eyes with tools and products for enhancement.",
+        "Apply Eye Makeup involves precise hand movements near the face unlike broader actions in other categories in UCF101 dataset",
+        "Identify Apply Eye Makeup by focusing on hands near face and use of makeup tools in closeup scenes of UCF101 videos",
+        "A person applying eye makeup uses small tools and focuses closely on their eyes for precise application in UCF101 dataset"
+    ],
+    "Apply Lipstick": [
+        "Apply Lipstick shows a person holding a small object near their face unlike other actions which dont involve makeup application.",
+        "Identify Apply Lipstick by focusing on hand movements near the face and the presence of a small object in hand used for application.",
+        "Apply Lipstick involves a person holding a small object near their mouth with precise hand movements for application.",
+        "A person applying lipstick typically holds a small tube to their lips while looking in a mirror or at themselves closely."
+    ],
+    "Archery": [
+        "Archery involves a bow and arrow with focused stance while other actions show varied movements and equipment use.",
+        "Archery involves a person holding a bow aiming and releasing an arrow with focus and precision in a calm stance.",
+        "Archery involves a person holding a bow aiming and releasing an arrow towards a target from a distance accurately.",
+        "A person doing Archery holds a bow aiming an arrow focusing on a distant target with great concentration and precision"
+    ],
+    "Baby Crawling": [
+        "Baby crawling involves a small person moving on hands and knees with a distinct low body posture and slow motion.",
+        "Identify Baby Crawling by small child on hands and knees moving forward on the floor in a slow motion manner.",
+        "A person doing Baby Crawling moves on hands and knees like a small child exploring the floor slowly and cautiously.",
+        "Baby crawling shows a child on hands and knees moving forward unlike standing walking or running actions in adults or older kids."
+    ],
+    "Balance Beam": [
+        "A person on a Balance Beam is identified by their narrow beam walking and balancing actions in gymnastics settings.",
+        "Balance Beam shows a person on a narrow beam performing gymnastics unlike other actions which lack this specific equipment and posture.",
+        "Balance Beam features include narrow beam walking precise balance and controlled body movements distinguishing it from other actions easily.",
+        "A person doing Balance Beam performs precise movements on a narrow beam requiring balance and coordination in gymnastics."
+    ],
+    "Band Marching": [
+        "Band marching involves uniformed individuals playing instruments in formation unlike casual actions which lack structured group activity and attire.",
+        "Band marching features synchronized group movements musical instruments and uniform attire distinguishing it from other actions clearly",
+        "Band Marching involves people in uniform playing instruments while moving in organized formations during parades or events.",
+        "Band marching uniquely features people in uniform playing instruments while marching in organized formations in open spaces."
+    ],
+    "Baseball Pitch": [
+        "A person doing Baseball Pitch appears with a ball in hand throwing it with a specific arm motion and body stance.",
+        "A person doing Baseball Pitch throws a ball overhand with a focused stance aiming for the batter in a game setting.",
+        "Baseball Pitch involves a person throwing a ball with specific arm and body movements unlike other actions in UCF101 dataset.",
+        "A person doing Baseball Pitch uniquely shows a windup motion followed by a powerful arm throw towards a target."
+    ],
+    "Basketball": [
+        "Basketball involves players dribbling shooting and passing a ball while defending against opponents in a court setting efficiently.",
+        "Basketball players wear specific uniforms and dribble a ball while others do not in various actions within the dataset.",
+        "Basketball involves a person dribbling shooting and passing a round ball in a court setting uniquely among actions.",
+        "Look for individuals holding a ball jumping or dribbling on a court with a hoop in the background to spot basketball."
+    ],
+    "Basketball Dunk": [
+        "A person doing Basketball Dunk leaps high to forcefully slam the ball through the hoop with strength and precision.",
+        "Basketball Dunk involves a player jumping high to score while other actions show different sports or movements on the ground.",
+        "A person doing Basketball Dunk leaps high holding the ball aiming to score through the hoop with force.",
+        "Basketball Dunk features include a person jumping high with one hand holding the ball aiming to score in the hoop efficiently."
+    ],
+    "Bench Press": [
+        "Bench press involves lying on a bench lifting weights above chest with arms extending and bending at elbows repeatedly for strength training.",
+        "Identify bench press by spotting a person lying on a flat bench lifting weights with arms extended upwards.",
+        "Bench press shows a person lying down pushing weights up while other actions involve standing or different body positions movements.",
+        "Bench Press uniquely involves lying on a flat surface while lifting weights directly above the chest in a controlled manner."
+    ],
+    "Biking": [
+        "Biking involves continuous leg movement pedaling a two wheeled vehicle with a person sitting upright steering with hands on handlebars.",
+        "Biking involves a person on a bicycle with two wheels while other actions show different body movements and objects.",
+        "Identify biking by observing individuals seated on two wheeled vehicles pedaling outdoors in various environments and attire.",
+        "A person biking appears seated on a bicycle pedaling with legs while holding handlebars for balance and control during movement."
+    ],
+    "Billiards": [
+        "Billiards involves a person using a cue stick aiming at balls on a table with pockets for scoring points in games.",
+        "Billiards involves a cue ball table and focused posture unlike sports with dynamic movements or outdoor settings.",
+        "Identify Billiards by observing a person aiming hitting balls with a cue stick on a table in a calm environment setting.",
+        "Billiards uniquely involves a person using a cue stick to strike balls on a table with pockets for scoring points."
+    ],
+    "Blow Dry Hair": [
+        "Identify blow dry hair by spotting a person holding a hairdryer aiming it at their head while standing still.",
+        "Blow Dry Hair shows a person holding a hairdryer directing airflow to their hair unlike other actions focusing on different objects.",
+        "Blow drying hair shows a person using a handheld device to dry hair while moving it with their other hand for styling.",
+        "A person holding a hairdryer close to their head while moving it is unique to Blow Dry Hair action."
+    ],
+    "Blowing Candles": [
+        "Blowing candles involves a person leaning forward exhaling air towards lit candles to extinguish them visibly different from other actions.",
+        "Blowing candles shows a person exhaling towards lit candles unlike actions involving movement or interaction with different objects or environments.",
+        "Blowing Candles involves a person exhaling to extinguish lit candles on a cake in a celebratory setting with focused attention.",
+        "A person doing Blowing Candles appears to lean forward exhaling intensely towards lit candles on a cake in celebration settings."
+    ],
+    "Body Weight Squats": [
+        "A person doing Body Weight Squats bends knees lowers body using body weight for resistance in a controlled manner.",
+        "A person doing Body Weight Squats bends knees lowers body while standing upright using body weight for resistance only.",
+        "Body weight squats involve bending knees lowering body using bodyweight unlike actions with external weights or different movements.",
+        "Body weight squats involve bending knees lowering body using body weight for resistance unlike other exercises needing equipment."
+    ],
+    "Bowling": [
+        "Bowling is identified by a person holding a ball and swinging their arm to release it down a lane towards pins.",
+        "Bowling involves a person throwing a ball down a lane aiming for pins unlike other actions which dont use such equipment or settings.",
+        "Bowling involves a person holding a ball swinging it back and forth then releasing it down a lane towards pins for scoring.",
+        "A person bowling swings their arm forward releasing a ball down a lane aiming to knock down pins accurately and powerfully"
+    ],
+    "Boxing Punching Bag": [
+        "Boxing Punching Bag involves repetitive arm movements targeting a stationary bag while maintaining a strong stance and focused posture.",
+        "Identify Boxing Punching Bag by observing a person repeatedly striking a hanging bag with forceful punches in a gym setting",
+        "Boxing Punching Bag shows a person repeatedly hitting a stationary bag unlike actions involving movement or different objects.",
+        "Boxing Punching Bag uniquely shows repetitive arm movements targeting a stationary bag unlike other actions in the dataset."
+    ],
+    "Boxing Speed Bag": [
+        "Boxing speed bag features rapid hand movements close to a small bag with a person standing in a fixed position.",
+        "A person boxing speed bag rapidly punches a small bag while standing in a gym or training area focused on speed.",
+        "Boxing Speed Bag shows rapid hand movements on a small bag unlike slower actions in other sports activities in UCF101",
+        "Boxing speed bag uniquely involves rapid hand movements on a small bag unlike other actions in UCF101 dataset"
+    ],
+    "Breast Stroke": [
+        "Breast stroke involves a person moving arms outwards then inwards while kicking legs together in a frog like motion for swimming.",
+        "Breast stroke shows a person moving arms outwards then inwards while kicking legs in a frog like motion unlike other strokes.",
+        "A person doing Breast Stroke moves both arms forward together then pulls them back while bending knees and pushing legs outwards.",
+        "A person doing Breast Stroke moves arms out to sides then together while kicking legs outwards and bringing them together in a circular motion."
+    ],
+    "Brushing Teeth": [
+        "Brushing teeth shows a person holding a toothbrush near their mouth unlike other actions which do not involve this specific motion.",
+        "Brushing Teeth involves repetitive hand movements near the mouth with a toothbrush distinguishing it from other actions clearly",
+        "Look for a person holding a toothbrush near their mouth with repetitive up and down hand movements near face area.",
+        "Brushing Teeth shows a person holding a toothbrush near their mouth moving it back and forth in a cleaning motion."
+    ],
+    "Clean And Jerk": [
+        "Clean and Jerk involves lifting a barbell from floor to shoulders then overhead distinguishing it from other actions by its specific lifting sequence.",
+        "Identify Clean And Jerk by spotting a person lifting a barbell from floor to shoulder then overhead in a single motion quickly.",
+        "Clean and Jerk involves lifting a barbell from floor to overhead while other actions show different body movements and equipment use.",
+        "A person doing Clean and Jerk lifts a barbell from floor to shoulders then overhead in one continuous motion in weightlifting."
+    ],
+    "Cliff Diving": [
+        "Cliff diving involves a person jumping from high cliffs into water unlike other actions which may not include such heights or water.",
+        "Cliff diving is identified by a person jumping from a high cliff into water with arms spread wide in midair.",
+        "A person doing Cliff Diving leaps from a high cliff into water executing various aerial maneuvers during the dive.",
+        "Cliff diving uniquely shows a person soaring through air above water after jumping from a high natural rock formation."
+    ],
+    "Cricket Bowling": [
+        "Cricket bowling is identified by a person in a bowling stance throwing a ball with a run up on a field.",
+        "Cricket bowling involves a person throwing a ball with one arm extended while running up to a wicket unlike other actions.",
+        "Cricket bowling involves a person throwing a ball with a specific arm motion and body posture different from other actions in sports.",
+        "Cricket bowling uniquely shows a person running up and delivering a ball with a specific arm action not seen in other sports."
+    ],
+    "Cricket Shot": [
+        "Cricket Shot involves a bat swing and ball while other actions like running or jumping lack these specific elements and equipment.",
+        "Cricket shot involves a player swinging a bat to hit a ball with distinct body posture and hand movement for recognition.",
+        "A person doing Cricket Shot holds a bat swings it aiming at a ball during a game or practice session.",
+        "A cricket shot uniquely shows a player swinging a bat to hit a ball in motion during a game."
+    ],
+    "Cutting In Kitchen": [
+        "Cutting in kitchen involves sharp tools hands moving precisely on food items distinguishing it from other actions easily and clearly.",
+        "Cutting in kitchen involves holding knives and chopping food unlike other actions which may not include these specific tools or activities.",
+        "Look for hands using knives on food items in a kitchen setting with visible kitchenware around the person.",
+        "A person cutting in kitchen typically uses knives on food items standing at a counter in a home environment efficiently."
+    ],
+    "Diving": [
+        "Diving is identified by a person jumping into water with arms extended and body streamlined in various positions.",
+        "Diving involves a person jumping into water with specific body positions unlike other actions which lack this aquatic focus and posture.",
+        "Diving features include a person jumping from height entering water with streamlined body and minimal splash for efficient entry.",
+        "A person diving leaps into water with body streamlined and arms extended aiming for a splashless entry in action scenes."
+    ],
+    "Drumming": [
+        "Drumming involves rapid hand movements on drums with sticks while seated or standing in a rhythmic pattern.",
+        "Drumming involves hands moving rhythmically on drums with sticks or fingers in a repetitive pattern distinguishing it from other actions.",
+        "Drumming involves rhythmic hand movements on drums while other actions show diverse body postures and object interactions instead.",
+        "Drumming involves a person playing drums with sticks using rhythmic hand and foot movements in various settings and attire."
+    ],
+    "Fencing": [
+        "Fencing involves two people with protective gear and swords engaged in a structured combat sport requiring precise movements and strategy.",
+        "Fencing involves two people with protective gear and swords while other actions show varied movements and no specific equipment used.",
+        "Fencing involves two people in protective gear using swords with precise movements and strategic positioning for scoring points in a match.",
+        "Fencing involves two people using swords in a controlled duel requiring agility precision and strategic movements in a marked area"
+    ],
+    "Field Hockey Penalty": [
+        "Field Hockey Penalty involves players in specific uniforms using sticks to hit a ball unlike other actions which vary widely.",
+        "A person doing Field Hockey Penalty appears with a stick aiming at a ball on a marked field during a game stoppage",
+        "A person doing Field Hockey Penalty stands ready to strike the ball during a game with focused intensity and precision.",
+        "A person doing Field Hockey Penalty uniquely holds a stick aiming at a ball on the ground during a specific game moment."
+    ],
+    "Floor Gymnastics": [
+        "Floor gymnastics involves specific body movements on a mat unlike other actions which may not require such precise poses and balance skills",
+        "Identify floor gymnastics by spotting a person performing precise acrobatic movements on a mat without using any apparatus.",
+        "Floor gymnastics features precise body control dynamic movements and floor contact distinguishing it from other action types in sports analysis",
+        "Floor gymnastics involves athletes performing complex routines with flips and spins on a mat in a controlled indoor environment"
+    ],
+    "Frisbee Catch": [
+        "Frisbee catch shows a person actively throwing or catching a disc unlike other actions which may not involve such specific object interaction.",
+        "Frisbee catch involves a person throwing and catching a flat disc with dynamic arm and hand movements in open spaces.",
+        "A person doing Frisbee Catch appears focused throwing or catching a flying disc in various outdoor settings with others nearby.",
+        "Frisbee catch uniquely involves a person extending arms to catch a spinning disc in midair with focus and precision."
+    ],
+    "Front Crawl": [
+        "Front Crawl shows a swimmer moving forward with alternating arm strokes and flutter kicks unlike other swimming styles or actions.",
+        "A person doing Front Crawl moves arms alternately while kicking legs in water mimicking a swimming action efficiently and swiftly.",
+        "Front Crawl uniquely shows alternating arm strokes and flutter kicks while swimming face down in water continuously.",
+        "A person doing Front Crawl moves arms alternately in a circular motion while kicking legs in a flutter kick rhythm continuously."
+    ],
+    "Golf Swing": [
+        "Golf swing involves a person holding a club swinging it to hit a ball with focused body posture and arm movement.",
+        "A person doing Golf Swing holds a club swinging it in a wide arc for hitting a ball on a course.",
+        "Golf Swing involves a person holding a club swinging it in a specific stance unlike other actions in UCF101 dataset",
+        "A person doing Golf Swing holds a club preparing to hit a ball in a stance focused on precision and power."
+    ],
+    "Haircut": [
+        "Haircut involves scissors cutting hair with a person standing or sitting while another holds and trims their hair carefully precisely.",
+        "Identify Haircut by observing someone using scissors or clippers on another persons head focusing on hair styling actions closely.",
+        "Haircut involves a person cutting hair with scissors while others show varied actions like dancing or playing sports differently.",
+        "A person doing Haircut uniquely involves scissors or clippers cutting hair while another holds it steady in UCF101 dataset."
+    ],
+    "Hammering": [
+        "Hammering involves repetitive arm movements with a tool striking an object distinguishing it from other actions in the dataset clearly.",
+        "Hammering involves a person holding and swinging a hammer unlike actions without tools or different motions used in various tasks",
+        "A person hammering appears holding a tool repeatedly striking an object distinguishing it from other actions visually",
+        "A person doing hammering holds a hammer striking an object repeatedly with forceful motions in various settings."
+    ],
+    "Hammer Throw": [
+        "Hammer throw involves a person swinging a heavy ball while other actions show varied movements without such specific equipment use.",
+        "Hammer throw features a person spinning rapidly holding an object with a chain aiming to throw it far with precision and power.",
+        "A person doing Hammer Throw spins rapidly holding a heavy ball on a wire aiming to throw it far.",
+        "The unique visual cue is the person spinning with a hammer in hand preparing to throw it far."
+    ],
+    "Handstand Pushups": [
+        "Handstand pushups involve a person balancing upside down on hands while bending and extending arms unlike other actions in appearance.",
+        "Handstand pushups uniquely show a person inverted with hands on the ground performing pushups while balancing on their hands alone.",
+        "A person doing Handstand Pushups appears inverted with straight legs arms extended and body perpendicular to the ground during pushups.",
+        "A person doing Handstand Pushups balances upside down on hands while lowering and raising body vertically in controlled motion."
+    ],
+    "Handstand Walking": [
+        "Identify Handstand Walking by spotting a person upright on hands moving forward with legs extended in air balanced on hands alone.",
+        "Handstand walking shows a person upright on hands while others may use feet or involve different body positions for movement.",
+        "Handstand walking features a person walking on hands with legs extended above balancing upright in various environments efficiently.",
+        "Handstand walking uniquely shows a person walking on hands with legs extended in a straight line above."
+    ],
+    "Head Massage": [
+        "Head massage involves hands on head while other actions show varied limb movements and postures not focused on head.",
+        "A person doing Head Massage typically uses hands to apply pressure and rub the scalp methodically for relaxation.",
+        "Head massage involves hands pressing and rubbing the scalp and neck area distinguishing it from other actions in the dataset clearly.",
+        "A person doing Head Massage typically shows hands on another's head applying pressure and circular motions for relaxation."
+    ],
+    "High Jump": [
+        "A person doing High Jump is identified by their vertical leap over a bar with bent legs and extended arms.",
+        "High jump involves a person leaping over a bar using specific techniques unlike other actions which dont require such precise movements.",
+        "High Jump involves a person leaping over a bar using a curved run up and one foot takeoff technique for clearance.",
+        "A person doing High Jump leaps over a bar using a one and a half meter long pole for support in action."
+    ],
+    "Horse Race": [
+        "Horse race shows people riding horses at speed while others may walk or perform unrelated activities differently.",
+        "Identify horse race by people riding horses competing in a race track with spectators around watching the event closely.",
+        "A person doing Horse Race rides a horse swiftly competing against others in a track event for speed and endurance.",
+        "Horse race uniquely shows people riding horses at high speeds in competitive racing events on tracks."
+    ],
+    "Horse Riding": [
+        "Horse riding features a person seated on a horse holding reins and guiding it while maintaining balance and control.",
+        "Identify horse riding by spotting a person seated on a horse with reins in hand in an open field setting.",
+        "Horse riding involves a person seated on a horse using reins while other actions show different body positions and movements.",
+        "A person doing Horse Riding sits atop a horse guiding it with reins in various settings like fields or tracks."
+    ],
+    "Hula Hoop": [
+        "Hula Hoop involves a person using a hoop around their body unlike other actions which do not use such equipment.",
+        "A person doing Hula Hoop spins a hoop around their body in rhythmic circular motions often with added dance steps.",
+        "A person doing Hula Hoop spins a hoop around their waist continuously in a rhythmic circular motion distinguishing it visually.",
+        "Hula Hoop involves continuous circular motion around the waist with a hoop distinguishing it from other actions in UCF101 dataset"
+    ],
+    "Ice Dancing": [
+        "Ice dancing involves graceful movements with partners gliding spinning and performing synchronized steps on ice rinks.",
+        "Ice dancers wear skates perform graceful synchronized movements on ice distinguishing them from other action categories easily.",
+        "Ice dancing shows synchronized movements in elegant costumes on ice unlike other actions which vary in setting and attire.",
+        "Ice dancing features synchronized movements graceful poses and fluid arm gestures distinguishing it from other actions in sports."
+    ],
+    "Javelin Throw": [
+        "Javelin Throw involves a person holding a long stick preparing to throw it unlike other actions which dont use such equipment.",
+        "Javelin throwers exhibit a powerful overhand throwing motion with a run up and a distinct follow through for recognition in action videos",
+        "A person doing Javelin Throw appears to be throwing a long spear using one hand with a powerful motion in an open field.",
+        "A person in Javelin Throw holds a long thin object above shoulder level preparing to launch it with a powerful throw."
+    ],
+    "Juggling Balls": [
+        "Juggling balls involves multiple objects in motion unlike actions focusing on single object manipulation or body movements alone.",
+        "Identify juggling by spotting multiple balls in motion above hands in a rhythmic pattern amidst various actions around.",
+        "Juggling Balls involves rapid hand movements with multiple objects in air distinguishing it from other actions in UCF101 dataset",
+        "Juggling Balls uniquely shows multiple objects in motion above hand level unlike other actions in UCF101 dataset"
+    ],
+    "Jumping Jack": [
+        "Jumping Jacks involve rapid arm and leg movements unlike slower actions such as walking or standing which have minimal motion.",
+        "Jumping Jacks involve arms and legs moving simultaneously outwards and inwards in a rhythmic continuous motion for exercise.",
+        "Jumping Jacks involve arms and legs moving outward simultaneously in a repetitive manner distinguishing them from other actions easily.",
+        "A person doing Jumping Jacks moves arms and legs outwards then inwards repeatedly in a rhythmic fashion for exercise."
+    ],
+    "Jump Rope": [
+        "Identify jump rope by continuous arm swings and legs moving rhythmically up and down in a repetitive manner.",
+        "Jump rope involves continuous motion with arms swinging and legs jumping while others show varied static or dynamic movements differently.",
+        "A person doing Jump Rope swings a rope over their head while jumping continuously in place or moving around.",
+        "Jump rope involves continuous arm swings and feet hopping distinguishing it from other actions by its rhythmic repetitive motion pattern."
+    ],
+    "Kayaking": [
+        "Kayaking involves a person paddling a small boat on water distinguishing it from other actions by its aquatic setting and equipment use.",
+        "Kayaking is identified by a person in a small boat using a paddle for movement on water distinguishing it from other actions.",
+        "Kayaking shows a person in a small boat with a paddle on water unlike other actions which dont involve watercraft.",
+        "Kayaking shows a person paddling a small boat on water distinguishing it from other water sports by the boat type and action."
+    ],
+    "Knitting": [
+        "Knitting involves intricate hand movements with yarn and needles unlike other actions which may not require such fine motor skills.",
+        "Knitting involves hands manipulating yarn with needles creating fabric patterns distinct from other actions in UCF101 dataset",
+        "A person knitting typically holds yarn and needles with focused hand movements distinguishing it from other actions easily.",
+        "Knitting uniquely involves hands manipulating yarn with needles creating fabric loops in a repetitive pattern not seen in other actions."
+    ],
+    "Long Jump": [
+        "Long jump involves a person running then leaping into a sand pit unlike other actions which dont require such specific equipment or motion.",
+        "Long jump features include a person running then leaping into a sand pit with extended arms and legs for distance.",
+        "A person doing Long Jump appears running then leaps far into a sand pit distinct from other actions in appearance.",
+        "A person doing Long Jump runs fast then leaps far into a sand pit demonstrating athletic skill and precision in motion."
+    ],
+    "Lunges": [
+        "Lunges involve a person stepping forward with one leg while lowering their body and bending both knees distinctly.",
+        "Lunges involve one leg forward bent at knee while the other is extended back differing from other actions in leg positioning and balance.",
+        "Lunges involve one leg forward bent at knee while the other extends back with a straight posture distinguishing it from other actions.",
+        "A person doing Lunges steps forward with one leg bends knee lowers body and returns to starting position repeatedly."
+    ],
+    "Military Parade": [
+        "Identify Military Parade by uniformed individuals marching in synchronized formation with precision and discipline in open spaces.",
+        "Military parade shows uniformed individuals marching in formation while other actions vary in attire and lack structured group movement.",
+        "A person doing Military Parade marches in formation with others wearing uniform carrying flags or weapons in a ceremonial display of strength.",
+        "Military parade features synchronized marching uniformed personnel carrying flags and weapons in formation for ceremonial display recognition."
+    ],
+    "Mixing": [
+        "Mixing involves hands moving rhythmically in a bowl combining ingredients distinguishing it from other actions in diverse settings clearly.",
+        "Identify Mixing by observing hands in motion blending ingredients in a bowl with focused attention on the task.",
+        "Mixing shows hands blending ingredients in a bowl while other actions involve different body movements and tools not used in cooking.",
+        "A person mixing blends ingredients in a bowl using a spoon or whisk in a kitchen setting for cooking purposes."
+    ],
+    "Mopping Floor": [
+        "Mopping involves a person pushing a mop across a floor in a back and forth motion to clean it effectively",
+        "Mopping floor involves a person pushing a mop across a floor unlike other actions that may not use cleaning tools or involve standing.",
+        "A person mopping floor uses a long handled tool to clean surfaces methodically moving it back and forth across the area.",
+        "A person mopping floors holds a mop and moves it back and forth while cleaning the ground surface diligently."
+    ],
+    "Nunchucks": [
+        "Nunchucks involve fast dual arm movements with two connected sticks for combat training distinguishing it from other actions easily.",
+        "Nunchucks involve fast dual stick movements unlike slower single object actions or static poses in other UCF101 categories",
+        "Identify Nunchucks by two sticks connected by a chain used for swinging and striking in martial arts practice and demonstrations.",
+        "A person doing Nunchucks swings two connected sticks rapidly in various martial arts moves for self defense or demonstration purposes."
+    ],
+    "Parallel Bars": [
+        "Parallel Bars involve a person swinging and performing tricks on two horizontal bars distinct from other gymnastics or sports actions.",
+        "Parallel Bars involve gymnastics with two bars while other actions show diverse movements and equipment not specific to gymnastics routines.",
+        "Identify Parallel Bars by two horizontal bars used for gymnastics where athletes perform swings and flips in a gym setting.",
+        "A person doing Parallel Bars swings and performs gymnastic routines using two bars for support and balance in a gym setting"
+    ],
+    "Pizza Tossing": [
+        "Pizza tossing involves a person throwing dough in the air with hands in a circular motion creating a spinning effect for even cooking.",
+        "Look for someone throwing dough in the air with hands while standing in a kitchen or similar setting during food preparation.",
+        "Pizza tossing involves spinning dough in air while other actions show different object manipulations or body movements in varied settings.",
+        "A person doing Pizza Tossing flips dough high in air using hands in a kitchen setting during food preparation process."
+    ],
+    "Playing Cello": [
+        "Playing Cello involves a large instrument held between legs with a bow unlike smaller hand held instruments or solo dance actions.",
+        "Identify a person playing cello by their large instrument posture and bowing hand movement distinct from other actions",
+        "Playing Cello involves a person sitting holding a large string instrument with a bow moving across strings to produce music sounds.",
+        "A person playing cello sits holding the instrument vertically using a bow to play strings while seated in a calm posture."
+    ],
+    "Playing Daf": [
+        "Playing Daf involves hand movements on a frame drum unlike actions like running or jumping which use legs extensively.",
+        "Identify Playing Daf by observing a person holding and rhythmically hitting a round frame drum with their hand in various settings.",
+        "Playing Daf involves rhythmic hand movements on a circular frame drum distinct from other actions for clear visual recognition",
+        "A person playing Daf moves rhythmically hitting a round frame drum with hands in a musical performance setting."
+    ],
+    "Playing Dhol": [
+        "Playing Dhol involves two sticks hitting a drum while other actions use different tools or body movements for varied activities.",
+        "Playing Dhol involves two sticks hitting a large drum with rhythmic movements and a person sitting while playing vigorously often in groups.",
+        "A person playing Dhol is identified by holding a large drum with two sticks and rhythmic hand movements near it.",
+        "A person playing Dhol holds a drum with both hands rhythmically hitting it while standing or sitting in a focused posture."
+    ],
+    "Playing Flute": [
+        "Playing flute involves a person holding a flute to their mouth and fingers moving on holes for music production precisely.",
+        "Playing flute involves holding a wind instrument with fingers on keys while other actions dont require similar hand positions or instruments.",
+        "Identify playing flute by observing hands on flute mouthpiece and fingers moving along instrument body during performance",
+        "A person playing flute holds the instrument horizontally using fingers to cover holes while blowing into one end creating music sounds"
+    ],
+    "Playing Guitar": [
+        "Playing guitar involves hands on strings and body posture distinct from other actions like dancing or running in appearance.",
+        "Playing guitar involves hands strumming strings on a guitar body with fingers pressing strings for notes recognition.",
+        "Playing guitar uniquely involves hands strumming strings on a guitar body while fingers press frets on the neck.",
+        "Look for hands on guitar strings fingers strumming and body posture typical of playing musical instruments in video frames"
+    ],
+    "Playing Piano": [
+        "A person playing piano typically sits at a keyboard instrument moving fingers to press keys creating music sounds.",
+        "Identify playing piano by hands on keys fingers moving rhythmically body seated focused on instrument not moving much elsewhere.",
+        "Playing piano involves hands on keys with focused posture unlike actions with full body movement or different objects interaction",
+        "Playing piano involves hands on keys fingers moving rhythmically distinguishing it from other actions in diverse datasets efficiently."
+    ],
+    "Playing Sitar": [
+        "Playing Sitar involves a person holding a sitar instrument and strumming strings unlike other actions which dont use musical instruments.",
+        "Identify a person playing sitar by their focused posture and hands skillfully moving on a long necked stringed instrument.",
+        "Playing Sitar involves a person sitting holding a long necked instrument with strings plucking them with fingers or a pick.",
+        "A person playing sitar sits or stands strumming a long necked stringed instrument with focused hand movements and posture."
+    ],
+    "Playing Tabla": [
+        "Playing Tabla involves rapid hand movements on two drums with specific postures and rhythmic patterns distinguishing it from other actions.",
+        "Playing Tabla involves hands hitting a drum while other actions may not use musical instruments or require different body movements.",
+        "Identify Playing Tabla by hands rapidly striking a pair of small drums with intricate rhythmic patterns and focused posture.",
+        "A person playing tabla sits with hands rhythmically striking small drums in a focused and skilled manner during performance"
+    ],
+    "Playing Violin": [
+        "Playing violin involves holding a violin and bow with specific hand positions unlike actions in other categories which vary widely.",
+        "Playing violin involves holding a violin under the chin using a bow on strings with precise hand movements and posture.",
+        "Playing violin uniquely involves holding a violin and bow with specific hand positions not seen in other actions",
+        "A person playing violin holds a violin under chin and uses a bow on strings while standing or sitting upright."
+    ],
+    "Pole Vault": [
+        "Pole Vault involves a person using a pole to jump over a high bar distinguishing it from other actions easily.",
+        "Pole vaulters leap over high bars using poles distinctively bending and stretching their bodies for clearance in athletic competitions.",
+        "Pole vault involves a person using a pole to jump over a bar unlike other actions that dont require such equipment or technique.",
+        "Pole Vault uniquely features a person using a long pole to vault over a high bar in a single fluid motion."
+    ],
+    "Pommel Horse": [
+        "Pommel horse actions involve circular leg movements around a fixed beam with hands gripping handles for balance and control during gymnastics routines",
+        "Pommel horse involves a person rotating around a fixed beam unlike other actions which dont use such specific equipment or techniques.",
+        "Look for a person performing circular movements on a low beam in a gymnastics setting to identify Pommel Horse action easily.",
+        "A person doing Pommel Horse spins around a bar using hands for support in a gymnastics routine requiring strength and balance"
+    ],
+    "Pull Ups": [
+        "Pull ups involve a person hanging from a bar lifting their body weight upwards using arm strength and core muscles for exercise.",
+        "A person doing pull ups hangs from a bar and pulls themselves up repeatedly using arm strength alone in various settings.",
+        "Pull ups involve hanging from a bar lifting body weight while other actions may not require such specific equipment or posture.",
+        "Identify pull ups by observing a person hanging from a bar lifting their body upwards repeatedly using arm strength alone."
+    ],
+    "Punch": [
+        "Punching involves a person extending their arm quickly towards a target with a clenched fist for impact recognition.",
+        "Identify a punch by observing a person extending their arm quickly towards another individual or object in a forceful manner.",
+        "Punching involves rapid arm movement towards a target unlike other actions which may focus on legs or full body movements instead.",
+        "A person doing Punch moves their arm quickly forward aiming to strike an opponent with a clenched fist in combat."
+    ],
+    "Push Ups": [
+        "Push ups involve a person lowering and raising their body using arms with hands on the ground in a consistent rhythm.",
+        "A person doing push ups is on hands and knees lowering and raising body vertically in a controlled manner repeatedly.",
+        "Identify push ups by spotting a person in a plank position lowering and raising their body using arm strength alone.",
+        "Push ups show a person in a horizontal position with arms bending and straightening while other actions vary in posture and movement."
+    ],
+    "Rafting": [
+        "Rafting involves people in life jackets on water with paddles unlike other actions which lack these specific elements and settings.",
+        "Rafting involves people wearing life jackets holding paddles navigating through water on inflatable rafts in groups often.",
+        "Rafting features people holding paddles in inflatable boats navigating water rapids distinguishing it from other water activities easily.",
+        "A person doing Rafting appears navigating water on an inflatable boat often with paddles amidst splashing waves and nature."
+    ],
+    "Rock Climbing Indoor": [
+        "Rock climbing indoor features include gripping holds on artificial walls and climbers using safety harnesses and ropes for support and safety.",
+        "Rock climbing indoor shows people gripping artificial walls with safety gear unlike natural outdoor settings or other sports activities.",
+        "Look for individuals using ropes and harnesses scaling artificial walls in a controlled indoor environment for rock climbing.",
+        "Indoor rock climbing uniquely features climbers on artificial walls using hooks and ropes in controlled environments not found outdoors."
+    ],
+    "Rope Climbing": [
+        "Identify Rope Climbing by spotting a person ascending a vertical rope using hands and feet in a controlled manner without safety gear.",
+        "Rope climbing shows a person ascending vertically using ropes while others involve different body movements and equipment in various settings.",
+        "Rope Climbing uniquely shows a person ascending a vertical rope using hands and feet in a controlled manner for height gain.",
+        "Rope climbing shows a person ascending vertically using a rope with hands and feet gripping tightly for support and movement."
+    ],
+    "Rowing": [
+        "Rowing involves repetitive arm and leg movements in a seated position unlike standing actions or those with less rhythmic movements.",
+        "Rowing is identified by a person using oars to propel a boat through water in a rhythmic back and forth motion.",
+        "Rowing involves rhythmic arm and leg movements with a person seated on a boat using oars for propulsion in water.",
+        "Rowing uniquely involves repetitive arm movements with oars in water distinguishing it from other actions in the dataset"
+    ],
+    "Salsa Spin": [
+        "Salsa Spin involves a person rotating gracefully with a partner unlike other actions that may not include such specific dance moves.",
+        "A person doing Salsa Spin moves rhythmically turning in circles with a partner gracefully among various actions",
+        "Salsa Spin features rapid body rotation arm movements and fluid footwork distinguishing it from other dance styles and actions",
+        "A person doing Salsa Spin appears to be moving in a circular motion with their partner in a rhythmic dance style."
+    ],
+    "Shaving Beard": [
+        "A person shaving beard typically uses a razor focusing on facial hair removal in a bathroom setting carefully and precisely.",
+        "Shaving beard involves a person using a razor on facial hair which distinguishes it from other actions in the dataset",
+        "Shaving beard involves a person using a razor on facial hair unlike actions like running or jumping which involve full body movement.",
+        "Identify shaving beard by observing a person using a razor on their face focusing on the beard area specifically."
+    ],
+    "Shotput": [
+        "Shotput involves a person holding a heavy ball preparing to throw it with a specific stance and motion for distance.",
+        "Shotput involves a person holding a heavy ball preparing to throw it unlike other actions which dont require such equipment or stance.",
+        "A person doing Shotput holds a heavy ball preparing to throw it with one hand over shoulder in a powerful stance.",
+        "Shotput uniquely involves a person holding a heavy metal ball preparing to throw it with one hand in a powerful stance."
+    ],
+    "Skate Boarding": [
+        "Skateboarding involves a person balancing on a board performing tricks in various environments distinguishing it from other actions easily.",
+        "Skateboarding involves a person on a board with wheels performing tricks unlike other actions which may not use such equipment.",
+        "Identify skateboarders by their stance on a board performing tricks or gliding on ramps and streets in casual attire.",
+        "A person skateboarding shows dynamic balance on a board with feet positioned for control during tricks or rides."
+    ],
+    "Skiing": [
+        "Skiing involves people sliding downhill on snow covered slopes using skis with poles for balance and speed control in varied terrains.",
+        "Skiing involves people wearing skis poles and winter gear gliding down snowy slopes distinguishing it from other actions easily.",
+        "Skiing involves individuals wearing skis and winter gear sliding down snow covered slopes unlike other actions in various environments.",
+        "Skiing uniquely shows people gliding on snow using skis with poles in mountainous terrains amidst winter conditions."
+    ],
+    "Skijet": [
+        "Skijet shows a person on water with a jet ski unlike other actions which dont involve water or similar equipment.",
+        "Skijet involves a person riding a jet ski on water at high speed creating splashes and waves around them.",
+        "A person doing Skijet is seen riding a watercraft at high speed on water similar to surfing or jet skiing actions.",
+        "Skijet uniquely involves a person standing on a board propelled by water jets creating a distinct splash around them in action."
+    ],
+    "Sky Diving": [
+        "Sky diving involves a person free falling from an airplane with a parachute for a thrilling aerial adventure experience.",
+        "Sky divers wear harnesses carry parachutes and free fall from high altitudes unlike other actions which are ground based or less extreme.",
+        "Skydivers wear specialized gear free fall from high altitudes distinguishing them from other action categories easily and clearly.",
+        "Skydivers wear parachutes freefall from high altitudes with open arms and legs spread wide for maximum air resistance during descent."
+    ],
+    "Soccer Juggling": [
+        "Soccer juggling involves a person skillfully controlling a ball with body parts unlike other actions focusing on different equipment or movements.",
+        "Soccer juggling uniquely involves a person repeatedly kicking a ball in the air with feet and head maintaining control without it touching the ground.",
+        "A person doing soccer juggling uses feet to keep a ball in air showing skillful control and coordination in varied positions.",
+        "A person doing Soccer Juggling skillfully controls a ball with body parts keeping it airborne during play or practice."
+    ],
+    "Soccer Penalty": [
+        "A person doing Soccer Penalty stands on a spot kicks the ball powerfully towards the goal during a match game.",
+        "A person in Soccer Penalty stands still then sprints to kick the ball aiming at the goalpost distinctly.",
+        "Soccer Penalty shows a player kicking a ball in a focused stance unlike casual kicks or other sports actions in appearance.",
+        "A person doing Soccer Penalty stands on a field aiming to kick a ball placed on the ground towards a goal."
+    ],
+    "Still Rings": [
+        "Still Rings involve a person holding a static position on gymnastic rings unlike dynamic actions seen in other sports activities",
+        "Still Rings involve a person performing static gymnastics moves on rings focusing on strength and balance in a controlled environment",
+        "Still Rings uniquely shows a person hanging motionless from two suspended rings unlike other dynamic actions in UCF101 dataset",
+        "A person doing Still Rings maintains a fixed position on gymnastic rings performing controlled movements with minimal body sway and rotation."
+    ],
+    "Sumo Wrestling": [
+        "Sumo wrestling shows large wrestlers in mawashi belts grappling while other actions involve diverse attire and movements not specific to sumo.",
+        "Sumo wrestlers are large heavyset individuals wearing mawashi wrestling in a ring with traditional Japanese attire.",
+        "Sumo wrestlers are large strong men wearing mawashi wrestling in a ring using grappling techniques to push opponents out.",
+        "Sumo wrestling features two large wrestlers in traditional attire grappling in a ring aiming to push each other out."
+    ],
+    "Surfing": [
+        "Surfing involves a person balancing on a board riding ocean waves distinct from other actions by water interaction and posture.",
+        "Identify Surfing by observing a person standing on a board riding waves in water amidst splashes and foam.",
+        "Surfing involves a person on a board riding waves while other actions show different equipment and body positions in various settings.",
+        "Surfing uniquely involves balancing on a board over water waves distinct from other actions in UCF101 dataset"
+    ],
+    "Swing": [
+        "Identify Swing by observing rhythmic arm movements and body swaying in a dance like manner with partners.",
+        "Swing involves rhythmic arm movements and a partner unlike other actions which may focus on legs or solo performance",
+        "Swing involves two people moving rhythmically side to side with coordinated steps and arm movements in a dance setting.",
+        "A person doing Swing moves rhythmically often with a partner in a dance floor setting enjoying music and social interaction."
+    ],
+    "Table Tennis Shot": [
+        "Table Tennis Shot involves a racket hitting a small ball while other actions may not use similar equipment or have distinct motions.",
+        "A person doing Table Tennis Shot holds a paddle and hits a small ball across a net in a fast precise manner.",
+        "Table Tennis Shot involves rapid hand movements with a small paddle hitting a tiny ball back and forth over a net.",
+        "Identify Table Tennis Shot by observing rapid hand movements and a small ball near a table with two players actively engaged."
+    ],
+    "Tai Chi": [
+        "Tai Chi is identified by slow deliberate movements fluid postures and calm demeanor distinguishing it from other actions easily.",
+        "Tai Chi involves slow graceful movements with deep breathing and balance distinguishing it from other actions in the dataset",
+        "Tai Chi involves slow fluid movements unlike faster more vigorous actions seen in other activities in UCF101 dataset",
+        "Tai Chi uniquely features slow deliberate movements with a focus on balance and fluidity distinguishing it from other actions."
+    ],
+    "Tennis Swing": [
+        "Tennis swing involves a racket and ball while other actions may not require specific equipment or follow a set motion pattern.",
+        "Tennis swing shows a person holding a racket swinging it powerfully to hit a ball during a game or practice session.",
+        "A person doing Tennis Swing holds racket swings it to hit ball during a tennis match or practice session",
+        "A person doing Tennis Swing holds a racket swings it with force aiming at a ball during a game or practice session"
+    ],
+    "Throw Discus": [
+        "Throw Discus involves a person spinning and throwing a heavy disc unlike other actions which may not include such specific equipment or motion.",
+        "Throwing discus involves a person spinning and releasing a heavy disc in a circular motion for distance in a field event.",
+        "A person throwing discus spins holding an object then releases it with force aiming for distance in a field setting",
+        "Identify Throw Discus by a person holding a discus preparing to throw it with a wide stance and arm extended back."
+    ],
+    "Trampoline Jumping": [
+        "Trampoline jumping is identified by a person bouncing high in the air with legs extended or bent in various positions.",
+        "Trampoline Jumping shows a person bouncing high in air performing flips and tricks unlike other actions in UCF101 dataset",
+        "Trampoline jumping involves high vertical leaps with rapid bounces unique to trampolines distinguishing it from other action types easily.",
+        "Trampoline jumping shows a person bouncing high in air while other actions involve ground level movements and different body postures."
+    ],
+    "Typing": [
+        "Typing involves hands rapidly moving on a keyboard with fingers pressing keys in a repetitive pattern for data entry tasks.",
+        "Typing is identified by hands on a keyboard fingers moving quickly in a repetitive motion focused on the screen area.",
+        "Typing involves hands on a keyboard with focused body posture unlike actions requiring full body movement or external objects interaction.",
+        "Typing uniquely involves fingers rapidly pressing keys on a keyboard in a repetitive motion unlike other actions."
+    ],
+    "Uneven Bars": [
+        "A person doing Uneven Bars swings between two bars performing flips and tricks in gymnastics routines swiftly and gracefully.",
+        "Uneven Bars involve swinging gymnastics on two bars while other actions show different sports or activities without gymnastic equipment.",
+        "Identify Uneven Bars by gymnast performing on two parallel bars with swinging and flipping movements distinct from other actions.",
+        "Uneven Bars involve swinging between two bars with complex handstands and flips distinguishing it from other gymnastics routines significantly"
+    ],
+    "Volleyball Spiking": [
+        "Volleyball spiking involves a player jumping high and hitting the ball with force unlike other actions which are less dynamic and varied.",
+        "Volleyball spiking involves a player jumping high to hit the ball over the net with force during a game.",
+        "Volleyball spiking involves a powerful jump with one arm extended above head hitting the ball forcefully towards the opponent court.",
+        "A person doing Volleyball Spiking jumps high hitting the ball forcefully over the net in a powerful motion towards opponents."
+    ],
+    "Walking With Dog": [
+        "Walking with dog shows a person and a dog moving together outdoors distinguishing it from other actions easily.",
+        "Walking with dog shows a person and a dog moving together unlike actions involving solo individuals or different animals.",
+        "Identify a person walking with dog by spotting a human figure moving alongside an animal on a leash in outdoor settings.",
+        "A person doing Walking With Dog uniquely shows a leashed animal moving alongside them in outdoor settings consistently."
+    ],
+    "Wall Pushups": [
+        "Wall pushups are identified by a person doing pushups with hands on a wall body inclined forward and legs straight back.",
+        "Wall pushups involve a person facing a wall hands placed on it body straight moving closer then pushing away repeatedly for exercise.",
+        "Wall pushups involve hands on a wall body angled differently from floor pushups and other exercises focusing on arm and core strength.",
+        "Wall pushups uniquely show a person facing a wall with hands on it while doing pushups in a standing position."
+    ],
+    "Writing On Board": [
+        "Writing on board involves a person using a tool to write on a surface unlike actions like jumping or running which are more dynamic.",
+        "Writing on board involves a person standing using a marker or chalk on a board often in educational settings clearly visible.",
+        "Writing on board involves a person using a marker to write on a large flat surface while standing and facing the board.",
+        "A person writing on board appears focused holding a marker actively drawing on a large flat surface in educational settings"
+    ],
+    "Yo Yo": [
+        "Identify Yo Yo by the rapid up and down hand movements and the spinning object between fingers clearly visible.",
+        "Yo Yo involves a stringed toy manipulation unlike other actions which may not use objects or have different motion patterns.",
+        "A person doing Yo Yo swings a stringed toy up and down skillfully using their hands for tricks and entertainment.",
+        "A person doing Yo Yo shows repetitive hand movements with a stringed object swinging up and down rhythmically in various tricks."
+    ]
+}

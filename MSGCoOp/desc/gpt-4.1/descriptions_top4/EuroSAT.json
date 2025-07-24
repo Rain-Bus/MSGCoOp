@@ -1,0 +1,62 @@
+{
+    "Annual Crop Land": [
+        "Annual crop land shows regular patterns and straight edges, unlike natural or urban areas with varied textures.",
+        "Annual crop land appears as regular, rectangular patterns with distinct field boundaries in satellite photos.",
+        "Annual crop land shows distinct, regularly spaced rectangular patterns from planting and harvesting cycles.",
+        "Annual crop land has distinct rectangular patterns and straight edges from farming rows visible in satellite photos."
+    ],
+    "Forest": [
+        "Forest has dense green tree canopies with uniform texture and no visible roads or water bodies.",
+        "Forest appears as dense green patches, while other land types show varied colors like brown, blue, or urban patterns.",
+        "Forest has a uniform green color with distinct tree patterns visible in centered satellite photos.",
+        "Forest appears as dense green patches with uniform tree canopies in a centered satellite photo."
+    ],
+    "Herbaceous Vegetation Land": [
+        "Herbaceous vegetation land has a uniform, bright green color with no distinct structures or patterns.",
+        "Herbaceous vegetation has dense green plants with uniform height, unlike forests or urban areas with varied structures.",
+        "Herbaceous vegetation appears as uniform green areas, unlike forests or urban areas with varied textures and colors.",
+        "Herbaceous vegetation appears as uniform green areas with no trees, distinct from forests or urban regions."
+    ],
+    "Highway or Road": [
+        "Look for long, straight, dark lines with few trees or buildings, often with parallel edges.",
+        "Highways have straight, long, and uniform lines with clear edges, unlike other land types.",
+        "Highways or roads have long, straight, and continuous linear patterns in centered satellite photos.",
+        "Highways or roads appear as straight, dark lines, while other land types show varied textures and colors."
+    ],
+    "Industrial Buildings": [
+        "Industrial buildings have distinct rectangular shapes with multiple smaller structures and flat roofs.",
+        "Industrial buildings have flat roofs and structured layouts, unlike natural or agricultural lands with varied textures.",
+        "Look for large, rectangular structures with flat roofs and organized layouts, often surrounded by roads or parking areas.",
+        "Industrial buildings have large, flat roofs and geometric shapes with uniform colors, often surrounded by parking lots."
+    ],
+    "Pasture Land": [
+        "Pasture land has evenly spaced green patches with visible grazing animals, unlike other land types.",
+        "Pasture land appears greener and more uniform than other land types in centered satellite photos.",
+        "Pasture land has a uniform green color with visible grazing patterns and fewer distinct structures.",
+        "Pasture land appears as uniform green patches with visible grazing animals or sparse vegetation."
+    ],
+    "Permanent Crop Land": [
+        "Permanent crop land has distinct rows or patterns, unlike natural or urban areas with irregular shapes.",
+        "Permanent crop land has organized rows and geometric patterns, unlike natural or irregularly shaped land types.",
+        "Permanent crops have distinct, regularly shaped fields with visible planting patterns, unlike other land types.",
+        "Permanent crop land appears as regular, rectangular patterns with distinct rows, often green, in satellite photos."
+    ],
+    "Residential Buildings": [
+        "Residential buildings have uniform, rectangular shapes with organized layouts and small, evenly spaced structures.",
+        "Residential buildings have uniform structures and roofs, unlike natural or agricultural land which shows varied textures.",
+        "Residential buildings have distinct, organized patterns of small, rectangular structures with uniform spacing.",
+        "Look for dense, organized structures with flat rooftops and small yards in the center of the image."
+    ],
+    "River": [
+        "Rivers are long, narrow, winding water bodies that stand out from other land types due to their distinct blue color.",
+        "River has a winding, narrow shape with dark blue water, unlike the uniform green of forests or fields.",
+        "Look for winding, narrow, dark blue lines flowing through the landscape, often branching or merging.",
+        "River has a distinct winding, serpentine shape with dark, flowing water visible in the image."
+    ],
+    "Sea or Lake": [
+        "Water bodies are large, dark, smooth areas with no vegetation, reflecting light differently than land.",
+        "Water bodies are large, dark, and reflective, surrounded by land, unlike other terrain types.",
+        "Look for large, flat, dark blue areas with smooth, uniform surfaces, often surrounded by lighter land.",
+        "Sea or Lake appears as a large, uniform blue area, unlike land which shows varied textures and colors."
+    ]
+}

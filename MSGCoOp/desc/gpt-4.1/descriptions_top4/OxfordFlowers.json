@@ -1,0 +1,614 @@
+{
+    "passion flower": [
+        "The passion flower has a distinctive corona of thin filaments radiating from its center unlike any other flower.",
+        "Passion flowers have unique intricate layered petals with striking filaments and a central corona unlike simpler petal structures of common flowers.",
+        "The passion flower has striking purple and white petals with a unique central corona of wavy filaments.",
+        "The passion flower has unique intricate purple and white petals with a central corona of wavy filaments and prominent stamens."
+    ],
+    "water lily": [
+        "Water lilies have large round floating leaves and showy flowers with many petals that bloom on the water surface.",
+        "Water lilies have large round flat leaves that float on water with their flowers rising above the surface.",
+        "Water lilies have large round floating leaves and showy flowers that sit directly on the water unlike most flowers with stems above ground.",
+        "Water lilies have large round floating leaves and showy cup-shaped flowers with numerous petals in white pink or yellow colors."
+    ],
+    "cyclamen": [
+        "Cyclamen flowers have upswept petals in shades of pink, red, or white with heart-shaped leaves and a distinctive reflexed shape.",
+        "Cyclamen flowers have uniquely upswept petals that curve elegantly backward unlike any other flower.",
+        "Cyclamen flowers have unique upward-swept petals and heart-shaped leaves, unlike many flowers with symmetrical petals and oval or lance-shaped leaves.",
+        "Cyclamen flowers have unique upward-swept petals with a distinctive heart-shaped leaf pattern and often a contrasting color at the base."
+    ],
+    "watercress": [
+        "Watercress has small white flowers with four petals and round green leaves growing in clusters near water.",
+        "Watercress has small white flowers with four petals and round green leaves, unlike larger colorful blooms of many other flowers.",
+        "Watercress has small white clustered flowers with four petals and yellow centers, often growing in wet or aquatic environments.",
+        "Watercress flowers are small white clusters with four petals and yellow centers, often growing in moist environments."
+    ],
+    "frangipani": [
+        "Frangipani flowers have thick, waxy petals in clusters with a strong fragrance, unlike many flowers with softer, thinner petals and less scent.",
+        "Frangipani flowers have five waxy petals in white, yellow, or pink with a sweet fragrance and a spiral arrangement.",
+        "Frangipani flowers have thick, waxy petals arranged in a spiral with a strong central yellow or white gradient and no scent.",
+        "Frangipani flowers have thick waxy petals in a pinwheel shape with vibrant colors and a strong sweet fragrance."
+    ],
+    "wallflower": [
+        "A wallflower is a small, clustered flower with four petals, often in shades of yellow, orange, or red.",
+        "Wallflowers have dense clusters of small bright flowers with four petals and a sweet scent unlike larger single bloom flowers.",
+        "Wallflowers have four-petaled blooms in bright yellows or oranges with a sweet scent and grow in dense clusters on tall stems.",
+        "Wallflowers have dense clusters of small, four-petaled blooms in vibrant yellows, oranges, or purples with a sweet, spicy fragrance."
+    ],
+    "rose": [
+        "Roses have layered petals with a conical shape, thorny stems, and a strong fragrance, distinguishing them from other flowers.",
+        "Roses have layered petals with a rounded bloom thorny stems and a strong fragrance distinguishing them from other flowers.",
+        "Roses have tightly packed layered petals forming a distinctive conical or rounded shape unlike most other flowers.",
+        "Roses have layered petals with a distinct conical shape and thorns on their stems unlike many other smoother petaled thornless flowers."
+    ],
+    "petunia": [
+        "Petunias have wide trumpet-shaped blooms with vibrant colors, often striped or veined, and slightly sticky, hairy leaves.",
+        "Petunias have trumpet-shaped, velvety petals in bright colors like purple, pink, or white, often with contrasting veins or edges.",
+        "Petunias have trumpet-shaped blooms with smooth or ruffled edges and vibrant solid or multicolored patterns unlike many other flowers.",
+        "Petunias have trumpet-shaped blooms with smooth or ruffled edges and vibrant colors often with contrasting veins or centers."
+    ],
+    "poinsettia": [
+        "Poinsettias have bright red petal-like bracts surrounding small yellow flowers with dark green pointed leaves.",
+        "Poinsettias have bright red petal-like bracts surrounding small yellow flowers unlike any other flower.",
+        "Poinsettias have bright red petal-like bracts surrounding small yellow flowers while most flowers have colorful petals and visible stamens.",
+        "Poinsettias have bright red petal-like leaves with small yellow flowers in the center and dark green pointed leaves."
+    ],
+    "clematis": [
+        "Clematis flowers have large star-shaped petals with prominent stamens while other flowers vary in shape size and petal arrangement.",
+        "Clematis flowers have large star-shaped blooms with four to eight petals and often climb with vine-like stems.",
+        "Clematis flowers have large star-shaped petals with a central cluster of prominent stamens and often come in vibrant purple pink or white colors.",
+        "Clematis flowers have distinctive multiple layers of pointed petals radiating outward like a star."
+    ],
+    "hibiscus": [
+        "Hibiscus flowers have large trumpet-shaped petals with a prominent central stamen and often vibrant colors like red pink or yellow.",
+        "Hibiscus flowers have large trumpet-shaped petals with a prominent central stamen while others vary in size shape and stamen visibility.",
+        "Hibiscus flowers have large trumpet-shaped blooms with five petals often in bright colors like red pink or yellow and a prominent central stamen.",
+        "A hibiscus has large, colorful, trumpet-shaped petals with a prominent central stamen and glossy green leaves."
+    ],
+    "lotus": [
+        "The lotus flower has a distinctive flat circular seed pod at its center when fully bloomed.",
+        "The lotus has large round flat leaves and a distinctive cone-shaped center with layered petals unlike most other flowers.",
+        "A lotus has large round floating leaves and a tall distinctive bloom with layered petals often pink or white.",
+        "A lotus has large round floating leaves and striking pink or white petals with a prominent central seed pod."
+    ],
+    "anthurium": [
+        "Anthurium flowers have glossy heart-shaped spathes with a prominent spadix in bright colors like red pink or white.",
+        "Anthurium flowers are glossy heart-shaped with a spiky center spike and come in bright red pink or white colors.",
+        "Anthurium flowers have glossy heart-shaped red or pink spathes with a yellow spiky center called a spadix.",
+        "Anthurium flowers have shiny heart-shaped spathes and a spiky center spike while most flowers have soft petals around a circular center."
+    ],
+    "thorn apple": [
+        "Thorn apple flowers have large trumpet-shaped white or purple blooms with spiny seed pods and deeply lobed dark green leaves.",
+        "Thorn apple flowers have large, trumpet-shaped white or purple blooms with spiny seed pods and deeply lobed leaves.",
+        "Thorn apple flowers have large, trumpet-shaped white or purple blooms with spiny seed pods and a distinctive, slightly drooping appearance.",
+        "Thorn apple flowers have large trumpet-shaped blooms with spiky seed pods unlike most flowers with softer petals and smoother seed cases."
+    ],
+    "barbeton daisy": [
+        "The Barbeton daisy has vibrant orange or yellow petals with a dark center and long slender leaves.",
+        "The Barberton daisy has bright orange or yellow petals with a dark center and long slender green leaves.",
+        "The Barbeton daisy has distinct bright orange petals with a dark brown or black center, unlike most other flowers.",
+        "The Barbeton daisy has bright yellow or orange petals with a dark center, while other flowers vary in color and shape."
+    ],
+    "sword lily": [
+        "Look for tall stems with colorful funnel-shaped flowers arranged in a spike and long sword-like leaves at the base.",
+        "A sword lily has tall spikes of colorful funnel-shaped blooms unlike flat daisies or clustered roses.",
+        "The sword lily has tall spikes of brightly colored funnel-shaped flowers arranged symmetrically along a sturdy upright stem.",
+        "A sword lily has tall spikes of colorful funnel-shaped blooms with sword-like leaves, standing out among other flowers."
+    ],
+    "morning glory": [
+        "Morning glory flowers have trumpet-shaped blooms with vibrant colors and heart-shaped leaves unlike many other flowers with varied petal arrangements.",
+        "Morning glory flowers have a distinctive trumpet-shaped bloom with a bright center and vibrant funnel-like petals.",
+        "Morning glory flowers have vibrant funnel-shaped petals with a white center and heart-shaped leaves on climbing vines.",
+        "Morning glory flowers have unique trumpet-shaped blooms with vibrant colors and heart-shaped leaves that curl at the edges."
+    ],
+    "columbine": [
+        "Columbine flowers have unique bell-shaped blooms with five distinct backward-pointing spurs and delicate, lobed leaves.",
+        "Columbine flowers have unique bell-shaped blooms with five distinct backward-pointing spurs and delicate, lobed leaves.",
+        "Columbine flowers have unique bell-shaped blooms with long spurs and delicate, divided leaves unlike most other flowers.",
+        "Columbine flowers have unique bell-shaped blooms with five petals and long spurs, often in shades of blue, purple, pink, or white."
+    ],
+    "geranium": [
+        "Geraniums have rounded leaves and clustered bright flowers while others may have varied leaf shapes and differently arranged or colored blooms.",
+        "Geraniums have rounded clusters of five-petaled flowers with distinct veining and often dark markings on their leaves.",
+        "Geraniums have rounded clusters of five-petaled flowers with distinct veining and often dark markings on their leaves.",
+        "A geranium has round, bright clusters of small flowers with five petals and dark green, lobed leaves."
+    ],
+    "bishop of llandaff": [
+        "The bishop of llandaff has deep red petals with a dark center and yellow stamens unlike many other flowers.",
+        "The bishop of llandaff flower has bright red petals with a dark center and stands out among other flowers.",
+        "The bishop of llandaff flower has bright red petals with a dark center and long green stems.",
+        "The bishop of llandaff flower has striking deep red petals with a dark center and bright yellow stamens."
+    ],
+    "tree mallow": [
+        "Tree mallows have large, hibiscus-like blooms with five petals, often in pink or purple, and broad, lobed leaves unlike many smaller flowers.",
+        "Tree mallow flowers have large, hibiscus-like pink or purple petals with a prominent central stamen column and deep green, lobed leaves.",
+        "Tree mallow flowers have pink or purple petals with a darker center, resembling small hibiscus blooms on tall, leafy stems.",
+        "Tree mallows have large pink or purple hibiscus-like flowers with five petals and heart-shaped leaves on tall, branching stems."
+    ],
+    "pink-yellow dahlia": [
+        "Pink-yellow dahlias have layered petals with vibrant pink edges fading to yellow centers and a round, dense flower head.",
+        "Look for large, layered pink petals with yellow centers and dark green leaves on a tall, sturdy stem.",
+        "A pink-yellow dahlia has layered petals with vibrant pink edges fading to a soft yellow center, standing out among flowers.",
+        "Pink-yellow dahlias have layered petals with vibrant pink and yellow hues, unlike simpler single-petal flowers in the OxfordFlowers dataset."
+    ],
+    "bee balm": [
+        "Bee balm has vibrant tubular clustered flowers with ragged petals in shades of red pink or purple and aromatic minty leaves.",
+        "Bee balm has bright tubular flowers in red pink or purple with ragged petals and a spiky center surrounded by leafy bracts.",
+        "Bee balm has vibrant tubular flowers in red pink or purple with ragged petals and a distinctive minty fragrance.",
+        "Bee balm flowers have distinctive tubular clusters with spiky petals and bracts that look like tiny fireworks around the bloom."
+    ],
+    "snapdragon": [
+        "Snapdragons have tall spikes of colorful, tubular flowers with two lips that open like a dragon's mouth when squeezed.",
+        "Snapdragons have tall spikes of colorful tubular flowers with two lips that open like a dragon's mouth when squeezed.",
+        "Snapdragons have tall spikes of colorful, tubular flowers with distinctive jaw-like petals that open when squeezed, unlike flatter or simpler blooms.",
+        "Snapdragons have a distinctive mouth-like opening on their blooms that can be squeezed to open and close like a dragon's jaw."
+    ],
+    "californian poppy": [
+        "The California poppy has bright orange cup-shaped petals with blue-green feathery leaves unlike many other flowers.",
+        "The Californian poppy has bright orange cup-shaped petals with blue-green feathery leaves and grows close to the ground.",
+        "The Californian poppy has bright orange cup-shaped petals with a silky texture and blue-green feathery leaves.",
+        "The Californian poppy has bright orange cup-shaped petals with silvery-blue feathery leaves and grows close to the ground."
+    ],
+    "bird of paradise": [
+        "The bird of paradise flower has bright orange and blue petals shaped like a tropical bird's beak and plumage.",
+        "The bird of paradise flower has striking orange and blue petals shaped like a bird's beak and plumage unlike typical rounded flowers.",
+        "The bird of paradise flower has bright orange and blue petals that resemble a tropical bird's beak and plumage.",
+        "The bird of paradise flower has striking orange and blue petals shaped like a bird's beak and plumage."
+    ],
+    "fritillary": [
+        "Fritillaries have checkered or bell-shaped petals, often nodding, while other flowers vary widely in shape, color, and petal arrangement.",
+        "A fritillary flower has bell-shaped blooms with checkered or spotted patterns in shades of purple, white, or yellow.",
+        "Fritillaries have bell-shaped flowers with checkered patterns in shades of purple, white, or yellow hanging from slender stems.",
+        "Fritillary flowers have distinctive checkered or tessellated patterns on their petals unlike any other flower type."
+    ],
+    "sweet william": [
+        "Sweet William has clustered small five-petaled flowers with jagged edges, often in pink, red, or white with a dark center ring.",
+        "Sweet Williams have clustered small flowers with jagged petal edges in shades of pink red white or purple often with a dark center.",
+        "Sweet William has clustered small flowers in dense flat-topped blooms with jagged petal edges unlike many single large-petaled flowers.",
+        "Sweet William flowers have clustered small blooms with fringed petals often in contrasting colors like pink white or red."
+    ],
+    "azalea": [
+        "Azaleas are vibrant funnel-shaped flowers with lush green leaves often blooming in clusters of pink red white or purple hues.",
+        "Azaleas have vibrant funnel-shaped flowers with five stamens and clusters of blooms in shades of pink red purple or white.",
+        "Azaleas have clusters of vibrant funnel-shaped flowers with prominent stamens and often two-toned or speckled petals.",
+        "Azaleas have vibrant clustered funnel-shaped flowers with prominent stamens and dark green oval leaves often growing in dense bushes."
+    ],
+    "primula": [
+        "Primulas often have a distinctive yellow center surrounded by petals in various bright colors like pink purple or white.",
+        "A primula flower has bright colorful petals arranged in clusters with a yellow center and grows close to the ground.",
+        "Primulas have clusters of colorful funnel-shaped flowers with five petals and a yellow center, often growing in rosettes of wrinkled leaves.",
+        "Primulas have clustered blooms with five petals often featuring a yellow center and come in vibrant colors like pink purple or white."
+    ],
+    "cape flower": [
+        "Look for vibrant tubular petals often in red or orange with a curved shape resembling a miniature cape or hood.",
+        "The cape flower has distinctive spoon-shaped petals with a central cluster of long, thread-like stamens.",
+        "A cape flower has vibrant petals with a unique star-like shape and often comes in bold colors like red or purple.",
+        "A cape flower typically has vibrant colors and unique petal shapes compared to simpler more common flower varieties."
+    ],
+    "purple coneflower": [
+        "The purple coneflower has a distinctive spiky orange-brown central cone surrounded by drooping purple petals.",
+        "The purple coneflower has a prominent spiky orange-brown center with drooping purple petals and a cone-shaped seed head.",
+        "The purple coneflower has a distinctive spiky orange-brown center with drooping purple petals unlike many other flowers with simpler petal arrangements.",
+        "A purple coneflower has vibrant pinkish-purple petals surrounding a spiky orange-brown center, standing out with its bold colors and cone shape."
+    ],
+    "colt's foot": [
+        "Colt's foot flowers have bright yellow petals with no visible green sepals beneath them, appearing before the leaves.",
+        "Colt's foot has bright yellow daisy-like flowers with no visible stems and heart-shaped leaves appearing after blooming unlike many flowers.",
+        "Colt's foot has bright yellow daisy-like flowers with no visible stems and large heart-shaped leaves growing separately from the flowers.",
+        "Colt's foot has bright yellow daisy-like flowers with no visible stems and heart-shaped leaves appearing after the flowers bloom."
+    ],
+    "artichoke": [
+        "An artichoke flower has a large, thistle-like purple bloom with spiky green bracts surrounding a dense, rounded center.",
+        "Artichoke flowers have large, spiky, thistle-like purple blooms with layered bracts and a dense, rounded shape.",
+        "Artichoke flowers have large purple thistle-like blooms with spiky green bracts at the base and a round, textured center.",
+        "Artichoke flowers have thick, layered green bracts and a spiky purple center, unlike typical flowers with delicate petals and open blooms."
+    ],
+    "wild pansy": [
+        "Wild pansies have heart-shaped petals with dark centers and vibrant colors, unlike simpler or differently shaped blooms like daisies or roses.",
+        "The wild pansy has a distinctive dark central face-like pattern with radiating lines on its petals.",
+        "Wild pansies have heart-shaped petals with dark lines radiating from the center and often feature purple, yellow, or white colors.",
+        "Wild pansies have heart-shaped overlapping petals with dark central lines and a distinctive five-petal face-like pattern in vibrant colors."
+    ],
+    "peruvian lily": [
+        "The Peruvian lily has six petal-like tepals with dark streaks and a cluster of small inner petals in vibrant colors like pink or orange.",
+        "The Peruvian lily has distinctive speckled or streaked markings on its inner petals unlike most other flowers.",
+        "A Peruvian lily has vibrant funnel-shaped blooms with speckled petals in colors like pink orange yellow or white.",
+        "Peruvian lilies have clustered trumpet-shaped blooms with speckled petals while others may have single larger or simpler petal structures."
+    ],
+    "ruby-lipped cattleya": [
+        "The ruby-lipped cattleya has a vibrant deep red or purple lip that sharply contrasts with its lighter petals.",
+        "The ruby-lipped cattleya has vibrant purple petals with a bold, deep red or magenta lip and a prominent yellow throat.",
+        "The ruby-lipped cattleya has vibrant purple petals with a distinctive deep red or magenta lip at the center.",
+        "The ruby-lipped cattleya has bold, vibrant petals with a distinctive deep red lip, unlike simpler or less colorful flower varieties."
+    ],
+    "canna lily": [
+        "Canna lilies have large bright blooms and broad tropical leaves unlike most flowers with smaller petals and delicate foliage.",
+        "Canna lilies have large tropical leaves and bold colorful blooms with wide petals often in red orange or yellow hues.",
+        "Canna lilies have large, paddle-shaped leaves and vibrant, asymmetrical flowers with prominent stamens and bold, tropical colors.",
+        "A canna lily has large tropical leaves and vibrant colorful blooms resembling irises with bold red orange or yellow petals."
+    ],
+    "gazania": [
+        "Gazanias have bright daisy-like flowers with bold stripes or rings in vibrant colors and dark centers, unlike simpler petal structures in other flowers.",
+        "Gazanias have bright daisy-like flowers with bold stripes or rings in vibrant colors and dark centers on long slender stems.",
+        "A gazania flower has bright, daisy-like petals with striking color patterns and a dark center, often in yellow, orange, or pink.",
+        "Gazania flowers have vibrant daisy-like petals with bold stripes or rings and a dark contrasting center."
+    ],
+    "lenten rose": [
+        "Lenten roses have bowl-shaped, nodding flowers with five petals, often in shades of white, pink, or purple, and leathery evergreen leaves.",
+        "Lenten roses have bowl-shaped, nodding flowers with five petal-like sepals in shades of white, pink, purple, or green, often speckled inside.",
+        "A lenten rose has dark green leaves and cup-shaped flowers in shades of white pink purple or green blooming in late winter.",
+        "The lenten rose has dark green leaves and bowl-shaped white, pink, or purple flowers with prominent yellow stamens in the center."
+    ],
+    "buttercup": [
+        "A buttercup is a small bright yellow flower with glossy petals and a simple cup shape.",
+        "Buttercups have shiny yellow petals with a cup shape while other flowers vary in color shape and texture.",
+        "Buttercups have glossy yellow petals with a shiny surface and a small cluster of stamens in the center.",
+        "Buttercups have glossy yellow petals with a shiny surface and a central cluster of numerous small stamens surrounding a green receptacle."
+    ],
+    "pelargonium": [
+        "Pelargoniums have distinct rounded, slightly lobed leaves and clusters of vibrant five-petaled flowers often with dark markings or veins.",
+        "Pelargoniums have rounded, often zonal leaf patterns and clusters of five-petaled flowers in vibrant colors like red, pink, or white.",
+        "Pelargonium flowers have distinctively marked petals with bold dark streaks or blotches unlike other flowers.",
+        "Pelargoniums have rounded, often zonal leaf patterns and clustered bright flowers unlike simpler petals of many other blooms."
+    ],
+    "desert-rose": [
+        "Desert-rose has thick succulent stems and trumpet-shaped pink or red flowers unlike typical leafy stems and varied petal shapes of other flowers.",
+        "The desert-rose has a thick swollen trunk and succulent stems unlike most flowers which have slender green stems.",
+        "The desert rose has thick succulent stems, trumpet-shaped pink or red flowers, and sparse leaves with a swollen trunk base.",
+        "A desert-rose flower has thick stems, vibrant pink or red trumpet-shaped blooms, and succulent-like leaves, standing out among other flowers."
+    ],
+    "hippeastrum": [
+        "Hippeastrum flowers have large, trumpet-shaped blooms with prominent stamens that extend beyond the petals.",
+        "Hippeastrum flowers have large trumpet shaped blooms with six petals often in bold red white or pink colors and long thick green stems.",
+        "Hippeastrum flowers have large, trumpet-shaped blooms with bold stripes or solid colors, unlike smaller or more delicate flower varieties.",
+        "A hippeastrum has large, trumpet-shaped blooms with bold colors like red or pink and long, sturdy stems."
+    ],
+    "giant white arum lily": [
+        "The giant white arum lily has a large, smooth, trumpet-shaped white bloom with a yellow spike, unlike most flowers' multi-petal or colorful designs.",
+        "The giant white arum lily has a large funnel-shaped white spathe surrounding a tall yellow spadix with smooth waxy petals.",
+        "The giant white arum lily has a large, trumpet-shaped white bloom with a yellow spadix and smooth, dark green leaves.",
+        "The giant white arum lily has a large smooth white spathe surrounding a tall yellow spadix unlike any other flower."
+    ],
+    "marigold": [
+        "Marigolds are bright orange or yellow flowers with layered petals and a distinct round shape among other flowers.",
+        "Marigolds have bright orange or yellow petals with a dense layered look and a strong scent unlike many other flowers.",
+        "Marigolds have bright orange or yellow petals with layered, ruffled blooms and a strong, pungent scent.",
+        "Marigolds have bright yellow or orange petals with layered ruffled blooms and a distinct strong scent."
+    ],
+    "orange dahlia": [
+        "Orange dahlias have layered, round petals and vibrant orange hues, unlike simpler petal shapes and varied colors of other flowers.",
+        "An orange dahlia has vibrant, layered petals with a bold round shape, standing out with its rich, warm color among flowers.",
+        "An orange dahlia has vibrant orange layered petals with a round full shape and slightly pointed tips standing out among other flowers.",
+        "Orange dahlias have layered, spiky petals with vibrant orange hues and a prominent central disk surrounded by tightly packed florets."
+    ],
+    "hard-leaved pocket orchid": [
+        "The hard-leaved pocket orchid has small greenish flowers with a pouch-like lip and narrow stiff leaves.",
+        "The hard-leaved pocket orchid has thick waxy leaves and small pouch-like flowers often in shades of pink or purple.",
+        "The hard-leaved pocket orchid has a distinct pouch-like lip that resembles a tiny pocket on its bloom.",
+        "The hard-leaved pocket orchid has thick waxy leaves and small pouch-like flowers with intricate purple and white patterns."
+    ],
+    "english marigold": [
+        "English marigolds have bright orange or yellow petals with a dense, round shape and a distinctive strong scent compared to other flowers.",
+        "The English marigold has bright orange or yellow petals with a dense, rounded shape and dark green, slightly serrated leaves.",
+        "English marigolds have bright orange or yellow petals with dense layered blooms and a strong spicy fragrance.",
+        "English marigolds have vibrant orange or yellow petals with a distinctive dense layered ruffled appearance unlike other flowers."
+    ],
+    "stemless gentian": [
+        "A stemless gentian has deep blue trumpet-shaped flowers that grow low to the ground without visible stems among other flowers.",
+        "The stemless gentian has no visible stem with flowers blooming directly from a rosette of leaves unlike most flowers with tall stems.",
+        "The stemless gentian is recognized by its deep blue trumpet-shaped flowers growing directly from a rosette of leaves without visible stems.",
+        "The stemless gentian uniquely grows its vibrant blue flowers directly from the base without any visible stem."
+    ],
+    "tree poppy": [
+        "Flower tree poppies have large bright petals with dark centers while others vary in size color and shape like roses or daisies.",
+        "The flower tree poppy has large, bright orange or yellow petals with a dark center and tall, slender green stems.",
+        "A flower tree poppy has large vibrant blooms with delicate papery petals and a prominent dark center among other flowers.",
+        "Tree poppies have large crinkled white petals with yellow centers and bluish-green feathery leaves on tall woody stems."
+    ],
+    "pincushion flower": [
+        "Pincushion flowers have small clustered blooms with long stamens sticking out like pins in a pincushion, often in bright colors.",
+        "Pincushion flowers have dense round blooms with tiny petals sticking out like pins, unlike flatter or more open petal arrangements in other flowers.",
+        "Pincushion flowers have dense clusters of tiny stamens protruding like pins from a rounded center resembling a pincushion.",
+        "A pincushion flower has small, spiky petals clustered tightly together, resembling a pincushion, often in shades of blue, pink, or white."
+    ],
+    "sunflower": [
+        "Sunflowers have large bright yellow petals with a dark brown center and grow taller than most other flowers.",
+        "Sunflowers have large bright yellow petals, dark brown centers, tall sturdy stems, and broad leaves arranged in a spiral pattern.",
+        "Sunflowers are large with bright yellow petals and a dark brown center disk standing tall on thick green stems.",
+        "Sunflowers have a large dark center disk surrounded by bright yellow petals arranged in a spiral pattern."
+    ],
+    "magnolia": [
+        "Magnolias have large, showy, cup-shaped white or pink petals with a thick, waxy texture and a prominent central cone of stamens.",
+        "A magnolia flower has large, showy petals in white, pink, or purple, often with a sweet fragrance and a sturdy, cup-like shape.",
+        "Magnolia flowers have large, broad petals arranged in a distinctive cup or star shape unlike most other flowers.",
+        "Magnolia flowers have large, showy petals in white, pink, or purple with a distinctive cone-like center and thick, waxy leaves."
+    ],
+    "osteospermum": [
+        "Osteospermum flowers have daisy-like petals with vibrant colors and a dark contrasting center disk, often with spoon-shaped or pointed tips.",
+        "Osteospermum flowers have daisy-like petals with vibrant colors often purple or white and a dark contrasting center.",
+        "Osteospermum flowers have daisy-like blooms with spoon-shaped petals often in purple pink or white and a dark center disk.",
+        "Osteospermum flowers have daisy-like petals with a unique spooned or pointed shape and often a dark center, unlike many other flowers."
+    ],
+    "garden phlox": [
+        "Garden phlox has clusters of fragrant, five-petaled flowers in pink, purple, or white with a prominent central eye.",
+        "A flower garden phlox has clusters of small, vibrant, star-shaped blooms in shades of pink, purple, white, or red with a sweet fragrance.",
+        "Flower garden phlox has clustered star-shaped blooms in vibrant colors with a sweet fragrance, unlike simpler or less fragrant flower varieties.",
+        "Flower garden phlox has clustered star-shaped blooms with five petals, vibrant colors, and a sweet fragrance on tall, sturdy stems."
+    ],
+    "sweet pea": [
+        "Sweet peas have delicate, ruffled petals and slender stems, unlike broader petals and sturdier stems in many other flowers.",
+        "Sweet pea flowers have distinctive winged petals and a prominent keel that sets them apart from other flower types.",
+        "Sweet peas have delicate, ruffled petals in clusters on long stems with vibrant colors like pink, purple, and white.",
+        "Sweet pea flowers have delicate, ruffled petals in soft colors like pink, purple, and white, often with a pleasant fragrance."
+    ],
+    "daffodil": [
+        "Daffodils have bright yellow or white trumpet-shaped centers surrounded by six petal-like tepals on a single stem.",
+        "Daffodils have a central trumpet-shaped corona surrounded by six petal-like tepals in a star shape.",
+        "Daffodils have bright yellow trumpet-shaped centers surrounded by six petal-like tepals on a single stem.",
+        "A daffodil has bright yellow trumpet-shaped petals with a central corona surrounded by six petal-like tepals."
+    ],
+    "king protea": [
+        "The king protea has a large, bowl-shaped bloom with spiky pink petals and a fuzzy center, unlike smaller or simpler flowers.",
+        "The king protea has the largest flower head with striking pink and white petals resembling a crown.",
+        "The king protea has a large, bowl-shaped bloom with pink outer petals and a fuzzy central cone surrounded by stiff bracts.",
+        "The king protea has a large central dome surrounded by pointed pink petals with a fuzzy texture and sturdy green leaves."
+    ],
+    "great masterwort": [
+        "Great masterwort flowers have distinct umbrella-like clusters of tiny star-shaped flowers with prominent bracts beneath them.",
+        "Great masterwort flowers have dense clusters of tiny white or pinkish blooms with prominent green bracts beneath each cluster.",
+        "Great masterwort has dense clusters of small white or pink flowers with prominent bracts, unlike simpler single blooms or looser flower heads.",
+        "Great masterwort has dense clusters of small white or pink flowers with delicate petals and a fluffy, star-like appearance."
+    ],
+    "black-eyed susan": [
+        "A black-eyed Susan is a bright yellow daisy-like flower with a dark brown center and long slender petals.",
+        "Black-eyed Susans have bright yellow petals with a dark brown center, while other flowers vary in color, shape, and center appearance.",
+        "Black-eyed Susans have bright yellow petals with a dark brown center and grow on tall stems with rough leaves.",
+        "Black-eyed Susans have bright yellow petals with a dark brown center and grow in clusters on tall, hairy stems."
+    ],
+    "bearded iris": [
+        "Bearded irises have fuzzy ridges on their petals unlike most flowers which have smooth or differently textured petals.",
+        "The bearded iris has a fuzzy ridge or \"beard\" on its lower petals that stands out distinctly from other flowers.",
+        "The bearded iris has tall slender stems with large ruffled petals and a distinctive fuzzy line on the lower petals.",
+        "A bearded iris has large, showy petals with a fuzzy ridge on the lower petals and tall, slender green stems."
+    ],
+    "windflower": [
+        "Windflowers have delicate, daisy-like petals with a dark center, often in white, pink, or purple, and slender stems with deeply lobed leaves.",
+        "A windflower has delicate, daisy-like petals with a bright yellow center, often in shades of white, pink, or purple.",
+        "Windflowers have delicate, poppy-like petals with a dark center, often in shades of white, pink, or purple, on slender stems.",
+        "Windflowers have delicate, poppy-like petals with dark centers, while other flowers vary in shape, color, and petal arrangement."
+    ],
+    "ball moss": [
+        "Ball moss has small gray-green tufts and lacks showy petals, unlike colorful, petal-rich flowers like roses or tulips.",
+        "Ball moss is a small, gray-green, clumping plant with wiry stems and tiny flowers, often resembling a tangled puff among larger blooms.",
+        "Ball moss has thin wiry stems with small gray-green scaly leaves and tiny flowers clustered in dense spherical shapes.",
+        "Ball moss has small gray-green clustered flowers with thin, wiry stems and lacks showy petals, resembling fuzzy tufts more than typical blooms."
+    ],
+    "spear thistle": [
+        "A flower spear thistle has spiky purple or pink blooms with sharp, thorny leaves and a tall, slender stem.",
+        "A spear thistle has spiky purple flower heads and prickly leaves, unlike softer petaled flowers with smooth foliage.",
+        "The spear thistle has spiky purple flower heads with sharp, thorny leaves and a tall, rigid stem covered in prickles.",
+        "The spear thistle has tall stems, spiky purple flower heads, and sharp, deeply lobed leaves with white veins and prickly edges."
+    ],
+    "silverbush": [
+        "The silverbush has small white or pink flowers with silvery green leaves and a low spreading shrubby growth habit.",
+        "The silverbush has small silvery leaves and tiny white or pink flowers unlike most flowers which have larger colorful blooms.",
+        "A silverbush flower has small white or pink blooms with delicate petals and a bushy green foliage base.",
+        "The silverbush has small white flowers with yellow centers and silvery-green leaves that are densely packed on trailing stems."
+    ],
+    "balloon flower": [
+        "Balloon flowers have unique puffy balloon-like buds before blooming unlike most flowers which open directly from smaller buds.",
+        "A balloon flower has unique star-shaped blooms with five pointed petals that puff up like small balloons before fully opening.",
+        "Balloon flowers have unique inflated balloon-like buds that open into star-shaped petals with deep blue or purple hues.",
+        "The balloon flower has unique inflated balloon-like buds that swell before opening into star-shaped blooms."
+    ],
+    "oxeye daisy": [
+        "The oxeye daisy has white petals around a bright yellow center with long slender stems and toothed dark green leaves.",
+        "The oxeye daisy has white petals around a bright yellow center and grows on tall slender stems with narrow green leaves.",
+        "The oxeye daisy has white petals around a bright yellow center and grows on tall slender stems among green leaves.",
+        "The oxeye daisy has white petals around a bright yellow center, while other flowers vary in color, shape, and center appearance."
+    ],
+    "cautleya spicata": [
+        "The Cautleya spicata has tall spikes of bright orange or yellow flowers with lush green leaves and a tropical appearance.",
+        "Cautleya spicata has tall spikes of orange or yellow tubular flowers with lush green leaves and a tropical appearance.",
+        "Cautleya spicata has tall spikes of bright orange and yellow tubular flowers with lush green tropical foliage.",
+        "Cautleya spicata has striking orange-red flower spikes with yellow tips that stand out vertically above its lush green foliage."
+    ],
+    "common dandelion": [
+        "The common dandelion has bright yellow petals in a single round head with toothed leaves unlike many other flowers.",
+        "The common dandelion has bright yellow petals with a round fluffy seed head and long jagged green leaves.",
+        "The common dandelion has a bright yellow flower head made up of many tiny ray florets without any visible central disc.",
+        "Look for bright yellow petals in a round cluster with a green stem and jagged leaves close to the ground."
+    ],
+    "yellow iris": [
+        "The yellow iris has three large drooping petals with distinctive dark yellow or brown veining at the base.",
+        "A yellow iris has tall, slender stems with bright yellow petals that curve gracefully outward, standing out among other flowers.",
+        "The yellow iris has tall slender petals with a vibrant yellow hue and a central upright standard petal contrasting with drooping falls.",
+        "The yellow iris has long slender leaves and bright yellow petals with a unique drooping shape unlike most other flowers."
+    ],
+    "monkshood": [
+        "Monkshood flowers have tall spikes of hooded blue or purple blooms with glossy dark green leaves.",
+        "Monkshood has tall spikes of hooded blue or purple flowers with deeply lobed dark green leaves.",
+        "Monkshood has a distinctive hood-shaped petal and tall spikes of blue or purple flowers unlike most other flowers.",
+        "Monkshood flowers have a distinctive hood-like petal shape that resembles a monk's cowl."
+    ],
+    "love in the mist": [
+        "Love in the mist has delicate thread-like leaves surrounding its flowers unlike any other flower.",
+        "A flower love in the mist looks delicate with soft petals and a dreamy pale hue blending subtly into its surroundings.",
+        "Love in the mist has delicate feathery foliage and unique star-shaped blooms with a misty appearance unlike most other flowers.",
+        "Love in the mist has delicate feathery leaves and unique blue or white flowers surrounded by lacy green bracts."
+    ],
+    "corn poppy": [
+        "Corn poppies have bright red petals with dark centers and delicate, papery texture, often with black spots at the base.",
+        "The corn poppy has bright red petals with a distinctive black spot at the base of each petal.",
+        "Corn poppies have bright red petals with black centers and smooth stems while other flowers vary in color shape and texture.",
+        "The corn poppy has bright red petals with a black center and thin delicate stems with few leaves."
+    ],
+    "grape hyacinth": [
+        "Grape hyacinths have small bell-shaped blue or purple flowers clustered tightly on a stalk unlike larger looser blooms of other flowers.",
+        "Grape hyacinths are small, clustered flowers with deep blue or purple bell-shaped blooms resembling tiny grapes on a stalk.",
+        "Grape hyacinths have dense clusters of small bell-shaped blue or purple flowers on short spikes resembling tiny grapes.",
+        "Grape hyacinths have small bell-shaped blue or purple flowers clustered tightly on a spike resembling a bunch of grapes."
+    ],
+    "canterbury bells": [
+        "Canterbury bells have distinctive bell-shaped flowers with flared edges and prominent veins on the petals.",
+        "Canterbury bells have tall spikes of bell-shaped flowers in shades of purple blue or white unlike flatter or clustered blooms of other flowers.",
+        "Canterbury bells have tall stems with large bell-shaped purple blue or white flowers clustered along the top.",
+        "Canterbury bells are tall flowers with bell-shaped blooms in shades of purple blue or white clustered along a sturdy stem."
+    ],
+    "globe-flower": [
+        "Globe-flowers have round, bright yellow cup-shaped blooms with many petals, unlike flatter or differently colored flowers like daisies or roses.",
+        "Globe-flowers have bright yellow round blooms with many overlapping petals resembling small globes and glossy dark green divided leaves.",
+        "Globe-flowers have bright yellow round blooms with overlapping petals resembling small globes and deeply lobed dark green leaves.",
+        "Globe-flowers have uniquely spherical bright yellow blooms with tightly packed petals resembling a small ball."
+    ],
+    "toad lily": [
+        "A toad lily has star-shaped purple or white petals with dark spots and long slender leaves on arching stems.",
+        "Toad lilies have star-shaped purple-spotted flowers with six petals and long stamens, often growing on arching stems in shady areas.",
+        "Toad lilies have unique speckled petals and orchid-like shapes unlike most flowers which are solid-colored and simpler in form.",
+        "Toad lilies have unique speckled petals resembling a toad's skin, unlike any other flower's smooth or uniformly colored petals."
+    ],
+    "pink primrose": [
+        "Pink primrose has delicate five-petaled pink flowers with yellow centers and slender stems with narrow lance-shaped leaves.",
+        "A pink primrose has delicate, soft pink petals with a yellow center, often growing low to the ground in clusters.",
+        "Look for its soft pink petals with yellow centers and slightly ruffled edges on a low-growing plant.",
+        "The pink primrose has distinct notched petals with a bright yellow center and delicate pink hues."
+    ],
+    "fire lily": [
+        "The fire lily has bright red or orange trumpet-shaped flowers with long stamens and often dark speckles at the base.",
+        "A fire lily has bright red or orange trumpet-shaped flowers with long stamens and grows on tall slender green stems.",
+        "The fire lily has bright red or orange trumpet-shaped flowers with long stamens, unlike many flowers with varied colors and shapes.",
+        "The fire lily has striking bright red or orange upward-facing flowers with prominent black-speckled centers."
+    ],
+    "red ginger": [
+        "Red ginger flowers have bold red cone-shaped bracts with small yellow flowers emerging from them, making them stand out visually.",
+        "Red ginger flowers have tall bright red cone-shaped blooms with large green leaves and yellow tips on the petals.",
+        "Red ginger flowers have bold red cone-shaped blooms with small yellow flowers emerging from the top among lush green leaves.",
+        "Red ginger has tall bright red cone-shaped blooms with waxy bracts, unlike common flowers with softer petals and varied colors."
+    ],
+    "prince of wales feathers": [
+        "The Prince of Wales feathers flower has tall, plume-like clusters of tiny flowers, unlike typical blooms with larger, distinct petals.",
+        "The Prince of Wales feathers flower has tall spikes with dense clusters of tiny pink or purple feathery blooms.",
+        "Prince of Wales feathers flowers have tall plumes of tiny clustered blooms in soft pink or white with feathery delicate textures.",
+        "The flower prince of wales feathers has distinctive tall plumes with feathery white tufts resembling an ostrich feather."
+    ],
+    "carnation": [
+        "Carnations have ruffled petals and a distinct clove-like scent unlike smoother simpler petals of many other flowers.",
+        "A carnation has ruffled petals with a clove-like scent and comes in various colors like pink, red, white, and yellow.",
+        "Carnations have ruffled petals with a clove-like scent and come in various colors often with a zigzag edge.",
+        "Carnations have densely ruffled petals with a spicy fragrance and come in vibrant colors often with serrated edges on their petals."
+    ],
+    "mexican aster": [
+        "Mexican asters have bright daisy-like flowers with yellow centers and slender petals, often in purple or pink, unlike bulkier or differently shaped blooms.",
+        "A Mexican aster has vibrant daisy-like petals with a yellow center, often in purple, pink, or white, standing out among other flowers.",
+        "Mexican aster has bright yellow centers with layered purple or pink petals and long slender leaves on tall stems.",
+        "Mexican aster flowers have distinctive bright yellow centers surrounded by numerous thin purple or pink petals."
+    ],
+    "alpine sea holly": [
+        "Alpine sea holly has spiky blue or silver flower heads and thistle-like leaves unlike most flowers with soft petals and smooth foliage.",
+        "Alpine sea holly has spiky blue or purple thistle-like flowers with cone-shaped centers and silvery-green spiny leaves.",
+        "Alpine sea holly has spiky blue or purple thistle-like flowers with cone-shaped centers and silvery-green spiny leaves.",
+        "Alpine sea holly has spiky blue thistle-like flower heads with a distinctive metallic sheen and cone-shaped center."
+    ],
+    "siam tulip": [
+        "The Siam tulip has vibrant pink or purple clustered blooms with broad green leaves and a distinctive upright growth habit.",
+        "The Siam tulip has vibrant pink or purple clustered blooms with long green bracts and glossy lance-shaped leaves.",
+        "Siam tulips have bright pink clustered blooms and broad green leaves unlike many flowers with single petals or different colors.",
+        "The siam tulip has vibrant pink or purple clustered blooms with long green leaves, standing out among flowers for its tropical elegance."
+    ],
+    "spring crocus": [
+        "The spring crocus is a small cup-shaped flower with slender petals often in purple white or yellow blooming early in spring.",
+        "Spring crocus flowers have slender petals in purple white or yellow with a distinctive orange center unlike many broader petaled flowers.",
+        "Spring crocus flowers have slender grass-like leaves and cup-shaped purple or white petals with a bright orange stigma.",
+        "The spring crocus has slender purple or white petals with a bright orange stigma center."
+    ],
+    "globe thistle": [
+        "Globe thistles have round, spiky blue or purple flower heads and silvery stems, unlike most flowers with softer petals and varied colors.",
+        "Globe thistles have round, spiky blue or purple flower heads with stiff, silvery stems and thistle-like leaves.",
+        "Globe thistles have round, spiky blue or purple flower heads on tall stems with gray-green, prickly leaves.",
+        "A globe thistle has round, spiky blue or purple flower heads with a unique, thistle-like appearance among other flowers."
+    ],
+    "bolero deep blue": [
+        "The bolero deep blue flower has vibrant deep blue petals and a distinctive ruffled shape unlike most other flowers.",
+        "A bolero deep blue flower has vibrant deep blue petals with a striking contrast against its dark green foliage.",
+        "The bolero deep blue flower has vibrant deep blue petals with a striking yellow center and a compact, rounded shape.",
+        "The flower bolero deep blue has uniquely vibrant deep blue petals with a striking yellow center."
+    ],
+    "tiger lily": [
+        "Tiger lilies have bright orange petals with dark spots and long curving stamens sticking out from the center.",
+        "Tiger lilies have distinctive orange petals with dark spots and curved tips unlike any other flower.",
+        "Tiger lilies have bright orange petals with dark spots and long curved stamens sticking out from the center.",
+        "Tiger lilies have bold orange petals with dark spots and curved tips, unlike simpler petal shapes and colors in other flowers."
+    ],
+    "moon orchid": [
+        "Moon orchids have large round petals and a distinct lip while other flowers vary in shape size and petal arrangement.",
+        "A flower moon orchid has delicate white petals with a yellow center and long slender leaves among other flowers.",
+        "Moon orchids have large white petals with a yellow and purple center and long slender leaves growing from the base.",
+        "Moon orchids have large, round, flat white petals with a yellow center and long, arching stems with glossy green leaves."
+    ],
+    "gaura": [
+        "Gaura flowers have delicate, butterfly-like petals on long, slender stems with a mix of white and pink hues.",
+        "Gaura flowers have delicate, butterfly-like petals on long stems, usually white or pink, with a light and airy appearance.",
+        "Gaura flowers have long slender stems with delicate white or pink petals that flutter like butterflies in the breeze.",
+        "Gaura flowers have delicate, long stems with small white or pink blossoms that flutter like butterflies in the breeze."
+    ],
+    "japanese anemone": [
+        "A Japanese anemone has delicate, cup-shaped pink or white petals with a yellow center and tall, slender stems.",
+        "Japanese anemones have white or pink petals with yellow centers and grow on tall slender stems with dark green lobed leaves.",
+        "Japanese anemones have delicate white or pink petals with yellow centers and tall slender stems with deeply lobed leaves.",
+        "Japanese anemones have distinctive central clusters of yellow stamens surrounded by slightly overlapping petals in white or pink shades."
+    ],
+    "foxglove": [
+        "Foxgloves have tall spikes of tubular bell-shaped flowers in pink purple or white unlike flat or clustered blooms of many other flowers.",
+        "Foxglove flowers have tall spikes of tubular bell-shaped blooms in pink purple or white with spotted throats inside.",
+        "Foxglove flowers have tall spikes with tubular bell-shaped blooms in pink purple or white often with spotted throats inside.",
+        "Foxglove flowers are tall with tubular bell-shaped blooms in pink purple or white often spotted inside hanging from a central spike."
+    ],
+    "bougainvillea": [
+        "Bougainvillea flowers are vibrant and papery with bright pink purple or red bracts surrounding small white or yellow centers.",
+        "Bougainvillea flowers have vibrant papery bracts in pink, purple, or red surrounding small white or yellow true flowers.",
+        "Bougainvillea has vibrant papery bracts in pink purple or red surrounding small white flowers with thorny vines.",
+        "Bougainvillea has vibrant papery bracts surrounding small white flowers while most other flowers have soft petals as their main feature."
+    ],
+    "camellia": [
+        "A camellia flower has glossy dark green leaves and large, showy blooms with layered petals in shades of pink, red, or white.",
+        "Camellias have glossy dark green leaves and large symmetrical blooms with many petals, often in shades of pink, red, or white.",
+        "Camellias have glossy dark green leaves and showy symmetrical blooms with layers of petals often in pink red or white colors.",
+        "Camellias have glossy dark green leaves and symmetrical rosette-shaped blooms with layered petals in shades of pink red or white."
+    ],
+    "mallow": [
+        "Mallows have round, hibiscus-like flowers with five petals, often pink or purple, and heart-shaped leaves with toothed edges.",
+        "Mallows have distinct five-petaled blooms with a central column of stamens, often in pink or purple, unlike simpler petal structures in other flowers.",
+        "Mallow flowers have distinctive five-petaled blooms with prominent veins and a central column of fused stamens.",
+        "Mallow flowers have distinctive deeply notched petals with a central column of fused stamens and pistils."
+    ],
+    "mexican petunia": [
+        "Mexican petunias have vibrant purple trumpet-shaped flowers with long green leaves and grow in upright clumps.",
+        "Mexican petunias have trumpet-shaped purple flowers with smooth green leaves while others vary in color shape and leaf texture.",
+        "The Mexican petunia has vibrant purple trumpet-shaped flowers with dark green leaves and grows in upright clumps.",
+        "Mexican petunia flowers have distinctive trumpet-shaped blooms with five evenly spaced deep purple or blue petals."
+    ],
+    "bromelia": [
+        "Bromelia flowers have thick, spiky leaves and vibrant bracts, unlike typical flowers with softer petals and simpler leaf structures.",
+        "Bromelia flowers have thick, spiky leaves and bright, tubular blooms often growing in a rosette shape with vibrant colors like red or pink.",
+        "Bromelia flowers have a distinctive central spike surrounded by brightly colored bracts that form a star-like rosette.",
+        "Bromelia flowers have thick, spiky petals with vibrant colors and a central cone-like structure surrounded by stiff, overlapping bracts."
+    ],
+    "blanket flower": [
+        "Blanket flowers have bright red or yellow petals with dark red or brown centers and long slender stems.",
+        "Blanket flowers have bright daisy-like petals with red or yellow tips and dark centers, unlike simpler or differently shaped blooms.",
+        "Blanket flowers have bright red and yellow daisy-like petals with a raised dark red or brown center and long slender green leaves.",
+        "A blanket flower has bright red and yellow petals with a dark center, resembling a daisy with vibrant, warm colors."
+    ],
+    "trumpet creeper": [
+        "The trumpet creeper has large, orange-red, trumpet-shaped flowers, while others vary in color, shape, and size like daisies or roses.",
+        "A trumpet creeper has large orange or red trumpet-shaped flowers with long tubes and flared ends growing on climbing vines.",
+        "The trumpet creeper has large, orange-red trumpet-shaped flowers with yellow throats and grows on climbing vines.",
+        "The trumpet creeper has large orange-red trumpet-shaped flowers with five flaring lobes and long stamens extending beyond the petals."
+    ],
+    "blackberry lily": [
+        "The blackberry lily has orange speckled petals and clusters of blackberry-like seed pods after blooming.",
+        "The blackberry lily has distinctive blackberry-like clusters of shiny black seeds after its orange speckled flowers fade.",
+        "The blackberry lily has star-shaped orange flowers with red spots and long slender leaves resembling an iris.",
+        "The blackberry lily has striking orange speckled petals and clusters of blackberry-like seed pods after blooming."
+    ]
+}

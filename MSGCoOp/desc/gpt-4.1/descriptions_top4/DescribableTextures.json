@@ -1,0 +1,284 @@
+{
+    "banded": [
+        "Banded textures show distinct parallel lines or stripes differing in color or shade across the surface easily recognizable visually.",
+        "A banded texture shows parallel lines or stripes with alternating colors or shades creating a distinct pattern in materials.",
+        "Banded textures show alternating light and dark stripes distinct from other textures through their clear repetitive linear patterns and uniform spacing.",
+        "A banded texture shows distinct parallel lines while others may have spots stripes or random patterns differing in appearance significantly."
+    ],
+    "blotchy": [
+        "Blotchy textures show irregular patches of color or shading creating a mottled appearance unlike smooth or uniform patterns.",
+        "Blotchy textures show irregular color patches unlike smooth uniform or finely detailed ones which have consistent patterns across surfaces.",
+        "Blotchy textures show irregular patches of color or shade varying across the surface making them distinct from uniform patterns.",
+        "A blotchy texture appears irregular with patches of different colors or shades scattered unevenly across the surface."
+    ],
+    "braided": [
+        "Braided textures show interwoven strands forming complex patterns distinct from smooth or granular surfaces aiding easy visual recognition among textures.",
+        "A braided texture appears as interwoven strands forming a complex pattern distinct from smooth or granular surfaces in appearance.",
+        "A braided texture shows interwoven strands unlike smooth wavy or spotted textures which have uniform patterns and colors.",
+        "A braided texture appears as interwoven strands creating a complex pattern with a distinct crisscross design and layered appearance."
+    ],
+    "bubbly": [
+        "Bubbly textures show rounded raised areas unlike smooth flat or rough jagged ones in appearance and feel.",
+        "A bubbly texture appears as numerous small raised dots giving a frothy appearance similar to foam or bubbles on liquid.",
+        "A bubbly texture appears as numerous small round shapes clustered together giving a frothy look to the surface.",
+        "Bubbly textures feature rounded shapes with varying sizes and clear separations making them easily distinguishable from other textures visually."
+    ],
+    "bumpy": [
+        "Bumpy textures have irregular surfaces with noticeable protrusions and depressions differing from smooth flat or uniformly patterned textures significantly.",
+        "A bumpy texture has irregular protrusions unlike smooth flat or wavy textures which have even surfaces and consistent patterns respectively.",
+        "A bumpy texture appears uneven with raised areas and irregularities differing from smooth surfaces in visual and tactile qualities.",
+        "A bumpy texture appears with irregular raised areas creating a rough uneven surface distinct from smooth ones easily."
+    ],
+    "chequered": [
+        "A chequered texture has a grid of alternating squares unlike smooth wavy or spotted textures which lack this pattern.",
+        "A chequered texture features a pattern of alternating light and dark squares resembling a chessboard in appearance.",
+        "A chequered texture appears as a pattern of alternating light and dark squares forming a grid like chessboard easily recognizable.",
+        "Chequered textures feature alternating light and dark squares forming a grid pattern easily distinguishable from other textures by this unique arrangement."
+    ],
+    "cobwebbed": [
+        "Cobwebbed textures are characterized by thin intersecting lines creating irregular patterns that resemble spider webs in appearance and structure.",
+        "Cobwebbed textures appear thin and intricate with intersecting lines unlike solid smooth or rough surfaces with uniform patterns and colors.",
+        "A cobwebbed texture appears intricate with thin intersecting lines creating a delicate network resembling spider webs in appearance.",
+        "Cobwebbed textures appear as thin irregular lines forming complex interconnected patterns resembling spider webs in appearance."
+    ],
+    "cracked": [
+        "Cracked textures show distinct lines and separations in surfaces distinguishing them from smoother or more uniform textures easily.",
+        "Cracked textures show deep irregular lines while others may be smooth bumpy or have uniform patterns and colors instead.",
+        "Cracked textures show irregular lines and gaps distinguishing them from smooth or uniform surfaces in various materials easily.",
+        "Cracked textures uniquely show irregular lines and separations indicating surface damage not seen in other textures types simply."
+    ],
+    "crosshatched": [
+        "Crosshatched textures feature intersecting lines creating grid patterns unlike smooth or wavy textures which lack such structured designs.",
+        "Crosshatched textures feature intersecting lines creating a grid pattern distinct for easy recognition among various texture types in images.",
+        "A crosshatched texture appears as intersecting lines creating a grid pattern resembling a woven fabric or mesh structure visually.",
+        "Crosshatched textures show intersecting lines forming a grid pattern distinguishing them visually from other texture types easily."
+    ],
+    "crystalline": [
+        "Crystalline textures appear structured with clear edges unlike smooth soft or rough irregular textures that lack defined patterns and shapes.",
+        "Crystalline textures show sharp defined edges regular patterns and clear repetitive structures distinguishing them from others easily.",
+        "Crystalline textures appear as shiny regular patterns with sharp edges and clear boundaries distinguishing them from other textures easily.",
+        "Crystalline texture appears as clear structured patterns with sharp edges and reflective surfaces resembling ice or gemstones in appearance."
+    ],
+    "dotted": [
+        "Dotted textures are recognized by evenly spaced small distinct spots creating a patterned appearance different from other textures visually.",
+        "A dotted texture appears as small separated spots scattered across a surface creating a distinct pattern easily distinguishable visually.",
+        "A dotted texture appears as small evenly spaced dots creating a pattern across the surface area visually distinct from others.",
+        "A dotted texture shows small separated spots unlike continuous patterns in striped or wavy textures which have unbroken lines."
+    ],
+    "fibrous": [
+        "Fibrous textures appear stringy and elongated unlike smooth shiny or granular ones which have different surface patterns and structures.",
+        "Fibrous textures are characterized by long thin interwoven strands creating a rough uneven surface distinct from other textures.",
+        "Fibrous textures appear as long thin strands or fibers interwoven creating a rough uneven surface distinct from smooth ones.",
+        "Fibrous textures uniquely show long interwoven strands creating a distinct linear and layered appearance unlike other textures."
+    ],
+    "flecked": [
+        "A flecked texture shows small scattered spots unlike smooth solid or uniformly patterned textures which lack such distinct irregularities in appearance.",
+        "Identify flecked texture by spotting irregular scattered spots or specks across the surface distinguishing it from uniform patterns easily.",
+        "Flecked textures are characterized by small irregular spots scattered across a surface creating a distinctive speckled appearance easily recognizable.",
+        "A flecked texture appears as small scattered spots or patches on a surface creating a speckled appearance in various colors."
+    ],
+    "freckled": [
+        "Freckled textures show small brown spots on skin unlike smooth or rough textures which lack such distinct markings entirely.",
+        "Freckled textures show small irregular brown spots on lighter skin areas differing from smooth or uniformly colored textures for easy identification.",
+        "Freckled textures show small brown spots scattered on a lighter background distinguishing them from other textures easily.",
+        "A freckled texture appears as small brown spots scattered across a lighter skin tone resembling scattered pepper."
+    ],
+    "frilly": [
+        "Frilly textures have ruffled edges unlike smooth flat or rough bumpy textures which lack such intricate detailed patterns and designs.",
+        "Frilly textures are characterized by their ruffled layered appearance creating a soft and delicate visual effect easily distinguishable from others.",
+        "Frilly textures appear delicate with ruffled edges and intricate patterns distinguishing them from smoother or coarser types easily.",
+        "A frilly texture appears delicate with ruffled edges and layered folds resembling soft fabric or petal edges in nature."
+    ],
+    "gauzy": [
+        "Gauzy textures appear thin airy and translucent unlike dense heavy or opaque ones which block light and lack transparency completely.",
+        "Gauzy textures are thin airy translucent with fine mesh patterns easily distinguished from dense heavy materials by their light airy appearance.",
+        "A gauzy texture appears thin airy and translucent resembling delicate fabric with a soft airy appearance and subtle sheen.",
+        "A gauzy texture appears translucent airy and delicate with a fine meshed structure easily distinguishable from others visually."
+    ],
+    "grid": [
+        "Grid texture shows regular intersecting lines unlike natural textures which have irregular patterns and varied coloration in appearance.",
+        "Grid textures feature regular intersecting lines forming uniform squares or rectangles easily distinguishing them from other varied textures in images.",
+        "A grid texture shows regular intersecting lines forming squares or rectangles easily distinguishable from other texture types in images.",
+        "A grid texture uniquely features intersecting lines forming consistent square or rectangular patterns unlike other textures."
+    ],
+    "grooved": [
+        "Grooved textures show linear patterns with consistent spacing and depth distinguishing them from other textures in visual analysis easily.",
+        "A grooved texture appears as parallel lines creating a pattern that feels ridged to the touch in various materials.",
+        "Grooved textures show linear patterns and ridges unlike smooth or bumpy surfaces which lack such distinct linear features and depth.",
+        "Grooved textures show parallel lines with consistent spacing creating a pattern that feels ridged to touch visually distinct from others."
+    ],
+    "honeycombed": [
+        "Honeycombed textures feature hexagonal patterns unlike smooth shiny or rough bumpy surfaces seen in other textures in images.",
+        "Honeycombed textures feature hexagonal patterns with uniform shapes and sizes creating a distinctive grid like appearance for easy recognition.",
+        "A honeycombed texture appears as a series of hexagonal cells closely packed resembling a bees honey storage structure in nature.",
+        "A honeycombed texture appears as a network of hexagonal cells resembling a bees nest structure in a uniform pattern."
+    ],
+    "interlaced": [
+        "Interlaced textures show overlapping lines creating a woven pattern distinct from other textures through their intersecting design and visual complexity",
+        "An interlaced texture appears as alternating layers woven together creating a complex pattern with varied visual depth and structure.",
+        "Interlaced textures show a pattern where elements cross over each other creating a woven look distinct from other textures types.",
+        "Interlaced textures show alternating lines of different colors while others may have uniform patterns or random color distributions throughout."
+    ],
+    "knitted": [
+        "Knitted textures show interlocking loops and softness unlike woven which has tight intersecting threads and smoother surface appearance.",
+        "A knitted texture shows interlocking loops forming a fabric pattern distinct from woven or smooth textures in appearance.",
+        "Knitted textures show interlocking loops creating a distinct pattern unlike smooth or woven materials in appearance.",
+        "Knitted textures show interlocking loops creating a patterned surface distinct from woven or smooth materials for easy recognition."
+    ],
+    "lacelike": [
+        "Lacelike textures appear intricate with fine interwoven patterns resembling delicate lacework distinguishing them from other textures easily.",
+        "A lacelike texture appears delicate with intricate patterns unlike smooth solid or rough granular textures which lack such fine detailed designs.",
+        "Lacelike textures are delicate intricate patterns with fine holes and interwoven strands creating a see through lacy appearance easily distinguishable.",
+        "A lacelike texture appears delicate with intricate openwork patterns resembling fine lace with small holes throughout its structure."
+    ],
+    "lined": [
+        "A lined texture appears as parallel or intersecting lines creating a distinct pattern easily distinguishable from other textures by its regularity.",
+        "A lined texture appears as parallel or intersecting lines creating a pattern across the surface in various orientations and densities.",
+        "Lined textures show consistent parallel lines creating a uniform pattern aiding in easy visual recognition among various textures.",
+        "A lined texture uniquely features parallel or intersecting lines creating a distinct pattern not found in other textures."
+    ],
+    "marbled": [
+        "Marbled textures show swirling patterns and color variations unlike uniform or repetitive textures which have consistent appearances throughout.",
+        "Identify marbled texture by its swirling patterns and blend of colors creating a unique stone like appearance in images.",
+        "Marbled textures uniquely show swirling patterns of contrasting colors blending seamlessly in a fluid like manner distinct from others.",
+        "A marbled texture appears with swirling patterns of contrasting colors resembling polished stone surfaces in various designs."
+    ],
+    "matted": [
+        "A matted texture appears fuzzy and nonreflective unlike shiny or smooth textures which are glossy and reflective in appearance.",
+        "A matted texture appears fuzzy with tangled fibers lacking shine and smoothness compared to sleek or polished surfaces.",
+        "Matted textures are characterized by their dense fiber appearance and lack of shine distinguishing them from smoother or glossier surfaces easily.",
+        "A matted texture appears fuzzy with tangled fibers lacking sheen distinguishing it from smoother shinier textures easily."
+    ],
+    "meshed": [
+        "Meshed textures appear interwoven with visible gaps unlike solid smooth or patterned textures which have continuous surfaces or repetitive designs.",
+        "Meshed textures are characterized by interlocking strands forming a grid pattern distinct from other textures by their structured repetitive design.",
+        "A meshed texture appears as a network of intersecting lines forming a grid pattern easily distinguishable from other textures.",
+        "A meshed texture appears as an interwoven grid pattern with consistent spacing and uniform openings throughout its structure."
+    ],
+    "paisley": [
+        "Paisley textures have intricate swirling patterns unlike simpler textures which are more uniform and lack detailed designs in appearance.",
+        "Paisley textures have swirling teardrop shapes with intricate patterns making them unique and easily distinguishable from other textures.",
+        "Paisley textures feature swirling teardrop shapes with intricate patterns inside distinguishing them from simpler textures easily.",
+        "Paisley texture features swirling teardrop shapes with intricate patterns and curving lines creating a distinctive ornamental design in fabrics."
+    ],
+    "perforated": [
+        "Perforated textures have small holes evenly spaced across the surface distinguishing them from other texture types easily.",
+        "Perforated textures have holes or openings while others may be smooth rough or have different patterns and colors instead.",
+        "Perforated textures appear as surfaces with small regular holes or openings distinguishing them from other texture types easily.",
+        "Perforated texture appears as a surface with small holes evenly distributed creating a patterned look distinct from other textures."
+    ],
+    "pitted": [
+        "A pitted texture appears as small holes or indentations scattered across a surface giving it a rough uneven look.",
+        "A pitted texture shows small holes or depressions unlike smooth flat or bumpy surfaces that lack such indentations.",
+        "A pitted texture appears with small holes or indentations scattered across the surface making it rough and uneven to touch.",
+        "Pitted textures show irregular holes or depressions giving a rough uneven surface appearance distinct from smooth or patterned textures."
+    ],
+    "pleated": [
+        "Pleated textures show folded layered patterns unlike smooth flat or rough bumpy surfaces in appearance clearly distinguishing them visually.",
+        "A pleated texture appears as folded material with parallel ridges and grooves creating a consistent pattern across the surface.",
+        "Pleated textures show regular folded patterns with visible creases and layered folds distinguishing them from other textures easily.",
+        "Pleated textures show repeated folds with consistent spacing and directionality making them easily distinguishable from other texture types."
+    ],
+    "polka-dotted": [
+        "Polka dotted textures are identified by evenly spaced circular spots on a contrasting background easily distinguishing them visually.",
+        "Polka dotted textures have distinct round spots unlike striped or plain textures which have lines or uniform color respectively.",
+        "Polka dotted textures feature evenly spaced round spots on a contrasting background for easy visual recognition among various textures.",
+        "A polka dotted texture features evenly spaced round spots on a solid background creating a playful and distinctive pattern."
+    ],
+    "porous": [
+        "Porous textures appear with visible holes and gaps allowing air or liquid to pass through easily distinguishing them visually.",
+        "Porous textures appear with visible holes and gaps unlike smooth solid ones which have uniform continuous surfaces without interruptions or openings.",
+        "A porous texture appears as a surface with many small holes or openings allowing passage of air or liquid through it.",
+        "Porous textures show visible holes and gaps allowing light and air passage distinguishing them from solid smooth surfaces easily."
+    ],
+    "potholed": [
+        "A potholed texture shows irregular holes and rough surfaces unlike smooth or uniformly patterned textures which lack such distinct damage marks.",
+        "Potholed textures appear bumpy irregular with visible holes and uneven surfaces distinguishing them from smoother textures easily.",
+        "Potholed textures show irregular sunken areas surrounded by raised edges differing from smooth or uniformly patterned surfaces significantly for easy recognition.",
+        "Potholed textures uniquely show irregular dark spots surrounded by lighter areas indicating wear and damage on surfaces."
+    ],
+    "scaly": [
+        "Scaly textures are characterized by overlapping flat pieces creating a rough surface distinct from smooth or fibrous textures in images.",
+        "Scaly textures appear as small overlapping flat pieces covering a surface resembling fish or reptile skin closely.",
+        "Scaly textures have rough overlapping scales unlike smooth soft or shiny surfaces which appear uniform and lack layered patterns.",
+        "A scaly texture appears rough with overlapping flat pieces resembling fish scales or reptile skin in various colors and sizes."
+    ],
+    "smeared": [
+        "A smeared texture appears blurry and inconsistent unlike sharp clear patterns of other textures in visual appearance analysis.",
+        "Smeared textures show elongated streaks blending colors smoothly unlike sharp defined patterns in other textures for easy visual recognition.",
+        "Smeared textures appear blurry with colors blending together lacking sharp edges and distinct shapes in comparison to others.",
+        "A smeared texture uniquely shows elongated streaks and blurred edges not seen in other texture types clearly."
+    ],
+    "spiralled": [
+        "A spiralled texture shows continuous curved lines unlike flat smooth or randomly dotted textures which lack such patterns.",
+        "Spiralled textures show continuous curved lines forming a central point distinguishing them from other varied texture patterns easily.",
+        "A spiralled texture features continuous curved lines forming a central point with radiating patterns distinguishing it visually among textures.",
+        "A spiralled texture appears as continuous curved lines forming a coil or helix pattern resembling a spring or whirlpool."
+    ],
+    "sprinkled": [
+        "A sprinkled texture appears with scattered small elements unlike smooth or densely packed textures in visual appearance and feel.",
+        "A sprinkled texture appears as small distinct particles scattered unevenly across a surface creating a speckled look easily noticeable.",
+        "A sprinkled texture appears as scattered small particles over a surface creating a speckled appearance distinct from smooth or uniform textures.",
+        "Sprinkled textures feature random small dots scattered unevenly creating a speckled appearance distinct from uniform or patterned textures in images."
+    ],
+    "stained": [
+        "Stained textures show color variations and marks unlike uniform smooth or rough textures which have consistent appearances across the surface area.",
+        "Stained textures show irregular color patches and varied patterns distinguishing them from uniform or structured textures in images easily.",
+        "A stained texture appears with irregular color patches and spots differing from the base material in appearance and hue.",
+        "Stained textures show irregular color patches differing from the main surface making them distinct in appearance among various textures."
+    ],
+    "stratified": [
+        "Stratified textures show layered patterns with distinct horizontal lines and varying shades for easy recognition among diverse textures.",
+        "Stratified textures show layered patterns while others may have uniform random or repetitive designs differing in visual structure and complexity.",
+        "Stratified textures show layered patterns with distinct horizontal lines differing in color or texture from each other visibly.",
+        "A stratified texture shows layered patterns with distinct horizontal bands differing in color or texture across the surface."
+    ],
+    "striped": [
+        "A striped texture features parallel lines of alternating colors creating a regular pattern visually distinct from other textures.",
+        "Striped textures feature parallel lines alternating colors creating a repetitive pattern easily distinguishable from other textures visually.",
+        "A striped texture is identified by parallel lines of varying colors consistently repeating across the surface in a linear pattern.",
+        "Striped textures show parallel lines while others like spotted or wavy have irregular patterns and shapes varying in color and size."
+    ],
+    "studded": [
+        "Studded textures have raised dots or bumps evenly spaced creating a pattern that stands out for easy recognition in images.",
+        "Studded textures have raised dots or points unlike smooth or patterned textures which lack such protrusions and have uniform surfaces.",
+        "A studded texture appears with raised dots or bumps evenly distributed creating a patterned surface distinct from smooth or flat ones.",
+        "A studded texture appears as a surface with small raised dots or bumps scattered across it creating a rough feel."
+    ],
+    "swirly": [
+        "Swirly textures have circular flowing patterns unlike straight lined or spotted textures which are more uniform and less dynamic in appearance.",
+        "Swirly textures feature continuous curved lines forming circular patterns distinct from straight or dotted designs enhancing visual flow and complexity.",
+        "A swirly texture appears with continuous curved lines forming spiral patterns distinct from straight or dotted textures in images.",
+        "A swirly texture appears as continuous curved lines forming circular patterns resembling whirlpools or abstract designs in various materials."
+    ],
+    "veined": [
+        "Veined textures show distinct line patterns unlike smooth rough or spotted ones which have uniform or scattered features respectively.",
+        "A veined texture shows intricate lines resembling veins in leaves or marble creating a detailed pattern across the surface.",
+        "Veined textures show distinct line patterns across surfaces resembling veins in leaves or marble distinguishing them visually from others easily.",
+        "Veined textures show distinct linear patterns that intertwine creating a unique network easily distinguishable from other texture types in images."
+    ],
+    "waffled": [
+        "A waffled texture has a grid pattern with raised squares unlike smooth or rough textures which lack such structured designs.",
+        "Waffled textures show gridlike patterns with raised squares creating a consistent repetitive design easily distinguishable from other textures visually.",
+        "A waffled texture appears with square grid patterns and raised dots distinguishing it from other textures easily.",
+        "A waffled texture uniquely features a grid of intersecting lines creating square or diamond shapes not seen in other textures."
+    ],
+    "woven": [
+        "Identify woven texture by its interlaced patterns creating a distinct crisscross appearance unlike smooth or granular surfaces.",
+        "Woven textures show interlaced patterns unlike smooth shiny or rough bumpy surfaces which lack such structured designs in appearance.",
+        "Woven textures show interlaced patterns with visible threads creating a repetitive geometric structure distinct from other textures in appearance.",
+        "A woven texture shows interlaced threads forming a patterned surface distinct from smooth or rough textures in appearance."
+    ],
+    "wrinkled": [
+        "Wrinkled textures show irregular lines folds and creases distinguishing them from smooth or patterned surfaces easily visible to the eye.",
+        "Wrinkled textures show irregular folds and creases with varied depths and patterns distinguishing them from smooth or structured textures easily.",
+        "A wrinkled texture appears as uneven folds and creases on a surface resembling aged skin or crumpled fabric.",
+        "Wrinkled textures show irregular folds and creases unlike smooth flat or bumpy surfaces which have even or raised patterns respectively."
+    ],
+    "zigzagged": [
+        "Zigzagged textures have sharp angular lines forming repetitive V shapes distinguishing them from smooth or curved patterned textures easily.",
+        "A zigzagged texture features sharp angular lines forming repeated V shapes creating a dynamic and visually striking pattern in images.",
+        "A zigzagged texture shows sharp angular lines unlike smooth or wavy textures which have curved continuous patterns instead.",
+        "Zigzagged textures show repetitive angular patterns that visually stand out due to their distinct alternating peaks and valleys in the surface."
+    ]
+}

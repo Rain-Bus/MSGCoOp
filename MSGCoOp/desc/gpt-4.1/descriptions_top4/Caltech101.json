@@ -1,0 +1,602 @@
+{
+    "face": [
+        "A face is identified by the presence of two eyes above a nose and mouth arranged symmetrically on a head.",
+        "Faces are recognized by symmetrical arrangement of eyes nose and mouth with consistent spatial relationships and smooth skin texture.",
+        "Faces have symmetrical features like eyes nose and mouth arranged predictably unlike other objects which have varied shapes and structures.",
+        "Face images show human faces with clear eyes nose and mouth often centered and distinct from other object shapes and textures."
+    ],
+    "leopard": [
+        "A leopard has a sleek body with distinctive dark rosette spots on golden fur, resembling a large wild cat.",
+        "Leopards have distinctive spotted fur patterns and a feline body shape, unlike most other objects which lack animal features.",
+        "A leopard is identified by its golden fur covered with distinctive black rosette-shaped spots and a muscular, agile body.",
+        "Leopards are recognized by their golden fur covered with distinctive dark rosette spots and a muscular body with a long tail."
+    ],
+    "motorbike": [
+        "Motorbikes have two wheels, a visible frame, and handlebars, unlike most other objects which lack these distinctive features.",
+        "A motorbike is identified by two wheels, a seat, handlebars, and an exposed engine, unlike cars or bicycles.",
+        "A motorbike has two wheels, a seat, handlebars, and a visible engine, often appearing sleek and elongated.",
+        "A motorbike is recognized by its two wheels, exposed engine, handlebars, and elongated seat distinct from cars or bicycles."
+    ],
+    "accordion": [
+        "An accordion is recognized by its pleated bellows, rows of buttons or keys, and rectangular body with metal grills.",
+        "An accordion is recognizable by its pleated bellows, keyboard or buttons, and rectangular shape often held between two hands.",
+        "An accordion looks like a boxy musical instrument with pleated bellows and rows of buttons or keys on each side.",
+        "An accordion is uniquely identified by its pleated bellows and parallel rows of keys or buttons on either side."
+    ],
+    "airplane": [
+        "Airplanes are recognized by their long fuselage, wings extending sideways, tail fin, and often visible engines or landing gear.",
+        "An airplane typically has long wings, a streamlined body, and a tail, distinguishing it from most other objects.",
+        "Airplanes have long wings, a streamlined body, and a tail, unlike most objects which lack these distinctive aerodynamic features.",
+        "Airplanes uniquely have large wings extending from a central fuselage with engines and a tail fin visible in side views."
+    ],
+    "anchor": [
+        "The anchor has a prominent curved shank with flukes at one end and a ring or stock at the other.",
+        "An anchor has a curved metal shape with flukes and a shank, unlike most objects which lack these distinctive features.",
+        "An anchor is recognized by its curved shank, flukes, and stock, forming a symmetrical metal shape designed to grip surfaces.",
+        "Anchors are identifiable by their curved shank, flukes, and stock, which are distinct from other objects in shape and structure."
+    ],
+    "ant": [
+        "Ants are small segmented insects with thin bodies six legs and antennae unlike most objects which lack these features.",
+        "Ants are small segmented insects with narrow waists elbowed antennae and three distinct body parts head thorax and abdomen.",
+        "An ant is small with a segmented body, narrow waist, six legs, and elbowed antennae, unlike most other objects.",
+        "An ant is small slender with a segmented body six legs and antennae unlike larger or more complex shaped objects."
+    ],
+    "barrel": [
+        "Barrels are cylindrical with rounded sides and flat ends, unlike most objects which have varied shapes and surface features.",
+        "A barrel is a large cylindrical container with rounded sides flat ends and metal bands often made of wood.",
+        "A barrel is cylindrical with rounded sides flat circular ends and often features visible hoops or bands around its body.",
+        "A barrel is typically cylindrical with bulging sides flat ends and visible wooden staves often bound by metal hoops."
+    ],
+    "bass": [
+        "Bass can be identified by its elongated body, distinct dorsal fin, and characteristic fish shape compared to other objects.",
+        "Bass are recognized by their elongated body, distinct fins, and characteristic mouth shape, differing from other objects in structure.",
+        "Bass have elongated bodies, distinct fins, and scales, differing from objects with rounder shapes, smoother surfaces, or mechanical features.",
+        "The bass is uniquely identified by its elongated body, distinct dorsal fin shape, and visible gills compared to other objects."
+    ],
+    "beaver": [
+        "Beavers have brown fur, flat tails, and large front teeth, unlike most objects which lack these animal-specific features.",
+        "A beaver can be identified by its flat tail large front teeth brown fur and broad body often near water.",
+        "Beavers are recognized by their flat tails, large front teeth, brown fur, and robust bodies often depicted near water.",
+        "The beaver category features a furry animal with a flat tail, prominent teeth, and often appears near water or wood."
+    ],
+    "binocular": [
+        "Binoculars are typically identified by their two parallel cylindrical tubes joined together, designed for viewing distant objects with both eyes.",
+        "Binoculars are typically two parallel cylindrical tubes joined together with lenses at both ends and a central hinge for adjustment.",
+        "Binoculars are recognized by their paired cylindrical tubes, central hinge, and eyepieces designed for simultaneous use by both eyes.",
+        "Binoculars typically have two parallel cylindrical tubes for lenses, unlike most objects which lack this distinctive dual-tube structure."
+    ],
+    "bonsai": [
+        "Bonsai are miniature trees with detailed branches and leaves, unlike most objects which lack this natural tree-like structure.",
+        "Bonsai can be identified by their miniature tree shape with thick trunks and carefully pruned branches in small pots.",
+        "Bonsai images feature small meticulously shaped trees in pots with dense foliage and visible trunks often against plain backgrounds.",
+        "Bonsai images show small intricately shaped trees in pots often with twisted trunks and dense foliage against simple backgrounds."
+    ],
+    "brain": [
+        "A brain has a wrinkled, convoluted surface and irregular shape, unlike most objects which are smoother and more defined.",
+        "The brain appears as a convoluted, rounded mass with deep grooves and folds, unlike most smooth or angular objects.",
+        "The brain category is recognized by its convoluted surface, symmetrical shape, and prominent grooves and folds unlike other objects.",
+        "A brain appears as a wrinkled, folded mass with symmetrical hemispheres and a distinctive convoluted surface unlike other objects."
+    ],
+    "brontosaurus": [
+        "Brontosaurus images show a large long-necked dinosaur with four legs unlike most other objects which are not prehistoric animals.",
+        "Brontosaurus is identified by its large body, long neck and tail, and four thick legs resembling a classic dinosaur shape.",
+        "Brontosaurus is recognized by its long neck, large bulky body, four thick legs, and long tapering tail resembling a dinosaur.",
+        "Brontosaurus is uniquely identified by its long neck and tail with a large bulky body and four sturdy legs."
+    ],
+    "buddha": [
+        "Buddha is identified by a serene face, elongated earlobes, ushnisha on the head, and often a meditative seated posture.",
+        "Buddha images feature a serene human face or figure with distinct head shapes, unlike other objects which lack these characteristics.",
+        "Buddha images typically show a seated or standing human figure with distinct facial features and often a serene expression.",
+        "Buddha images feature a serene face, elongated earlobes, ushnisha on the head, and often a meditative seated posture."
+    ],
+    "butterfly": [
+        "Butterflies have symmetrical wings with colorful patterns and slender bodies, unlike most objects which lack wings and vibrant patterns.",
+        "Butterflies are recognized by their symmetrical wings with vivid patterns, slender bodies, and antennae, distinct from other objects.",
+        "A butterfly has delicate symmetrical wings with colorful patterns and a slender body, distinct from most other objects.",
+        "A butterfly has two large symmetrical wings with colorful patterns and a slender body with antennae, unlike most objects."
+    ],
+    "camera": [
+        "Cameras typically have a lens, buttons, and a rectangular body, unlike most other objects which lack these features.",
+        "A camera is identifiable by its lens shape, rectangular body, and visible buttons or dials unlike most other objects.",
+        "A camera is recognized by its lens circular shape body buttons and sometimes a visible flash or viewfinder on the front.",
+        "The camera category features boxy shapes with prominent circular lenses and buttons, often appearing metallic or black among objects."
+    ],
+    "cannon": [
+        "A cannon is a large cylindrical object often mounted on wheels with a wide barrel and a sturdy base.",
+        "Cannons are large cylindrical objects often mounted on wheels, distinct from other objects by their barrel shape and metallic surface.",
+        "Cannon images feature large cylindrical barrels, sturdy mounts or wheels, and metallic textures, distinguishing them from other objects.",
+        "A cannon is typically large, cylindrical, and mounted on wheels or supports, often with a wide barrel facing outward."
+    ],
+    "car side": [
+        "Car side images are recognized by their elongated horizontal shape visible wheels windows and roofline distinct from other object categories.",
+        "Car side images show a clear vehicle profile with wheels and windows, unlike other objects which lack these automotive features.",
+        "Car side images show a horizontal rectangular shape with wheels at the bottom and windows along the upper side.",
+        "Car side images show vehicles viewed directly from the side highlighting wheels windows and the overall profile of the car."
+    ],
+    "ceiling fan": [
+        "A ceiling fan has rotating blades attached to a central hub, usually mounted on the ceiling, unlike most other objects.",
+        "A ceiling fan typically has multiple blades radiating from a central hub and is usually mounted flat against a ceiling surface.",
+        "A ceiling fan is recognized by its central hub with multiple evenly spaced blades radiating outward, usually mounted overhead.",
+        "A ceiling fan has rotating blades attached to a central hub, usually mounted on the ceiling, resembling a spinning propeller."
+    ],
+    "cellphone": [
+        "A cellphone is typically rectangular, flat, and compact with a screen and buttons or touchscreen on one side.",
+        "Cellphones are typically rectangular with a screen and buttons, unlike most objects which have varied shapes and visible functional parts.",
+        "Cellphones are typically small rectangular objects with a screen and buttons, often darker in color compared to other objects.",
+        "Cellphones are typically rectangular, flat, and have a screen with buttons or icons, often featuring a speaker and visible edges."
+    ],
+    "chair": [
+        "A chair is identified by its flat seat, backrest, and usually four legs, designed for a person to sit on.",
+        "A chair is recognized by its flat seat, backrest, and typically four legs designed for sitting, distinguishing it from other objects.",
+        "A chair typically has a flat seat, a backrest, and four legs, designed for sitting and supporting a person.",
+        "Chairs typically have a flat seat, a backrest, and legs, distinguishing them from other objects with different shapes."
+    ],
+    "chandelier": [
+        "Chandeliers are recognized by their ornate branching arms, multiple light sources, and hanging decorative elements often arranged symmetrically.",
+        "Chandeliers have multiple arms or branches with hanging lights or ornaments, unlike most objects which lack such elaborate structures.",
+        "A chandelier appears as a decorative hanging light fixture with multiple arms or branches often adorned with crystals or glass.",
+        "A chandelier is identified by its ornate structure with multiple arms or branches holding lights, often hanging from the ceiling."
+    ],
+    "cougar body": [
+        "Cougar body is identified by its large muscular feline shape short tawny fur long tail and distinct facial features.",
+        "Cougar body images show a large muscular feline with tan fur unlike inanimate objects which lack animal shapes and textures.",
+        "Cougar body images show a large muscular feline with a long tail usually in side view without the head visible.",
+        "Cougar body images show a large muscular feline with a long tail tawny fur and no prominent mane or spots."
+    ],
+    "cougar face": [
+        "Cougar face images show a furry feline face with distinct eyes and nose, unlike other objects which lack animal features.",
+        "Cougar face images show a rounded feline face with forward-facing eyes short muzzle and distinctive ear shape unlike most objects.",
+        "Cougar face images show a large wild cat with rounded ears forward-facing eyes and a distinctive short muzzle.",
+        "Cougar face is identified by its rounded ears, broad nose, prominent whisker pads, and feline eyes with a tawny fur color."
+    ],
+    "crab": [
+        "Crabs have a broad flat body with a hard shell and prominent sideways legs unlike most other objects.",
+        "A crab can be identified by its broad flat body, two large claws, and multiple legs radiating from its sides.",
+        "A crab has a rounded body with multiple legs extending sideways and two prominent front claws, resembling a spider.",
+        "Crabs are recognized by their broad flat bodies, prominent sideways legs, and two large front claws distinct from other objects."
+    ],
+    "crayfish": [
+        "Crayfish are recognized by their elongated bodies, prominent pincers, segmented tails, and jointed legs, resembling small lobsters.",
+        "Crayfish have segmented bodies, long antennae, and prominent pincers, unlike most other objects which lack these features.",
+        "Crayfish have a segmented body, large front claws, long antennae, and resemble small lobsters with a hard exoskeleton.",
+        "Crayfish have elongated bodies with segmented tails, prominent pincers, and resemble small lobsters among the various objects."
+    ],
+    "crocodile": [
+        "A crocodile has a long body, rough scaly skin, short legs, and a wide snout filled with sharp teeth.",
+        "A crocodile is identified by its elongated snout, rough scaly skin, short legs, and a long powerful tail.",
+        "Crocodiles are recognized by their elongated snouts rough scaly skin short legs and long powerful tails distinct from other objects.",
+        "Crocodiles have elongated bodies rough scaly skin long jaws and visible teeth unlike most other objects in the dataset."
+    ],
+    "crocodile head": [
+        "A crocodile head is elongated with rough textured skin prominent eyes and visible sharp teeth along the jawline.",
+        "A crocodile head is recognized by its elongated snout, visible sharp teeth, rough textured skin, and prominent eyes.",
+        "A crocodile head is long and flat with rough textured skin, prominent eyes, and visible sharp teeth along the jaw.",
+        "The crocodile head is unique for its long snout with visible sharp teeth and textured scaly skin."
+    ],
+    "cup": [
+        "A cup is typically identified by its cylindrical shape, open top, and often a handle on one side.",
+        "A cup typically has a cylindrical shape with a handle and open top, unlike most other objects with different forms.",
+        "A cup typically appears as a rounded vessel with an open top and a handle, distinct from more complex or flat objects.",
+        "A cup is typically cylindrical with a handle and an open top often appearing smooth and symmetrical compared to other objects."
+    ],
+    "dalmatian": [
+        "A dalmatian is a medium sized dog with a white coat covered in distinct black or dark brown spots.",
+        "Dalmatians are recognized by their white fur covered with distinct black spots and their medium sized athletic dog body shape.",
+        "A dalmatian is identified by its white coat covered with distinct black spots and its overall dog-like body shape.",
+        "Dalmatians have a distinctive white coat with black spots which sets them apart from other objects in the dataset."
+    ],
+    "dollar bill": [
+        "A dollar bill is rectangular, flat, thin, and features detailed printed designs unlike most other objects which are more three-dimensional.",
+        "A dollar bill is a flat rectangular object with intricate patterns and faces, usually greenish and distinct from other items.",
+        "A dollar bill is rectangular, thin, and features detailed printed designs with faces and numbers, unlike most other objects.",
+        "A dollar bill uniquely features rectangular shape, greenish color, and intricate printed patterns resembling currency designs not found on other objects."
+    ],
+    "dolphin": [
+        "Dolphins have streamlined bodies, smooth skin, a dorsal fin, and a distinct beak unlike most other objects in appearance.",
+        "Dolphins are recognized by their streamlined bodies, curved dorsal fins, elongated beaks, and smooth skin, often shown leaping or swimming.",
+        "A dolphin appears as a streamlined aquatic animal with a curved body, distinct dorsal fin, and elongated beak-like snout.",
+        "A dolphin is sleek gray with a curved body, a dorsal fin, and a long beak-like snout, resembling a fish."
+    ],
+    "dragonfly": [
+        "A dragonfly has a long slender body, large transparent wings, and is more delicate and elongated than most other objects.",
+        "Dragonflies are recognized by their long slender bodies, two pairs of large transparent wings, and prominent bulging eyes.",
+        "Dragonflies have long slender bodies, two pairs of large transparent wings, and prominent bulging eyes, unlike most other objects.",
+        "Dragonflies have two pairs of long transparent wings with visible veins and an elongated segmented body distinct from other objects."
+    ],
+    "electric guitar": [
+        "An electric guitar has a solid body, long neck, pickups, and tuning pegs, unlike most everyday objects in appearance.",
+        "An electric guitar is recognized by its solid body, long neck, tuning pegs, pickups, and distinctive curved or angular shape.",
+        "An electric guitar has a solid body, long neck, six strings, and distinctive pickups, often with a shiny or colorful finish.",
+        "An electric guitar has a solid body, long neck, six strings, and distinctive curves, often with visible pickups and knobs."
+    ],
+    "elephant": [
+        "Elephants are recognized by their large size, long trunk, big floppy ears, thick legs, and distinctive tusks.",
+        "Elephants are large gray animals with trunks and big ears, unlike most objects which lack these distinctive features.",
+        "The elephant is large with a long trunk big ears and thick legs making it distinct from most other objects.",
+        "An elephant is large with thick gray skin a long trunk big floppy ears and prominent curved tusks."
+    ],
+    "emu": [
+        "Emus are large flightless birds with long necks and legs, unlike most objects which lack feathers and birdlike features.",
+        "An emu is a large flightless bird with long legs a long neck and shaggy brownish feathers.",
+        "An emu is a large flightless bird with a long neck, long legs, and shaggy brownish feathers.",
+        "Emus are large flightless birds with long necks, long legs, shaggy brown feathers, and a distinctive upright posture."
+    ],
+    "euphonium": [
+        "A euphonium is a shiny brass instrument with a large bell, curved tubing, and three or four piston valves.",
+        "A euphonium has a large flared bell, curved tubing, and valves, unlike most objects which lack these brass instrument features.",
+        "A euphonium is recognized by its large curved brass body, wide bell, and complex arrangement of valves and tubing.",
+        "A euphonium looks like a shiny brass instrument with a wide bell and several valves, similar to a small tuba."
+    ],
+    "ewer": [
+        "An ewer resembles a decorative pitcher or jug with a wide spout and handle, often used for pouring liquids.",
+        "Ewers are recognized by their tall narrow bodies curved spouts prominent handles and often decorative designs distinguishing them from other vessels.",
+        "Ewers typically have a spout and handle with a rounded body, unlike most objects which lack this distinctive pouring shape.",
+        "A ewer is identifiable by its pitcher-like shape with a wide body, narrow neck, and a prominent spout and handle."
+    ],
+    "ferry": [
+        "A ferry is a large boat with multiple windows and decks, unlike most objects which lack such maritime features and structure.",
+        "A ferry is a large boat with multiple windows and decks, often appearing flat and rectangular compared to other objects.",
+        "A ferry is identifiable by its large boat shape, multiple decks, and windows, often carrying vehicles or passengers across water.",
+        "A ferry is recognized by its large boat structure with multiple windows, decks, and often visible passenger or vehicle areas."
+    ],
+    "flamingo": [
+        "A flamingo is a tall bird with long legs a curved neck and distinctive pink or reddish feathers.",
+        "A flamingo is identified by its long neck, long legs, curved beak, and distinctive pink or reddish feathers.",
+        "Flamingos are recognized by their long curved necks, thin legs, pinkish feathers, and distinctive downward-bending beaks.",
+        "Flamingos are tall birds with long legs, curved necks, and pink feathers, unlike most other objects which lack these features."
+    ],
+    "flamingo head": [
+        "A flamingo head is identified by its long curved neck, pale pink color, and large downward-bending beak.",
+        "The flamingo head is long and curved with a distinct downward bend and a prominent beak compared to other objects.",
+        "The flamingo head is unique for its long curved beak with a distinct downward bend and contrasting color pattern.",
+        "The flamingo head is recognized by its long curved beak, slender neck, and distinctive contrasting pink and white coloration."
+    ],
+    "garfield": [
+        "Garfield is an orange cartoon cat with black stripes, large round eyes, and a distinctive chubby body and face.",
+        "Garfield is an orange cartoon cat with black stripes and a round face, unlike most real-life objects or animals.",
+        "Garfield is an orange cartoon cat with black stripes, big eyes, a round face, and a slightly chubby body.",
+        "Garfield is recognized by his orange fur, black stripes, large round eyes, chubby body, and distinctive cartoonish facial expression."
+    ],
+    "gerenuk": [
+        "A gerenuk is a slender antelope with a long neck, long legs, and distinctive large ears compared to other animals.",
+        "Gerenuk have long necks slender legs and a distinctive upright feeding posture unlike most other animals in the dataset.",
+        "A gerenuk is a slender antelope with long legs and neck, often seen standing upright to reach tree leaves.",
+        "Gerenuk are recognized by their long necks slender legs small heads and upright posture unlike other animals in the dataset."
+    ],
+    "gramophone": [
+        "A gramophone is recognizable by its large flared horn and turntable base, unlike most other objects in the dataset.",
+        "A gramophone has a large horn and a turntable, unlike most objects which lack these distinctive audio playback features.",
+        "A gramophone is recognized by its large flared horn, turntable base, and vintage mechanical design unlike modern devices.",
+        "A gramophone has a large horn-shaped speaker, a turntable base, and an overall vintage mechanical appearance compared to other objects."
+    ],
+    "grand piano": [
+        "A grand piano has a large curved body with a lid and visible keys, unlike most objects which lack these features.",
+        "A grand piano is large with a curved body, long lid, visible keyboard, and three legs, unlike most other objects.",
+        "A grand piano is recognized by its large curved body, horizontal strings, visible keyboard, and prominent lid often propped open.",
+        "A grand piano is large with a curved body, flat lid, visible keyboard, and three legs, often appearing glossy."
+    ],
+    "hawksbill": [
+        "Hawksbill features a distinctively patterned turtle shell and beaklike mouth, unlike most other objects with simpler shapes and textures.",
+        "Hawksbill can be identified by its distinctive beak-like mouth and patterned shell, resembling a sea turtle more than other objects.",
+        "The hawksbill resembles a sea turtle with a pointed beak patterned shell and flipper-like limbs among various object shapes.",
+        "Hawksbill is recognized by its distinctive beak shape, patterned shell, and flipper-like limbs, unlike most other objects."
+    ],
+    "headphone": [
+        "Headphones are typically identified by two ear pads connected by a curved band designed to fit over or around the head.",
+        "Headphones are recognized by their circular or oval ear cups connected by a curved band designed to fit over or on the head.",
+        "Headphones typically appear as two ear cups connected by a curved band, often circular or oval, distinct from most objects.",
+        "Headphones are unique for their two ear cups connected by a curved band designed to fit over the top of the head."
+    ],
+    "hedgehog": [
+        "A hedgehog is a small round animal covered in short spines with a pointed nose and small legs.",
+        "A hedgehog is small round and covered in short spines with a pointed nose and small dark eyes.",
+        "A hedgehog has a small rounded body covered in spines with a pointed nose unlike most other objects.",
+        "A hedgehog is recognized by its small rounded body covered in short spines with a pointed snout and tiny feet."
+    ],
+    "helicopter": [
+        "Helicopters have rotating blades on top, a tail rotor, and a distinct elongated body unlike most other objects.",
+        "A helicopter is recognized by its main rotor blades on top, tail rotor, elongated body, and landing skids or wheels.",
+        "A helicopter is identified by its main rotor on top, tail rotor, elongated body, and landing skids or wheels.",
+        "A helicopter has a central body with a large main rotor on top and a smaller tail rotor at the rear."
+    ],
+    "ibis": [
+        "An ibis is a long-legged bird with a downward-curved beak and slender body, distinct from most other objects.",
+        "An ibis is identified by its long curved bill slender neck and legs and overall elegant wading bird shape.",
+        "The ibis is recognized by its long downward curved bill slender neck long legs and overall white or dark plumage.",
+        "Ibis have long curved beaks and slender legs, unlike most objects which lack these distinctive bird features."
+    ],
+    "inline skate": [
+        "Inline skates are recognized by their boot shape with a straight line of small wheels attached underneath the sole.",
+        "Inline skates have multiple small wheels aligned in a single row under a boot, unlike other objects in the dataset.",
+        "An inline skate is identified by its boot with a straight line of small wheels attached underneath, unlike other footwear.",
+        "Inline skates have wheels aligned in a single row and straps, unlike most objects which lack wheels or this specific structure."
+    ],
+    "joshua tree": [
+        "Joshua tree has spiky branches and clustered leaves, unlike most objects which have smoother shapes and more uniform surfaces.",
+        "Joshua tree has a distinctive branching structure with spiky leaves clustered at the ends of thick irregular limbs.",
+        "A joshua tree has a thick trunk with spiky branches and clusters of sharp leaves, resembling a desert tree.",
+        "A Joshua tree has a thick trunk with spiky branches ending in clusters of sharp leaves, resembling a unique desert silhouette."
+    ],
+    "kangaroo": [
+        "A kangaroo has a large body, long powerful hind legs, a small head, and a long thick tail for balance.",
+        "A kangaroo is identified by its large powerful hind legs long tail upright posture and small head with large ears.",
+        "Kangaroos are recognized by their large powerful hind legs long tail upright posture small head and often visible pouch.",
+        "A kangaroo is uniquely identified by its large powerful hind legs and long thick tail used for balance and movement."
+    ],
+    "ketch": [
+        "Ketch images are distinguished by two masts, sails, and a boat hull, unlike single-masted or non-boat objects.",
+        "Ketch has two masts and sails, distinguishing it from other objects which lack these nautical features and boat structure.",
+        "A ketch can be identified by its two masts with the shorter mizzen mast positioned behind the main mast.",
+        "A ketch is a sailboat with two masts and sails, appearing sleek and elongated compared to other objects."
+    ],
+    "lamp": [
+        "A lamp is typically identified by its bulb or shade on top and a supporting base or stand underneath.",
+        "A lamp is recognized by its upright structure, bulb or shade at the top, and often a visible base or stand.",
+        "A lamp typically has a base and a shade or bulb, often appearing upright and distinct from other objects.",
+        "Lamps typically have a distinct base and shade structure, often featuring a bulb, unlike most other objects with varied forms."
+    ],
+    "laptop": [
+        "A laptop typically appears as a thin rectangular device with a hinged screen and keyboard, often shown open or closed.",
+        "Laptops have a flat rectangular shape with a visible hinge and keyboard, unlike most objects which lack these features.",
+        "A laptop is typically flat and rectangular with a visible hinge connecting a screen and keyboard, often appearing open or closed.",
+        "A laptop is recognized by its rectangular clamshell shape, visible keyboard, screen hinge, and often a touchpad below the keyboard."
+    ],
+    "llama": [
+        "Llamas have long necks, woolly bodies, and distinct faces, unlike most other objects which lack these animal features.",
+        "A llama is recognized by its long neck, woolly body, upright ears, and gentle face, resembling a small camel.",
+        "A llama looks like a large woolly animal with a long neck, upright ears, and a gentle facial expression.",
+        "Llamas are recognized by their long necks, woolly bodies, large ears, and distinctive elongated faces compared to other animals."
+    ],
+    "lobster": [
+        "Lobsters are recognized by their elongated bodies, large claws, segmented tails, and long antennae, unlike most other objects.",
+        "A lobster is identified by its elongated body, large front claws, segmented tail, and hard shell with a reddish or brownish color.",
+        "Lobsters have segmented bodies, long antennae, and large claws, unlike most objects which lack these distinctive crustacean features.",
+        "A lobster has a long segmented body, large claws, and antennae, resembling a spiny armored sea creature."
+    ],
+    "lotus": [
+        "Lotus has broad rounded petals and a central seed pod, unlike most objects which lack such floral structures and symmetry.",
+        "Lotus is recognized by its large rounded petals, central seed pod, and broad flat leaves often seen above water.",
+        "A lotus is identified by its large round petals arranged symmetrically around a central seed pod and broad flat leaves.",
+        "Lotus images show large, rounded petals radiating from a central point, often with broad leaves and water backgrounds."
+    ],
+    "mandolin": [
+        "A mandolin has a teardrop-shaped wooden body, a neck with frets, and multiple tuning pegs, unlike most objects.",
+        "A mandolin is identified by its teardrop-shaped wooden body, round sound hole, and a short neck with tuning pegs.",
+        "A mandolin has a rounded wooden body, a long neck, and strings, resembling a small lute or guitar.",
+        "A mandolin is recognized by its teardrop-shaped wooden body, round sound hole, short neck, and paired tuning pegs."
+    ],
+    "mayfly": [
+        "Mayflies have two or three long thin tail filaments extending from their abdomen which are uncommon in other objects.",
+        "Mayflies have delicate elongated bodies with two or three long tail filaments and large transparent wings unlike most other objects.",
+        "Mayflies are recognized by their delicate elongated bodies large transparent wings held upright and long threadlike tails.",
+        "A mayfly has delicate transparent wings held upright, a slender body, and long threadlike tails distinct from other objects."
+    ],
+    "menorah": [
+        "A menorah is a branched candelabrum with multiple arms, typically arranged symmetrically and often depicted upright and ornate.",
+        "A menorah is identified by its branched candelabrum shape with multiple arms extending from a central stem.",
+        "A menorah is recognized by its central stem with multiple evenly spaced branches each holding a candle or lamp.",
+        "A menorah has a central stem with multiple branches holding candles, unlike most objects which lack this distinctive structure."
+    ],
+    "metronome": [
+        "A metronome is typically a tall narrow device with a swinging pendulum and a scale or markings on its front.",
+        "A metronome typically has a tall triangular shape with a swinging pendulum, unlike most other objects which lack this form.",
+        "A metronome is recognized by its upright rectangular body, swinging pendulum, and a graduated scale for tempo markings.",
+        "A metronome typically looks like a small upright device with a swinging pendulum and a numbered scale on its front."
+    ],
+    "minaret": [
+        "Minarets are tall slender towers with balconies unlike most objects which are shorter wider and lack architectural detailing.",
+        "A minaret is uniquely identified by its tall slender tower structure often featuring balconies and pointed or domed tops.",
+        "A minaret is a tall slender tower with a pointed top often attached to a mosque and featuring small windows.",
+        "Minarets are tall slender towers with balconies and pointed tops often attached to mosques standing out from other objects."
+    ],
+    "nautilus": [
+        "Nautilus is recognized by its spiraled shell with chambered sections and smooth curved lines distinct from other objects.",
+        "Nautilus has a distinct spiral shell with visible chambers, unlike most other objects which lack this unique coiled structure.",
+        "A nautilus has a smooth spiraled shell with distinct chamber lines resembling a coiled seashell among other objects.",
+        "A nautilus is identified by its distinct spiral shell with smooth chambers and striped patterns, resembling a coiled seashell."
+    ],
+    "octopus": [
+        "An octopus has a rounded body and multiple long arms, unlike most objects which have distinct shapes and lack tentacles.",
+        "An octopus is recognized by its bulbous head, eight long flexible arms, and lack of a rigid skeleton or shell.",
+        "An octopus has a rounded body with eight long flexible arms radiating outward, often appearing soft and fluid in shape.",
+        "An octopus is identified by its bulbous head and eight long flexible arms radiating from its body."
+    ],
+    "okapi": [
+        "An okapi has zebra-like striped legs, a horse-like head, and a dark brown body with white markings.",
+        "An okapi has zebra-like striped legs, a horse-like body, and a long neck, unlike most other animals.",
+        "An okapi looks like a horse-sized animal with a dark body, striped legs, and a face similar to a giraffe.",
+        "Okapis have zebra-like striped legs, a horse-shaped head, and a dark brown body, making them uniquely recognizable."
+    ],
+    "pagoda": [
+        "A pagoda has a tiered tower structure with multiple eaves, often resembling an ornate temple or religious monument.",
+        "Pagodas have tiered roofs with upward-curving eaves and vertical symmetry, unlike most other objects which lack these architectural features.",
+        "A pagoda is identified by its tiered tower structure with multiple eaves and upward curving roofs distinct from other objects.",
+        "Pagodas are recognized by their tiered roofs, upward-curving eaves, and multi-level tower structure distinct from other architectural forms."
+    ],
+    "panda": [
+        "Pandas have distinctive black and white fur, round faces, and large dark eye patches unlike most other objects or animals.",
+        "Pandas are recognized by their black and white fur, round face, large dark eye patches, and robust body shape.",
+        "A panda is identified by its black and white fur, round face, large dark eye patches, and stocky body.",
+        "A panda has a round face, black eye patches, black limbs, and a white body, resembling a cuddly bear."
+    ],
+    "pigeon": [
+        "Pigeons are recognized by their plump bodies small heads short necks grayish feathers and distinct wing and tail patterns.",
+        "Pigeons have a compact body, small head, and feathers, unlike most objects which lack organic shapes and textures.",
+        "A pigeon can be identified by its plump body, small head, short legs, and iridescent feathers around the neck.",
+        "A pigeon appears as a medium-sized bird with a plump body, small head, short legs, and often grayish feathers."
+    ],
+    "pizza": [
+        "Pizza is typically round flat with a textured surface featuring toppings unlike most other objects which have distinct shapes and surfaces.",
+        "Pizza is typically round with a flat base, topped with melted cheese, tomato sauce, and visible toppings like pepperoni or vegetables.",
+        "Pizza appears as a round flat object with a textured surface often showing slices cheese tomato sauce and various toppings.",
+        "Pizza is typically round with a flat crust, topped with melted cheese, tomato sauce, and various visible toppings arranged in patterns."
+    ],
+    "platypus": [
+        "Platypus has a duck-like bill webbed feet and a flat tail unlike most other objects which lack these features.",
+        "A platypus has a duck-like bill webbed feet flat tail and a furry body unlike most other animals.",
+        "A platypus looks like a small furry animal with a duck-like bill webbed feet and a flat tail.",
+        "The platypus is recognized by its duck-like bill webbed feet flat tail and unique body shape unlike other animals."
+    ],
+    "pyramid": [
+        "Pyramids have a distinct triangular shape with flat faces and pointed tops, unlike most other objects with varied forms.",
+        "A pyramid has a distinct triangular shape with a pointed apex and a broad base, unlike other objects.",
+        "The pyramid appears as a triangular or trapezoidal structure with straight edges and a broad base tapering to a point.",
+        "A pyramid is identified by its triangular sides meeting at a single point and a broad flat base, forming a geometric shape."
+    ],
+    "revolver": [
+        "A revolver is a small handheld firearm with a short barrel and a rotating cylinder containing multiple bullet chambers.",
+        "A revolver is identified by its cylindrical chamber, short barrel, and distinct grip, unlike most other objects.",
+        "A revolver has a distinct cylindrical chamber and barrel, unlike most objects which lack these mechanical and metallic features.",
+        "A revolver is recognized by its cylindrical chamber, short barrel, trigger, and grip, forming a compact, metallic handgun shape."
+    ],
+    "rhino": [
+        "The rhino category features large bulky animals with thick skin one or two horns on their snouts and short legs.",
+        "Rhinos are large animals with thick skin, a prominent horn on their nose, and a bulky, rounded body shape.",
+        "A rhino is recognized by its large bulky body thick skin prominent horn on its snout and short legs.",
+        "A rhino is large with thick gray skin and one or two prominent horns on its snout, unlike other animals."
+    ],
+    "rooster": [
+        "Roosters have colorful feathers, a comb on their head, wattles under their beak, and a distinctive upright posture.",
+        "A rooster is recognized by its prominent comb, colorful plumage, upright posture, long tail feathers, and distinctive beak shape.",
+        "A rooster is identified by its colorful feathers, prominent comb on its head, and long tail compared to other birds.",
+        "A rooster has a prominent red comb, wattles, colorful feathers, a curved tail, and a distinctive upright posture."
+    ],
+    "saxophone": [
+        "A saxophone has a curved metallic body with keys and a flared bell, unlike most objects which lack these features.",
+        "A saxophone is identified by its curved metallic body, flared bell, numerous keys, and distinctive mouthpiece typically made of brass.",
+        "A saxophone has a curved metallic body, flared bell, numerous keys, and a distinctive mouthpiece, unlike most other objects.",
+        "A saxophone has a curved metallic body with a flared bell, numerous keys, and resembles a shiny bent tube."
+    ],
+    "schooner": [
+        "A schooner is a large sailing ship with two or more tall masts and prominent sails, usually seen on water.",
+        "A schooner is identified by its multiple tall masts with large sails, long narrow hull, and classic sailing ship shape.",
+        "A schooner is recognized by its multiple tall masts with large sails and a long narrow hull typical of sailing ships.",
+        "A schooner has multiple tall masts with sails and a long narrow hull, unlike most other objects which lack these features."
+    ],
+    "scissors": [
+        "Scissors have two symmetrical blades joined at a pivot with handles, unlike most objects which lack this distinct cutting mechanism.",
+        "Scissors are recognized by their two elongated blades joined at a pivot with symmetrical handles forming a distinctive cross shape.",
+        "Scissors have two elongated blades joined at a pivot with looped handles, resembling an X or open V shape.",
+        "Scissors are identified by two elongated blades joined at a pivot with handles forming loops for fingers, resembling an X shape."
+    ],
+    "scorpion": [
+        "A scorpion has a segmented body, pincers in front, and a curved tail with a stinger at the end.",
+        "A scorpion has a segmented tail with a stinger, two pincers, and an elongated body with multiple legs.",
+        "Scorpions have segmented bodies, pincers, and a curved tail, unlike most objects which lack these distinct anatomical features.",
+        "A scorpion is recognized by its segmented body, pincers, and a curved tail with a stinger at the end."
+    ],
+    "sea horse": [
+        "A sea horse has a curled tail, elongated snout, and upright body resembling a chess knight, unlike most other objects.",
+        "A sea horse has a slender curved body with a curled tail and a distinct horse-like head among all objects.",
+        "The sea horse has a curled tail and elongated snout with a horse-like head, unlike any other object in the dataset.",
+        "Sea horses have curled tails, elongated snouts, and upright bodies, unlike most other objects which lack these unique features."
+    ],
+    "snoopy": [
+        "Snoopy is a cartoon dog with a white body, black ears, and a distinctive round nose, often lying on a doghouse.",
+        "Snoopy appears as a cartoon dog with a white body, black ears, and often a playful or relaxed pose.",
+        "Snoopy images feature a cartoon dog with a rounded head, black ears, and a distinctive white body often in playful poses.",
+        "Snoopy images feature a cartoon dog with distinctive black ears and a white body unlike most real-world objects in Caltech101."
+    ],
+    "soccer ball": [
+        "A soccer ball is round with a pattern of black and white patches, making it distinct from most other objects.",
+        "A soccer ball is typically round with a pattern of black and white patches unlike most other objects in the dataset.",
+        "A soccer ball is typically round with a pattern of black and white pentagons and hexagons on its surface.",
+        "A soccer ball is round with a distinctive pattern of black and white pentagons and hexagons covering its surface."
+    ],
+    "stapler": [
+        "A stapler is a small, rectangular object with a hinge, often metallic, designed to press and bind papers together.",
+        "A stapler is typically metallic, elongated, and hinged, unlike most objects which have varied shapes and lack this mechanism.",
+        "A stapler is typically metallic, elongated, and hinged with a flat base and top, often resembling a small lever.",
+        "A stapler is typically metallic, elongated, has a hinged top, and features a visible slot for inserting paper."
+    ],
+    "starfish": [
+        "Starfish are easily identified by their five arms radiating from a central body and their rough, textured surface.",
+        "A starfish has a central body with five radiating arms, creating a symmetrical star shape unlike most other objects.",
+        "Starfish have a distinct five-armed radial shape with rough textured surfaces unlike the smoother or differently shaped objects in the dataset.",
+        "Starfish are recognized by their five radiating arms, rough textured surface, and central disk, unlike most other objects."
+    ],
+    "stegosaurus": [
+        "Stegosaurus is recognized by its large back plates, spiked tail, small head, and overall dinosaur body shape.",
+        "Stegosaurus has a bulky body, small head, long tail, and distinctive large plates along its back compared to other objects.",
+        "A stegosaurus is identifiable by its large body, small head, and distinctive row of upright plates along its back.",
+        "Stegosaurus has a distinctive row of large back plates and a spiked tail, unlike most other objects in the dataset."
+    ],
+    "stop sign": [
+        "A stop sign is easily recognized by its red octagonal shape and bold white uppercase STOP lettering in the center.",
+        "A stop sign is easily identified by its red octagonal shape with bold white STOP lettering in the center.",
+        "A stop sign is red and octagonal with bold white letters, unlike most objects which have varied shapes and colors.",
+        "A stop sign is a red octagonal sign with bold white letters spelling STOP, standing out among mostly non-sign objects."
+    ],
+    "strawberry": [
+        "Strawberries are small red fruits with tiny surface seeds and green leafy tops unlike most other objects in the dataset.",
+        "A strawberry is recognized by its red color, conical shape, small surface seeds, and green leafy cap at the top.",
+        "A strawberry is small red heart-shaped with tiny seeds on its surface and a leafy green cap on top.",
+        "A strawberry is small red heart-shaped with tiny seeds on its surface and a leafy green cap at the top."
+    ],
+    "sunflower": [
+        "Sunflowers are recognized by their large round yellow petals surrounding a dark central disk and a tall green stem.",
+        "Sunflowers have large round yellow petals and a central dark disk unlike most other objects which lack this distinct floral structure.",
+        "A sunflower has a large round dark center surrounded by bright yellow petals and a tall green stem with broad leaves.",
+        "A sunflower has a large round center with bright yellow petals radiating outward resembling a sun among various objects."
+    ],
+    "tick": [
+        "A tick is a small oval creature with eight legs, resembling a tiny spider, often darker and flatter than insects.",
+        "A tick is small round and flat with eight legs and no wings or antennae unlike insects or larger arthropods.",
+        "A tick is small, oval, and flat with eight short legs and lacks wings or antennae, resembling a tiny spider.",
+        "A tick is small, round, and flat with eight legs, unlike most objects which have varied shapes and structures."
+    ],
+    "trilobite": [
+        "Trilobites have a segmented, oval exoskeleton with a distinct three-lobed body plan not seen in other objects.",
+        "Trilobites are recognized by their segmented oval bodies with ridged exoskeletons and three longitudinal lobes running head to tail.",
+        "A trilobite has a segmented oval body with ridges and a distinct head unlike most other objects in the dataset.",
+        "A trilobite has a segmented oval body with a distinct head, ribbed segments, and often a ridged tail section."
+    ],
+    "umbrella": [
+        "An umbrella is identified by its curved canopy shape with radiating ribs and a long central handle, unlike most objects.",
+        "Umbrellas are recognized by their curved canopy shape, central shaft, and radiating ribs often with a handle at the bottom.",
+        "Umbrellas have a curved canopy with spokes and a central handle, unlike most objects which lack this distinctive shape and structure.",
+        "An umbrella is uniquely identified by its curved canopy shape with radiating ribs and a central handle underneath."
+    ],
+    "watch": [
+        "A watch typically appears as a small round or rectangular object with a face and visible straps or bands.",
+        "A watch typically has a round face with numbers or markings and visible hands, unlike most other objects.",
+        "A watch is typically round with a face displaying numbers or markers and has straps or bands attached on either side.",
+        "A watch is typically circular with a face displaying numbers or markers and hands, often attached to a strap or band."
+    ],
+    "water lilly": [
+        "Water lily is recognized by its large round floating leaves and prominent central flower often seen on water surfaces.",
+        "Water lily can be identified by its round floating green leaves and large colorful flowers resting on water surfaces.",
+        "Water lilly has broad flat green leaves and delicate flowers floating on water, distinct from animals vehicles or manmade objects.",
+        "Water lily images feature flat round leaves and delicate flowers floating on water, unlike most objects which lack aquatic context."
+    ],
+    "wheelchair": [
+        "Wheelchairs have large rear wheels, small front wheels, a seat, and handles, unlike most objects which lack this structure.",
+        "A wheelchair is identified by its large wheels, seat, and handles, designed for sitting and personal mobility assistance.",
+        "A wheelchair typically has large rear wheels, smaller front wheels, a seat, and handles, resembling a mobile chair frame.",
+        "A wheelchair is recognized by its large rear wheels, small front casters, seat, and handles arranged in a distinctive chair-like frame."
+    ],
+    "wild cat": [
+        "Wild cats have fur patterns, sharp eyes, pointed ears, and feline body shapes unlike most inanimate or non-feline objects.",
+        "A wild cat can be identified by its fur patterns, sharp eyes, pointed ears, and agile body compared to other objects.",
+        "Wild cat images show fur patterns pointed ears sharp eyes whiskers and feline body shape distinguishing them from other objects.",
+        "Wild cat images show agile feline bodies with pointed ears sharp eyes and patterned fur often in natural outdoor settings."
+    ],
+    "windsor chair": [
+        "A windsor chair has a wooden seat with a rounded back made of spindles and distinct splayed legs unlike other objects.",
+        "A windsor chair has a wooden seat with a rounded back made of multiple thin spindles and simple legs.",
+        "A windsor chair features a wooden seat with a semicircular backrest made of multiple thin spindles and splayed legs.",
+        "A windsor chair is identified by its wooden construction, spindle backrest, splayed legs, and rounded seat, often with armrests."
+    ],
+    "wrench": [
+        "A wrench is a long metal tool with a handle and an open or closed loop at one or both ends.",
+        "A wrench has a long metal body with an open or closed gripping end unlike most other objects with varied shapes.",
+        "A wrench is typically metallic, elongated, with a handle and an open or closed loop at one or both ends.",
+        "A wrench is typically long and metallic with a handle and an open or closed jaw for gripping nuts and bolts."
+    ],
+    "yin yang": [
+        "The yin yang symbol is a circular shape divided into black and white halves with a dot of each color in opposite sides.",
+        "Yin yang is identified by a circular shape split into black and white halves with two contrasting dots inside each half.",
+        "Yin yang features a distinct black and white circular pattern with two dots, unlike most objects which have varied shapes and colors.",
+        "The yin yang symbol features a circular shape divided into black and white teardrop halves, each containing a contrasting dot."
+    ]
+}
