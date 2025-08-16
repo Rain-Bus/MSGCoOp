@@ -1,0 +1,602 @@
+{
+    "707-320": [
+        "Look for a large, long-range jet with a distinctive swept wing and four engines under the wings.",
+        "A 707-320 is a large, long-range jet airliner with four engines and a distinctive tail design.",
+        "The 707-320 has a longer, narrower body and four engines, unlike many twin-engine or smaller aircraft.",
+        "The 707-320 has a long, narrow body with four engines and a distinctive T-tail configuration."
+    ],
+    "727-200": [
+        "Look for a medium-sized jet with a T-tail, three engines, and a distinctive bulbous nose.",
+        "A 727-200 is a medium-sized jet with a distinctive T-tail and three engines, common in passenger flights.",
+        "The 727-200 has a distinctive T-tail and three engines, with a longer fuselage than the 727-100.",
+        "The 727-200 has a distinctive T-tail and three engines, unlike most other aircraft with conventional tails."
+    ],
+    "737-200": [
+        "Look for a medium-sized jet with a rounded nose, T-tail, and two engines under the wings.",
+        "A 737-200 is a mid-sized jet with a distinctive T-tail and two engines mounted on the wings.",
+        "The 737-200 has a distinctive T-tail and shorter fuselage compared to most other aircraft types.",
+        "The 737-200 has a distinctive T-tail and rounded nose, with a shorter fuselage compared to other 737 models."
+    ],
+    "737-300": [
+        "A 737-300 is a medium-sized passenger jet with a distinctive T-tail and two engines under the wings.",
+        "Look for a medium-sized jet with a rounded nose, T-tail, and two engines under the wings.",
+        "The 737-300 has a distinctive T-tail and winglets, with a rounded nose and medium-length fuselage.",
+        "The 737-300 has a distinctive T-tail and shorter fuselage compared to many other aircraft types."
+    ],
+    "737-400": [
+        "Look for a medium-sized jet with a pointed nose, wing-mounted engines, and a slightly curved tail.",
+        "A 737-400 is a medium-sized passenger jet with a distinctive T-tail and two engines under its wings.",
+        "The 737-400 has a medium size, T-tail, and distinctive winglets for easy recognition among aircraft.",
+        "The 737-400 has a distinctive T-tail and rear-mounted engines, unlike many other aircraft designs."
+    ],
+    "737-500": [
+        "The 737-500 is a medium-sized, twin-engine jet with a distinctive T-tail and pointed nose.",
+        "Look for a medium-sized jet with a rounded nose, wing-mounted engines, and a T-tail configuration.",
+        "The 737-500 has a distinctive shorter body and older design compared to newer, longer aircraft types.",
+        "The 737-500 has a distinctive rounded nose and a small, single emergency exit above the rear door."
+    ],
+    "737-600": [
+        "A 737-600 is a medium-sized passenger jet with a distinctive T-tail and swept wings.",
+        "Look for a mid-sized Boeing jet with a pointed nose, two engines, and a distinctive T-tail.",
+        "The 737-600 has a distinctive shorter body compared to larger aircraft and lacks the wide-body design of others.",
+        "The 737-600 has a distinctive short fuselage and winglets, distinguishing it from other Boeing 737 variants."
+    ],
+    "737-700": [
+        "Look for a medium-sized jet with a pointed nose, two engines under wings, and a small tail.",
+        "A 737-700 is a mid-sized passenger jet with a distinctive T-tail and two engines under its wings.",
+        "The 737-700 has a distinctive T-tail and smaller wings compared to many other aircraft types.",
+        "The 737-700 has a distinctive T-tail and straight wings with small winglets."
+    ],
+    "737-800": [
+        "A 737-800 is a medium-sized, twin-engine jet with a pointed nose and straight wings.",
+        "Look for a medium-sized jet with a pointed nose, straight wings, and two engines under the wings.",
+        "The 737-800 has a distinctive T-tail and single-aisle design, unlike many larger wide-body aircraft.",
+        "The 737-800 has a distinctive T-tail and two engines under shorter wings compared to most other aircraft."
+    ],
+    "737-900": [
+        "Look for a medium-sized, twin-engine jet with a pointed nose and slightly swept-back wings.",
+        "A 737-900 is a mid-sized, twin-engine jet with a distinctive T-tail and pointed nose, common in commercial fleets.",
+        "The 737-900 has a distinctive narrow body and wing design compared to wider bodies or different wing shapes.",
+        "The 737-900 has a distinctive short fuselage with winglets and a large tail fin compared to other aircraft."
+    ],
+    "747-100": [
+        "A 747-100 is a large, wide-body jet with a distinctive hump on the front and four engines.",
+        "The 747-100 has a distinctive hump on the top of the fuselage that other aircraft lack.",
+        "Look for a large, wide-body jet with a distinctive hump on the front and four engines.",
+        "The 747-100 has a distinctive hump on top, unlike most other aircraft which have a straight fuselage."
+    ],
+    "747-200": [
+        "A 747-200 is a large, wide-body jet with four engines and a distinctive hump on the front.",
+        "Look for a large, wide-body jet with four engines and distinctive hump on the front.",
+        "The 747-200 has a distinctive hump on the upper deck that other aircraft do not have.",
+        "The 747-200 has a distinctive hump on the fuselage and four engines, making it easy to recognize."
+    ],
+    "747-300": [
+        "A 747-300 is a large, wide-body jet with a distinctive upper deck and three decks on the tail.",
+        "Look for a stretched upper deck and three decks visible from the front when identifying a 747-300.",
+        "The 747-300 has a stretched upper deck compared to other 747 models and most other aircraft.",
+        "The 747-300 has a stretched upper deck that extends further forward than any other 747 variant."
+    ],
+    "747-400": [
+        "A 747-400 is a large, wide-body jet with four engines and a distinctive hump on the front.",
+        "The 747-400 has distinctive hump-like upper deck and four engines, unlike most other aircraft.",
+        "The 747-400 has a distinctive hump, four engines, and winglets, making it easy to recognize.",
+        "The 747-400 has distinctive winglets and a longer upper deck compared to other aircraft."
+    ],
+    "757-200": [
+        "Look for a medium-sized twin-engine jet with a T-tail and a distinctive rounded nose.",
+        "A 757-200 is a medium-sized twin-engine jet with a distinctive T-tail and pointed nose.",
+        "The 757-200 has a distinctive T-tail, two engines, and a medium-length fuselage with a pointed nose.",
+        "The 757-200 has a distinctive T-tail configuration not found on most other aircraft types."
+    ],
+    "757-300": [
+        "Look for a medium-sized, twin-engine jet with a straight wing and a distinctive pointed nose.",
+        "A 757-300 is a medium-sized, twin-engine jet with a longer body than the standard 757.",
+        "The 757-300 has a longer fuselage than the 757-200 and distinctive winglets for easy recognition.",
+        "The 757-300 has a longer fuselage than other 757 models but similar wings and tail."
+    ],
+    "767-200": [
+        "A 767-200 is a wide-body jet with two engines, medium wings, and a distinctive T-tail.",
+        "Look for a large, wide-body jet with two engines and distinctive winglets.",
+        "The 767-200 has a distinctive wide-body design with two engines, unlike many narrow-body or three-engine aircraft.",
+        "The 767-200 has a distinctive wide-body design with two engines mounted under the wings."
+    ],
+    "767-300": [
+        "A 767-300 is a medium-sized wide-body jet with two engines and a distinctive T-tail.",
+        "Look for a large, wide-body jet with two engines and distinctive winglets on the tips.",
+        "The 767-300 has a distinctive wide-body design with two engines, unlike many narrow-body or four-engine aircraft.",
+        "The 767-300 has a distinctive wide-body design with two engines and a prominent T-tail."
+    ],
+    "767-400": [
+        "A 767-400 is a wide-body jet with a longer fuselage and larger wings than most narrow-body planes.",
+        "Look for a wide-body jet with a rounded nose, winglets, and a distinctive stretched fuselage compared to other 767s.",
+        "The 767-400 has a longer fuselage and larger wings compared to other similar aircraft types.",
+        "The 767-400 has a wide-body design with curved wingtips and a distinctive stretched fuselage compared to other aircraft."
+    ],
+    "777-200": [
+        "Look for a large twin-engine jet with a distinctive wide-body design and a pointed nose.",
+        "A 777-200 is a large, wide-body jet with two engines, often used for long-haul flights.",
+        "The 777-200 has a wide body, long wings, and distinctive winglets, making it easily recognizable.",
+        "The 777-200 has a distinctive wide-body design with a large, rounded fuselage and high-wing placement."
+    ],
+    "777-300": [
+        "Look for a large twin-engine jet with a distinctive wide-body and a pointed nose.",
+        "The 777-300 has a long fuselage, large wings, and distinctive tail design with a pointed nose.",
+        "A 777-300 is a large wide-body jet with a distinctive wing design and long fuselage.",
+        "The 777-300 has a longer fuselage and larger wings compared to most other aircraft types."
+    ],
+    "A300B4": [
+        "Look for a wide-body twin-engine jet with a distinctive rounded nose and large winglets.",
+        "The A300B4 has a wide body and twin engines, unlike many smaller or narrow-bodied aircraft.",
+        "The A300B4 has a wide, twin-engine fuselage with high-mounted wings and a distinctive T-tail.",
+        "The A300B4 is a wide-body twin-engine jet airliner with a distinctive high-wing design."
+    ],
+    "A310": [
+        "Look for a wide-body twin-engine jet with a distinctive T-tail and a rounded nose.",
+        "The A310 is a medium-sized, twin-engine jet with a distinctive T-tail and straight wings.",
+        "The A310 has a distinctive twin-engine layout with a T-tail and a medium-sized, pointed nose.",
+        "The A310 has a distinctive wide-body design with a T-tail, unlike many other aircraft."
+    ],
+    "A318": [
+        "An A318 is a small Airbus jet with a sleek body and wing design.",
+        "Look for a small Airbus with a pointed nose and distinct winglets near the wingtips.",
+        "The A318 has a short fuselage, small wings, and a distinctive Airbus tail shape.",
+        "The A318 is smaller than most airliners and has a distinctive short fuselage compared to others."
+    ],
+    "A319": [
+        "Look for a short fuselage, winglets, and a distinctive Airbus tail with a rounded tip.",
+        "The A319 has a shorter fuselage than larger Airbus models but similar wings and tail design.",
+        "The A319 is a smaller, narrow-body jet with a pointed nose and straight wings.",
+        "The A319 has a short fuselage, winglets, and a specific tail design compared to other aircraft."
+    ],
+    "A320": [
+        "An A320 is a medium-sized, twin-engine jet with a pointed nose and straight wings.",
+        "Look for its wide fuselage, winglets, and two engines mounted under the wings.",
+        "The A320 has a distinctive T-tail and winglets that set it apart from most other aircraft.",
+        "The A320 has a distinctive T-tail and winglets, unlike many other aircraft with conventional tail and wing designs."
+    ],
+    "A321": [
+        "Look for a medium-sized Airbus with a wide body and a slightly curved nose.",
+        "An A321 is a medium-sized passenger jet with a wide body and two engines under its wings.",
+        "The A321 has a longer fuselage than other Airbus models with the same wing design.",
+        "The A321 has a longer fuselage than other Airbus models and a distinctive wing design."
+    ],
+    "A330-200": [
+        "Look for a wide-body twin-engine jet with a pointed nose and a distinctive stretched fuselage.",
+        "The A330-200 is a wide-body jet with two engines, similar to other Airbus wide-body aircraft.",
+        "The A330-200 has a longer body and smaller wings compared to most other aircraft types.",
+        "The A330-200 has a wide-body design, two engines, and a distinctive winglet shape for easy recognition."
+    ],
+    "A330-300": [
+        "Look for a wide-body twin-engine jet with a large wing span and a distinctive tail design.",
+        "The A330-300 is a wide-body jet with two engines, larger than most narrow-body aircraft.",
+        "The A330-300 has a wide body and two engines, distinguishing it from smaller or single-aisle aircraft.",
+        "The A330-300 has a wide body, two engines, and a distinctive wing design with winglets."
+    ],
+    "A340-200": [
+        "The A340-200 has a longer fuselage and four engines, distinguishing it from most other aircraft.",
+        "Look for a long, slender fuselage with four engines and a distinctive wing shape.",
+        "The A340-200 has four engines and a longer, more pointed nose compared to most other aircraft.",
+        "A A340-200 is a long-range, four-engine jet with a distinctive wing design and slightly tapered fuselage."
+    ],
+    "A340-300": [
+        "Look for a long, wide-body aircraft with four engines and a distinctive T-tail configuration.",
+        "The A340-300 is a long-range, four-engine jet airliner with a distinctive wide-body design.",
+        "The A340-300 has four engines and a longer, more pointed nose compared to most twin-engine aircraft.",
+        "The A340-300 has four engines, a wide body, and a distinctive wing design with winglets."
+    ],
+    "A340-500": [
+        "The A340-500 is longer and has four engines, unlike most twin-engine or three-engine aircraft.",
+        "Look for a long, slender fuselage with four engines and a distinctive wing design.",
+        "The A340-500 has a long fuselage, four engines under wings, and a distinctive tail shape.",
+        "The A340-500 is a long-range, four-engine jet with a sleek body and extended wings compared to other aircraft."
+    ],
+    "A340-600": [
+        "A A340-600 is a long-range, wide-body jet with four engines and a distinctive stretched fuselage.",
+        "Look for a long, wide-body aircraft with four engines and a distinctive T-tail configuration.",
+        "The A340-600 has four engines and a longer fuselage compared to most other aircraft types.",
+        "The A340-600 has a longer fuselage compared to other A340 models and most other aircraft."
+    ],
+    "A380": [
+        "A380 is a large, wide-body, four-engine passenger aircraft with two main decks.",
+        "Look for a large, double-deck airplane with four engines and a distinctive wide body.",
+        "The A380 has four engines and a distinctive double-deck fuselage that other aircraft lack.",
+        "The A380 is much larger with two full decks and four engines compared to other aircraft."
+    ],
+    "ATR-42": [
+        "The ATR-42 is a twin-engine turboprop aircraft with short wings and a high-wing configuration.",
+        "The ATR-42 has distinct twin turboprop engines and a short, robust fuselage with a high-wing design.",
+        "Look for a twin-engine regional airliner with a distinctive rounded nose and relatively short, stocky fuselage.",
+        "The ATR-42 has fixed landing gear and twin turboprop engines, unlike many jet or retractable-gear aircraft."
+    ],
+    "ATR-72": [
+        "An ATR-72 is a twin-engine turboprop aircraft with short wings and a boxy fuselage.",
+        "Look for a twin-engine turboprop with T-tail, rounded nose, and distinctive winglets.",
+        "The ATR-72 has fixed wings and twin turboprop engines, unlike jet aircraft with retractable landing gear.",
+        "The ATR-72 has a twin-engine turboprop design with short wings and a distinctive high-wing configuration."
+    ],
+    "An-12": [
+        "An An-12 has a large boxy fuselage, four engines under wings, and a high tail with a twin tailboom.",
+        "The An-12 has a distinctive tail with a high-mounted horizontal stabilizer and twin vertical fins.",
+        "The An-12 is a four-engine turboprop cargo aircraft with a distinctive high-wing design.",
+        "The An-12 has a large tail fin and four engines mounted on top of the wings."
+    ],
+    "BAE 146-200": [
+        "The BAE 146-200 is a small, four-engine jet with a boxy shape and no tail-mounted engines.",
+        "Look for a small, wide-body jet with four engines and a distinctive T-tail configuration.",
+        "The BAE 146-200 has a distinctive boxy shape, four engines under wings, and no tail-mounted engines.",
+        "The BAE 146-200 has a distinctive boxy shape and four engines on the rear fuselage, unlike most other aircraft."
+    ],
+    "BAE 146-300": [
+        "The BAE 146-300 is a small, four-engine jet with a boxy shape and no tail-mounted engines.",
+        "Look for a short, wide-body jet with four engines and large windows, often with winglets.",
+        "The BAE 146-300 has a distinctive boxy shape and four engines, unlike many other aircraft.",
+        "The BAE 146-300 has a distinctive boxy shape, four engines under wings, and a high T-tail."
+    ],
+    "BAE-125": [
+        "Look for a small, executive jet with a distinctive swept wing and a T-tail.",
+        "The BAE-125 is a small, executive jet with a streamlined body and short wings.",
+        "The BAE-125 has a distinctive tail design with a small, rounded fin compared to other aircraft.",
+        "The BAE-125 has a small, streamlined body with a distinctive T-tail and straight wings for easy recognition."
+    ],
+    "Beechcraft 1900": [
+        "The Beechcraft 1900 has a distinctive twin-engine turboprop design, unlike many other aircraft types.",
+        "A Beechcraft 1900 is a small twin-engine turboprop aircraft with a short fuselage and fixed landing gear.",
+        "The Beechcraft 1900 has a small twin-engine turboprop design with a high-wing and fixed tricycle landing gear.",
+        "Look for a small twin-engine turboprop with a high-wing and a distinctive tail design."
+    ],
+    "Boeing 717": [
+        "Look for a small twin-engine jet with a T-tail and a rounded nose.",
+        "The Boeing 717 is a twin-engine jet with a T-tail and a distinctive rounded nose.",
+        "The Boeing 717 has a T-tail, two engines under wings, and a distinctive rounded nose.",
+        "The Boeing 717 has a unique T-tail and rear-mounted engines, unlike most other aircraft."
+    ],
+    "C-130": [
+        "A C-130 is a large, four-engine transport aircraft with high wings and a distinctive tail.",
+        "Look for a large, boxy cargo plane with four engines and high wings.",
+        "The C-130 has a distinctive boxy fuselage and high-wing design unlike many other aircraft.",
+        "Its distinctive boxy cargo hold and high wing design set it apart from other aircraft."
+    ],
+    "C-47": [
+        "A C-47 is a twin-engine cargo plane with a distinctive tail and cargo door, common in military use.",
+        "Look for a twin-engine, high-wing cargo plane with a rounded nose and twin tail.",
+        "The C-47 has a distinctive twin-engine, high-wing design with a rounded nose and tail fin.",
+        "The C-47 has a distinctive rounded nose and twin engines, unlike many other aircraft with different shapes."
+    ],
+    "CRJ-200": [
+        "The CRJ-200 is a small regional jet with a short fuselage and two engines under its wings.",
+        "The CRJ-200 has a distinctive small size, rear-mounted engines, and a T-tail, unlike many larger aircraft.",
+        "Look for a small regional jet with two engines, a T-tail, and a distinctive pointed nose.",
+        "The CRJ-200 has a small, streamlined body with winglets and a distinctive tail shape for easy recognition."
+    ],
+    "CRJ-700": [
+        "A CRJ-700 is a regional jet with a small size, two engines, and a pointed nose.",
+        "The CRJ-700 has a distinctive T-tail configuration that is not found on other aircraft types.",
+        "The CRJ-700 has a distinctive small size, rear-mounted engines, and a T-tail configuration for easy recognition.",
+        "Look for a small regional jet with two engines, a T-tail, and a pointed nose."
+    ],
+    "CRJ-900": [
+        "A CRJ-900 is a small regional jet with a pointed nose and two engines under its wings.",
+        "The CRJ-900 has a distinctive T-tail design that is not found on other aircraft types.",
+        "Look for a small regional jet with a pointed nose, large wings, and two engines under the wings.",
+        "The CRJ-900 has a small, streamlined body with high wing-mounted engines and a distinctive tail shape."
+    ],
+    "Cessna 172": [
+        "A Cessna 172 is a small, single-engine, high-wing aircraft with a tail wheel configuration.",
+        "Look for a small, single-engine, high-wing, tricycle-gear plane with a rounded nose and tail.",
+        "Cessna 172s are small, high-wing, single-engine planes, unlike larger jets or multi-engine aircraft with different wing positions.",
+        "Its high-wing, tricycle landing gear, and single-engine configuration are distinctive."
+    ],
+    "Cessna 208": [
+        "A Cessna 208 is a small, single-engine turboprop aircraft with a high-wing design.",
+        "Look for a small, single-engine turboprop with a high-wing and a large rear cargo door.",
+        "The Cessna 208 has a boxy fuselage and turboprop engine, unlike many other aircraft with sleeker designs.",
+        "The Cessna 208 has a high-wing, turboprop design with a large, boxy fuselage and fixed landing gear."
+    ],
+    "Cessna 525": [
+        "A Cessna 525 is a small, twin-engine business jet with a streamlined fuselage and retractable landing gear.",
+        "The Cessna 525 is smaller with a streamlined design compared to larger, bulkier commercial or military aircraft.",
+        "Look for a small, sleek, corporate jet with a distinctive T-tail and short, wide wings.",
+        "The Cessna 525 has a small, streamlined body with a distinctive T-tail and a rear-mounted engine."
+    ],
+    "Cessna 560": [
+        "A Cessna 560 is a small, single-engine, propeller-driven aircraft with a streamlined fuselage.",
+        "Look for a small, white, twin-engine plane with a distinctive T-tail and straight wings.",
+        "A Cessna 560 has a smaller, more streamlined body compared to larger commercial or military aircraft.",
+        "The Cessna 560 has a distinctive small size, high wing, and bubble canopy for easy recognition."
+    ],
+    "Challenger 600": [
+        "A Challenger 600 is a business jet with a sleek, corporate design, distinct from military or commercial airliners.",
+        "The Challenger 600 is a mid-size business jet with a distinctive T-tail, unlike most other aircraft.",
+        "The Challenger 600 has a distinctive T-tail and straight wings with a sleek, corporate jet design.",
+        "Look for a sleek, corporate jet with a T-tail, retractable tricycle landing gear, and a pointed nose."
+    ],
+    "DC-10": [
+        "The DC-10 has three engines, a distinctive T-tail, and a wide-body design with a high wing.",
+        "The DC-10 has three engines, with one mounted on the tail and two on the wings.",
+        "A DC-10 is a large, wide-body jet with three engines and distinctive T-tail configuration.",
+        "Look for a wide-body trijet with a distinctive T-tail and three engines, one on each wing and one on the tail."
+    ],
+    "DC-3": [
+        "A DC-3 is a twin-engine propeller aircraft with a distinctive rounded fuselage and tail.",
+        "Look for a twin-engine, low-wing aircraft with a rounded nose and a distinctive tail design.",
+        "The DC-3 has a distinctive twin-engine, low-wing design with a rounded nose, unlike many other aircraft.",
+        "The DC-3 has a distinctive twin-engine, low-wing design with a rounded nose and tail."
+    ],
+    "DC-6": [
+        "Look for a four-engine, mid-wing, tail-mounted propeller aircraft with a distinctive rounded nose and fuselage.",
+        "A DC-6 is a mid-sized propeller aircraft with a streamlined body and four engines.",
+        "The DC-6 has a distinctive tail design with a rounded top and a forward-sloping stabilizer.",
+        "The DC-6 has a distinctive high-wing, taildragger configuration with a large tail and rounded nose."
+    ],
+    "DC-8": [
+        "A DC-8 is a large, four-engine jet airliner with a long fuselage and swept wings.",
+        "A DC-8 has a long, narrow body, swept wings, and four engines mounted under the wings.",
+        "The DC-8 has a distinct narrow fuselage and four underwing engines, unlike many other aircraft designs.",
+        "The DC-8 has a distinctive narrow fuselage, four engines under swept wings, and a T-tail configuration."
+    ],
+    "DC-9-30": [
+        "Look for a small, twin-engine jet with a T-tail and a pointed nose.",
+        "A DC-9-30 is a medium-sized, twin-engine jet with a T-tail and a pointed nose.",
+        "The DC-9-30 has a distinctive T-tail configuration with a high-mounted horizontal stabilizer.",
+        "The DC-9-30 has a distinctive T-tail and two engines mounted on the rear fuselage."
+    ],
+    "DH-82": [
+        "A DH-82 aircraft is a small, biplane with fixed landing gear and a tail skid.",
+        "The DH-82 has a biplane design with fixed landing gear, unlike many monoplanes with retractable gear.",
+        "The DH-82 aircraft has a unique biplane design with wings of equal span and a fixed landing gear.",
+        "The DH-82 aircraft has a biplane design with fixed landing gear and a distinctive open cockpit."
+    ],
+    "DHC-1": [
+        "Look for a small, single-engine biplane with a fixed tailwheel landing gear and a rounded nose.",
+        "The DHC-1 has a simple, rugged design with fixed landing gear, unlike many aircraft with retractable gears.",
+        "The DHC-1 is a small, single-engine biplane with a wooden frame and fixed landing gear.",
+        "The DHC-1 has a high wing, fixed landing gear, and a distinctive tail design with a large vertical stabilizer."
+    ],
+    "DHC-6": [
+        "The DHC-6 is a twin-engine turboprop aircraft with short wings and a high tail.",
+        "Look for a twin-engine, high-wing aircraft with short, stubby wings and a distinctive tail configuration.",
+        "The DHC-6 has a distinctive twin-engine turboprop design with high wings and a short, stocky fuselage.",
+        "The DHC-6 has twin turboprop engines and a high-wing design, unlike many other aircraft with different configurations."
+    ],
+    "DHC-8-100": [
+        "The DHC-8-100 is a small, twin-engine turboprop aircraft with a short nose and straight wings.",
+        "The DHC-8-100 has a short fuselage, high-wing, and twin turbofan engines mounted on wings.",
+        "Look for a small twin-engine turboprop with a T-tail and fixed landing gear.",
+        "The DHC-8-100 has a distinctive T-tail and high-wing design, unlike many other aircraft."
+    ],
+    "DHC-8-300": [
+        "A DHC-8-300 is a twin-engine regional turboprop aircraft with a distinctive high-wing design.",
+        "Look for a twin-engine turboprop with a T-tail and a distinctive high-wing design.",
+        "The DHC-8-300 has a distinctive T-tail, high wings, and turbofan engines mounted on the rear fuselage.",
+        "The DHC-8-300 has a distinctive turboprop design with large propellers, unlike jet aircraft with smaller engines."
+    ],
+    "DR-400": [
+        "A DR-400 is a small, light aircraft with low wings and a tailwheel, often used for training.",
+        "The DR-400 has a low wing and tricycle landing gear, unlike many other aircraft with high wings or tail wheels.",
+        "Look for a small, low-wing, tricycle-gear airplane with a rounded nose and bubble canopy.",
+        "The DR-400 has a low-wing, tricycle landing gear, and a distinctive bubble canopy for easy recognition."
+    ],
+    "Dornier 328": [
+        "A Dornier 328 is a small twin-engine turboprop aircraft with a conventional design.",
+        "Look for a small twin-engine turboprop with a distinctive T-tail and a rounded nose.",
+        "The Dornier 328 has a distinct turboprop design with a high-wing and twin engines, unlike many jet aircraft.",
+        "The Dornier 328 has a distinctive twin-engine turboprop design with a short nose and high wings."
+    ],
+    "E-170": [
+        "Look for a small, twin-engine jet with a T-tail and a distinctive pointed nose.",
+        "The E-170 is a small, twin-engine jet with a sleek body and a standard tail design.",
+        "The E-170 has a distinctive T-tail and rear-mounted engines, unlike most other aircraft.",
+        "The E-170 has a distinctive T-tail and rear-mounted engines, unlike most other aircraft."
+    ],
+    "E-190": [
+        "The E-190 has a small wing, rear-mounted engines, and a distinctive T-tail configuration.",
+        "The E-190 is a mid-sized commercial jet with a twin-engine configuration and a sleek, modern design.",
+        "Look for a medium-sized jet with a T-tail and winglets, often used for regional flights.",
+        "The E-190 has a distinctive T-tail configuration that is not found on other aircraft types."
+    ],
+    "E-195": [
+        "Look for a medium-sized, twin-engine jet with a pointed nose and a T-tail configuration.",
+        "The E-195 is a narrow-body jet with a T-tail and rear-mounted engines.",
+        "The E-195 has a wide fuselage, rear-mounted engines, and a T-tail configuration for easy identification.",
+        "The E-195 has a longer fuselage and larger wings compared to smaller regional jets."
+    ],
+    "EMB-120": [
+        "Look for a small, twin-engine turboprop with a distinctive T-tail and a rounded nose.",
+        "The EMB-120 is a small twin-engine commuter plane with a rounded nose and straight wings.",
+        "The EMB-120 has a twin-turboprop design with a distinctive T-tail and rounded wingtips.",
+        "The EMB-120 has a distinctive twin-engine turboprop design with a rounded nose and T-tail, unlike many other aircraft."
+    ],
+    "ERJ 135": [
+        "Look for a small, twin-engine jet with a T-tail and a pointed nose.",
+        "The ERJ 135 has a small size, high wing, and rear-mounted engines for easy recognition.",
+        "The ERJ 135 has a distinctive T-tail configuration not found on other aircraft types.",
+        "The ERJ 135 is a small regional jet with a short fuselage and rear-mounted engines."
+    ],
+    "ERJ 145": [
+        "Look for a small, regional jet with a T-tail, rear-mounted engines, and a pointed nose.",
+        "The ERJ 145 has a small size, rear-mounted engines, and a distinctive T-tail, making it easy to recognize.",
+        "An ERJ 145 is a small regional jet with a T-tail and rear-mounted engines.",
+        "Its distinctive T-tail configuration is unique to the ERJ 145 among all aircraft types."
+    ],
+    "Embraer Legacy 600": [
+        "Look for a mid-size executive jet with a T-tail and swept wings.",
+        "The Embraer Legacy 600 is a mid-size business jet with a sleek design and straight wings.",
+        "The Embraer Legacy 600 has a distinctive wide-body design with a T-tail and large winglets.",
+        "The Embraer Legacy 600 has a distinct wide-body design and T-tail, unlike many other aircraft."
+    ],
+    "Eurofighter Typhoon": [
+        "The Eurofighter Typhoon is a twin-engine, delta-wing fighter with canards and a distinctive swept-back tail.",
+        "The Eurofighter Typhoon has a delta-wing design with canards, unlike most aircraft that have conventional wings.",
+        "The Eurofighter Typhoon has a delta-wing design with canards and a twin-engine configuration.",
+        "Look for a delta-wing, canard configuration with twin tails and a distinctive forward-swept wing root."
+    ],
+    "F-16A/B": [
+        "Look for a small, single-engine fighter with a bubble canopy and a pointed nose.",
+        "The F-16A/B is a single-engine fighter jet with a tail fin and a bubble canopy.",
+        "The F-16A/B has a single-engine, bubble canopy, and swept wings with a distinctive tail fin.",
+        "The F-16A/B has a single-engine, delta wing design with a bubble canopy, unlike many multi-engine aircraft."
+    ],
+    "F/A-18": [
+        "Look for a twin-engine, multirole fighter with forward-swept canards and a distinctive tailhook.",
+        "A F/A-18 is a twin-engine, multirole fighter jet with distinctive wing configurations and sharp, angular design.",
+        "The F/A-18 has a distinctive twin tail, forward canards, and a trapezoidal wing shape for easy recognition.",
+        "The F/A-18 has a unique forward-swept leading edge on its wings."
+    ],
+    "Falcon 2000": [
+        "The Falcon 2000 is a twin-engine business jet with a sleek design and mid-size cabin.",
+        "Look for its distinctive twin-engine, swept-wing design with a T-tail and a pointed nose.",
+        "The Falcon 2000 has a distinctive twin-engine layout and a T-tail, unlike many other aircraft.",
+        "The Falcon 2000 has a distinctive T-tail configuration not seen on other aircraft types."
+    ],
+    "Falcon 900": [
+        "Look for a large, three-engine jet with a distinctive T-tail and a pointed nose.",
+        "The Falcon 900 has three engines and a distinctive T-tail, unlike most other aircraft.",
+        "A Falcon 900 is a sleek, business jet with a mid-size body and high wings.",
+        "The Falcon 900 has a distinctive T-tail configuration not found on other aircraft types."
+    ],
+    "Fokker 100": [
+        "Look for a short fuselage with winglets, a T-tail, and a distinctive nose shape.",
+        "A Fokker 100 is a medium-sized jet with a rounded nose, straight wings, and a conventional tail.",
+        "The Fokker 100 has a distinctive T-tail and straight wings, unlike many other aircraft with swept wings.",
+        "The Fokker 100 has a distinct T-tail and large winglets, making it easily recognizable among aircraft."
+    ],
+    "Fokker 50": [
+        "Look for a twin-engine turboprop with a rounded nose and a distinctive high wing design.",
+        "A Fokker 50 is a medium-sized twin-engine turboprop aircraft with a distinctive high wing and tail design.",
+        "The Fokker 50 has a distinctive T-tail configuration that sets it apart from other aircraft.",
+        "The Fokker 50 has a distinctive T-tail and straight wings with small winglets."
+    ],
+    "Fokker 70": [
+        "Look for a medium-sized jet with a T-tail, straight wings, and a distinctive rounded nose.",
+        "The Fokker 70 is a medium-sized twin-engine jet with a sleek body and T-tail design.",
+        "The Fokker 70 has a distinctive rounded nose and small, forward-mounted horizontal stabilizers.",
+        "The Fokker 70 has a distinctive rounded nose and shorter fuselage compared to many other aircraft."
+    ],
+    "Global Express": [
+        "A Global Express is a long-range business jet with a sleek design and pointed nose.",
+        "The Global Express has a distinctive elongated fuselage with a large, pointed nose.",
+        "Look for a sleek, corporate jet with a T-tail and pointed nose, often in corporate liveries.",
+        "The Global Express has a longer, sleeker body and a distinctive T-tail compared to most other aircraft."
+    ],
+    "Gulfstream IV": [
+        "A Gulfstream IV is a sleek, corporate jet with a pointed nose and straight wings.",
+        "Look for a sleek, corporate jet with a distinctive T-tail and pointed nose.",
+        "The Gulfstream IV has a distinctive sleek fuselage, T-tail, and large winglets for easy recognition.",
+        "A Gulfstream IV has a distinctive sleek design with a T-tail, unlike many other aircraft with conventional tails."
+    ],
+    "Gulfstream V": [
+        "A Gulfstream V is a sleek, business jet with a pointed nose and straight wings.",
+        "The Gulfstream V has a distinctive pointed nose and swept wings, unlike many other aircraft.",
+        "Look for a large, sleek business jet with a distinctive T-tail and pointed nose.",
+        "The Gulfstream V has a distinctive T-tail and straight wings with winglets for easy recognition."
+    ],
+    "Hawk T1": [
+        "The Hawk T1 has a short nose, straight wings, and a T-tail, distinguishing it from other aircraft.",
+        "Look for a small, two-seat trainer with a short nose, bubble canopy, and delta wings.",
+        "A Hawk T1 is a small, twin-engine jet trainer with a straight wing and a T-tail.",
+        "The Hawk T1 has a distinctive trainer design with tandem seating and a less streamlined body than combat aircraft."
+    ],
+    "Il-76": [
+        "The Il-76 is a large, military transport aircraft with four engines and a distinctive tail design.",
+        "Look for a large, four-engine cargo plane with a distinctive high T-tail and rear loading ramp.",
+        "The Il-76 has a distinctive boxy shape and high-mounted wings, unlike most other aircraft.",
+        "The Il-76 has a large, boxy fuselage, high-mounted wings, and four turbofan engines for easy recognition."
+    ],
+    "L-1011": [
+        "Look for a large trijet with a distinctive T-tail and three rear-mounted engines.",
+        "The L-1011 is a large, wide-body jet with a distinctive tri-engine layout and a glass nose.",
+        "The L-1011 has a distinctive trijet layout with three engines, unlike most twin-jet or four-engine aircraft.",
+        "The L-1011 has a distinctive trijet engine layout with three engines, one on the tail and two under the wings."
+    ],
+    "MD-11": [
+        "Look for a large, wide-body jet with a distinctive tail and three engines, including one on the tail.",
+        "The MD-11 is a wide-body jet with a distinctive tail and three engines, larger than many other aircraft.",
+        "The MD-11 has a distinctive tail design and larger wings compared to many other aircraft.",
+        "The MD-11 has a distinctive tail design, longer fuselage, and winglets that set it apart from other aircraft."
+    ],
+    "MD-80": [
+        "Look for a short fuselage with winglets, two engines under the wings, and a T-tail configuration.",
+        "The MD-80 has a distinctive T-tail, wing-mounted engines, and a rounded nose for easy recognition.",
+        "The MD-80 is a mid-sized jet airliner with a distinctive T-tail and wing-mounted engines.",
+        "The MD-80 has a distinctive T-tail and rear-mounted engines, unlike many other aircraft with different tail and engine placements."
+    ],
+    "MD-87": [
+        "Look for a twin-engine jet with a T-tail and a pointed nose, shorter than a MD-88.",
+        "The MD-87 is a medium-sized twin-engine jet with a pointed nose and a T-tail configuration.",
+        "The MD-87 has a distinctive T-tail and longer body compared to most other aircraft.",
+        "The MD-87 has a unique short fuselage, T-tail, and winglets, distinguishing it from other aircraft types."
+    ],
+    "MD-90": [
+        "Look for a twin-engine jet with a T-tail and a pointed nose, similar to a smaller MD-11.",
+        "The MD-90 is a medium-sized, twin-engine jet with a sleek body and pointed nose, similar to other MD series planes.",
+        "The MD-90 has a distinctive T-tail configuration not found on other aircraft types.",
+        "The MD-90 has a unique T-tail and rear-mounted engines, distinguishing it from most other aircraft."
+    ],
+    "Metroliner": [
+        "Look for a small, twin-engine plane with a rounded nose and a distinctive tail design.",
+        "The Metroliner is smaller, with a rounded fuselage and twin turboprops, unlike larger jets or propeller planes.",
+        "A Metroliner is a small, twin-engine commuter plane with a short fuselage and fixed landing gear.",
+        "The Metroliner has a small, twin-engine design with a high-wing and a distinctive tail configuration."
+    ],
+    "Model B200": [
+        "The Model B200 has a distinctive high-wing, twin-engine design with a T-tail configuration.",
+        "The Model B200 has a distinctive high-wing, twin-turboprop design unlike many other aircraft types.",
+        "The Model B200 has a distinctive T-tail configuration that sets it apart from other aircraft.",
+        "Look for its distinctive twin-engine, high-wing design with a T-tail and large, rectangular windows."
+    ],
+    "PA-28": [
+        "Look for a small, low-wing, four-seat aircraft with a tricycle landing gear and a single engine.",
+        "A PA-28 is a small, single-engine, four-seat, low-wing aircraft with a tricycle landing gear.",
+        "The PA-28 has a low wing, tricycle landing gear, and a single-engine configuration.",
+        "The PA-28 has a low wing and tricycle landing gear, unlike many other aircraft with high wings or tailwheels."
+    ],
+    "SR-20": [
+        "A SR-20 is a sleek, modern, single-engine aircraft with a streamlined design and retractable landing gear.",
+        "The SR-20 has a sleek, modern design with a low wing and retractable landing gear, unlike many other aircraft.",
+        "The SR-20 has a sleek, modern design with a low-wing configuration and a distinctive tail shape.",
+        "Look for a small, sleek, single-engine plane with a glass cockpit and a distinctive tail design."
+    ],
+    "Saab 2000": [
+        "The Saab 2000 is a twin-engine turboprop aircraft with a distinctive high-wing and rear-mounted tail.",
+        "The Saab 2000 has a high wing, twin turboprop engines, and a distinctive rear-mounted tail cone.",
+        "The Saab 2000 has a high-wing, twin-turboprop design unlike many other aircraft with different configurations.",
+        "Look for a twin-engine turboprop with a high wing and a distinctive T-tail configuration."
+    ],
+    "Saab 340": [
+        "The Saab 340 has a twin-engine turboprop design, unlike many larger jet aircraft or smaller single-engine planes.",
+        "Look for a twin-engine turboprop with a high wing, T-tail, and a distinctive rounded nose.",
+        "The Saab 340 is a twin-engine regional turboprop aircraft with a short fuselage and fixed landing gear.",
+        "The Saab 340 has a twin-turboprop engine, short fuselage, and high-wing design with fixed landing gear."
+    ],
+    "Spitfire": [
+        "A Spitfire is a sleek, single-engine fighter with elliptical wings and a distinctive pointed nose.",
+        "Look for a low-wing monoplane with elliptical wings and a pointed nose.",
+        "The Spitfire has a distinctive elliptical wing shape and slim fuselage with a prominent tail fin.",
+        "Spitfires have elliptical wings and a sleek, streamlined body, unlike many other aircraft with straight or rounded wings."
+    ],
+    "Tornado": [
+        "Look for a twin-engine, swing-wing aircraft with a distinctive T-tail and sharp, angular design.",
+        "A Tornado aircraft is a twin-engine, variable-sweep wing jet with a distinctive delta shape.",
+        "The Tornado has a distinctive blended wing-body design, unlike many other aircraft with separate wings and fuselages.",
+        "The Tornado has a distinctive swing-wing design and twin engines with a unique tail configuration."
+    ],
+    "Tu-134": [
+        "Look for a small, twin-engine jet with a distinctive T-tail and a rounded nose.",
+        "A Tu-134 is a twin-engine jet with a distinctive T-tail and rear-mounted engines.",
+        "The Tu-134 has a distinctive T-tail and forward-swept wings, making it easy to recognize.",
+        "The Tu-134 has a distinctive T-tail and forward-swept wings, unlike most other aircraft."
+    ],
+    "Tu-154": [
+        "The Tu-154 has three engines, a T-tail, and a distinctive rear-mounted engine configuration.",
+        "The Tu-154 has three rear-mounted engines and a distinctive T-tail, unlike most other aircraft.",
+        "A Tu-154 is a medium-range jet with three engines and a distinctive T-tail, common in Soviet-era designs.",
+        "The Tu-154 has a distinctive T-tail and three rear-mounted engines on a wide wing."
+    ],
+    "Yak-42": [
+        "Look for a medium-sized airliner with a T-tail and forward-swept wings.",
+        "A Yak-42 is a medium-sized passenger jet with a distinctive tail and swept-back wings.",
+        "The Yak-42 has a distinctive T-tail, three engines, and a rounded nose, setting it apart from other aircraft.",
+        "The Yak-42 has a distinctive T-tail configuration with a high-mounted horizontal stabilizer."
+    ]
+}
