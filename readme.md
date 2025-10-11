@@ -1,5 +1,8 @@
 # MSGCoOp: Visual-Language Prompt Tuning with Knowledge-guided Context Optimization
 
+[![Paper](https://img.shields.io/badge/arXiv-Paper-brightgreen.svg)](https://arxiv.org/abs/2507.21786)
+[![Code](https://img.shields.io/badge/Code-GitHub-blueviolet.svg)](https://github.com/Rain-Bus/MSGCoOp)
+
 ## Overview of MSGCoOp
 
 We introduce **Multi-prompt Semantic-Guided Context Optimization (MSGCoOp)**, a novel framework that advances CLIP-based prompt tuning for few-shot learning. MSGCoOp addresses the challenge of generalizing to novel classes efficiently, without heavy architectural modifications or expensive computation.
